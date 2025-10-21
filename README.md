@@ -1,6 +1,6 @@
-# Practice Trading Simulator
+# Stockie - AI-Powered Practice Trading Simulator
 
-A comprehensive desktop application for practicing stock trading with real-time market data and AI-powered insights. Learn to trade with $10,000 virtual money without any financial risk!
+A comprehensive web application for practicing stock trading with real-time market data and AI-powered insights. Learn to trade with $10,000 virtual money without any financial risk! Accessible from any device with a web browser.
 
 ## 🚀 Quick Start
 
@@ -26,13 +26,27 @@ npm run build
 ```
 
 ### Run the Application
+
+#### Desktop Version
 ```bash
-# Option 1: Use the startup script
+# Use the startup script (Recommended)
 START_APP.bat
 
-# Option 2: Manual start
-npm run server    # Terminal 1
-npm run electron  # Terminal 2
+# Manual start
+npm run dev:desktop  # Development (frontend + backend + electron)
+npm run build        # Build for production
+npm run electron     # Run desktop app
+```
+
+#### Web Version
+```bash
+# Use the web startup script
+START_WEB.bat
+
+# Manual start
+npm run dev:web      # Development (frontend + backend)
+npm run build:web    # Build for production
+npm run preview      # Preview built app
 ```
 
 ## ✨ Features
@@ -53,16 +67,23 @@ npm run electron  # Terminal 2
 - **Cryptocurrency Support** - BTC, ETH, and 18+ more cryptocurrencies
 - **Fund History Graphs** - S&P 500, NASDAQ, Dow Jones ETF tracking
 
+## 🌐 Web Deployment
+
+For web deployment options, see **[WEB_DEPLOYMENT.md](WEB_DEPLOYMENT.md)**.
+
 ## 📁 Project Structure
 
 ```
-├── app/              # Electron main process
-├── renderer/         # React frontend
+├── renderer/         # React frontend (web app)
 │   ├── components/   # UI components
 │   ├── pages/        # Page components
 │   └── utils/        # Utilities
 ├── server/           # Express API server
-└── dist/             # Built files
+├── dist/             # Built web files
+├── app/              # Electron main process (legacy)
+├── START_APP.bat     # Desktop app launcher
+├── START_WEB.bat      # Web app launcher
+└── vercel.json       # Vercel deployment config
 ```
 
 ## 📚 Full Documentation
@@ -78,8 +99,9 @@ See **[PROJECT_INFO.md](PROJECT_INFO.md)** for complete documentation including:
 
 - **Frontend**: React 18, TypeScript, Tailwind CSS, Recharts
 - **Backend**: Node.js, Express, TypeScript
-- **Desktop**: Electron
+- **Deployment**: Vercel, Netlify, GitHub Pages
 - **APIs**: Yahoo Finance, Google Gemini
+- **Legacy**: Electron (desktop version available)
 
 ## 📝 License
 
