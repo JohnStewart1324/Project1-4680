@@ -338,7 +338,7 @@ Please provide a helpful, accurate response about stocks, market analysis, or in
             <span className="text-white font-bold text-xs">S</span>
           </div>
           <div>
-            <h3 className="text-lg font-bold text-white">Stockie AI</h3>
+            <h3 className="text-base font-bold text-white">Stockie AI</h3>
             <p className="text-xs text-gray-400">Powered by Gemini</p>
           </div>
         </div>

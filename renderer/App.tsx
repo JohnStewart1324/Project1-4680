@@ -281,6 +281,12 @@ function App() {
       <div className="h-screen flex bg-dark-100 text-white">
         {/* Main Content - Full Width */}
         <main className="flex-1 flex flex-col">
+          {/* Stockie Placard */}
+          <div className="flex-none bg-gradient-to-r from-blue-600 to-purple-600 py-4 text-center border-b border-purple-500">
+            <h2 className="text-3xl font-bold text-white tracking-wider">STOCKIE</h2>
+            <p className="text-sm text-blue-100 mt-1">Your AI Stock Investment Assistant</p>
+          </div>
+
           {/* Header */}
           <header className="flex-none border-b border-dark-300 p-4 bg-dark-200">
             <div className="flex items-center justify-between mb-4">
@@ -309,7 +315,7 @@ function App() {
                   <span className="text-sm font-bold">S</span>
                 </div>
                 <span className="font-medium">
-                  Chat with Stockie {stocks.length > 0 ? '' : '(Loading...)'}
+                  Stockie AI {stocks.length > 0 ? '' : '(Loading...)'}
                 </span>
               </button>
             </div>
