@@ -1,10 +1,10 @@
-# StockAI - Real-Time Stock Analysis Application
+# Practice Trading Simulator
 
 ## 📍 Location
 **Path:** `A:\Github\Project1-4680`
 
 ## 🎯 Overview
-StockAI is a comprehensive Electron-based desktop application for real-time stock market analysis with AI-powered insights. It features live data from Yahoo Finance, interactive charts, and an integrated AI chatbot (Stockie) powered by Google's Gemini API.
+Practice Trading Simulator is a comprehensive Electron-based desktop application for learning stock trading with real market data. Start with $10,000 virtual money, build a portfolio, track gains/losses in real-time, and practice trading strategies without financial risk. Features live data from Yahoo Finance, interactive charts, and an integrated AI chatbot (Stockie) powered by Google's Gemini API.
 
 ## 🚀 Quick Start
 
@@ -36,14 +36,18 @@ A:\Github\Project1-4680\
 │   └── stock-cache.json   # Cached stock data
 ├── renderer/              # Frontend React application
 │   ├── components/        # React components
-│   │   ├── FundGraph.tsx           # NEW: Interactive fund history graphs
+│   │   ├── AccountBalance.tsx      # Account balance & funds management
+│   │   ├── InvestmentModal.tsx     # Stock purchase dialog
+│   │   ├── Portfolio.tsx           # Holdings & performance tracking
+│   │   ├── FundGraph.tsx           # Interactive fund history graphs
 │   │   ├── ChartView.tsx           # Stock price charts with time ranges
 │   │   ├── SideAIChat.tsx          # AI chatbot (Stockie)
 │   │   ├── AIAnalysis.tsx          # AI-powered stock analysis
 │   │   ├── StockCard.tsx           # Individual stock cards
-│   │   └── CategoryTabs.tsx        # Stock category navigation
+│   │   └── LoadingError.tsx        # Error handling component
 │   ├── pages/             # React page components
 │   ├── utils/             # Utility functions
+│   │   └── tradingStorage.ts       # LocalStorage persistence for trades
 │   └── App.tsx            # Main application component
 ├── dist/                  # Built application files
 └── node_modules/          # Dependencies
@@ -52,45 +56,55 @@ A:\Github\Project1-4680\
 
 ## ✨ Key Features
 
-### 1. **Real-Time Stock Data**
+### 1. **Practice Trading System** 🆕
+- **Virtual Account**: Start with $10,000 in practice money
+- **Buy Stocks**: Click "Invest" on any stock card
+- **Investment Modal**: Choose dollar amount or number of shares
+- **Real-Time Portfolio**: Track all holdings with live P&L
+- **My Investments Tab**: Dedicated portfolio view showing:
+  - Total portfolio value
+  - Total cost basis
+  - Overall gain/loss ($ and %)
+  - Individual holdings with current prices
+  - Per-stock gain/loss tracking
+- **Persistent Storage**: All trades saved in localStorage
+- **Account Management**: Add funds or reset account anytime
+- **No Risk**: Practice with real market data, no real money
+
+### 2. **Real-Time Stock Data**
 - Live data from Yahoo Finance API
 - 545+ stocks across multiple sectors
 - Real-time price updates
-- Market cap, P/E ratio, dividend yield
+- Volume and daily change tracking
 - Cryptocurrency support (BTC, ETH, and 18+ more)
 
-### 2. **Interactive Charts**
+### 3. **Interactive Charts**
 - **Time Range Selector**: 1D, 5D, 1M, 3M, 6M, 1Y, 2Y, 5Y, Max
 - **Intraday Data**: Minute-by-minute data for 1-day view
 - **Zoom Controls**: Mouse wheel zoom, zoom in/out buttons
 - **Brush Selection**: Drag to select specific date ranges
 
-### 3. **Fund History Graphs** (NEW)
+### 4. **Fund History Graphs**
 - Full-screen modal graphs for mutual funds (S&P 500, NASDAQ, Dow Jones)
 - Real-time historical data with multiple time ranges
 - Interactive tooltips and smooth animations
 - Tracks ETFs: SPY (S&P 500), QQQ (NASDAQ), DIA (Dow Jones)
 
-### 4. **AI-Powered Analysis**
+### 5. **AI-Powered Analysis**
 - **Stockie**: AI chatbot with conversation memory (last 10 messages)
 - Real-time stock analysis using Gemini 2.5 Flash
 - Context-aware responses about stocks and market trends
 - Integrated with live stock data
 
-### 5. **Stock Categories**
+### 6. **Stock Categories**
 - All Stocks
 - S&P 500
 - NASDAQ
 - Dow Jones
-- Technology
-- Financial
-- Healthcare
-- Consumer
-- Energy
 - Cryptocurrency
-- And more...
+- **My Investments** 🆕 - Dedicated portfolio tab
 
-### 6. **Search & Filter**
+### 7. **Search & Filter**
 - Real-time search by ticker, name, or sector
 - Client-side filtering for instant results
 - Shows match count
@@ -113,10 +127,14 @@ A:\Github\Project1-4680\
 ## 🔑 API Keys
 
 ### Gemini API Key
-The application uses Google's Gemini API for AI features. The API key is stored in the code:
-- **Location**: `renderer/components/SideAIChat.tsx`
-- **API Key**: `AIzaSyB4NzbWgOHnDHUAEi_phPwkAFgBQTNT0ro`
+The application uses Google's Gemini API for AI features. The API key is now secured using environment variables:
+- **Location**: `.env` file (not committed to git)
+- **Environment Variable**: `VITE_GEMINI_API_KEY`
 - **Model**: `gemini-2.5-flash`
+- **Setup**: Copy `.env.example` to `.env` and add your key
+- **Get a Key**: https://makersuite.google.com/app/apikey (free)
+
+⚠️ **Security Note**: The `.env` file is gitignored and will never be committed to GitHub. See `SECURITY.md` for details.
 
 ## 📊 Data Sources
 
@@ -129,34 +147,65 @@ The application uses Google's Gemini API for AI features. The API key is stored 
 
 ## 🎨 UI Features
 
+### Account Balance Header 🆕
+- Prominent balance display in header ($10,000 default)
+- "Add Funds" button with modal for adding practice money
+- "Reset Account" button to start over
+- Quick-add buttons ($100, $500, $1K, $5K)
+
 ### Stock Cards
 - Real-time price with color-coded changes
 - Sector badges
 - Volume indicators
-- Click to view detailed analysis
+- **"Invest" button** - Opens investment modal
+- **"Details" button** - View full stock analysis
+
+### Investment Modal 🆕
+- Two input modes: dollar amount or number of shares
+- Real-time calculation of shares/cost
+- Quick-add buttons ($100, $500, $1K, Max)
+- Investment summary with remaining balance
+- Insufficient funds warning
+- Confirms purchase and updates portfolio
+
+### My Investments Tab 🆕
+- Portfolio summary cards (Total Value, Cost, Gain/Loss)
+- Detailed holdings table with:
+  - Ticker and company name
+  - Shares owned
+  - Average cost per share
+  - Current price (real-time)
+  - Current value
+  - Gain/Loss ($ and %)
+- Color-coded gains (green) and losses (red)
+- Click any holding to view stock details
+- Empty state with "Browse All Stocks" button
 
 ### Detail View
 - Full stock information
 - AI-powered analysis
-- Interactive price charts
-- Risk assessment
-- Financial metrics
+- Interactive price charts with multiple time ranges
+- Risk assessment (Volatility, Liquidity)
+- Real-time financial metrics
 
 ### Dark Mode
 - Modern dark theme throughout
-- Blue accent colors
+- Green accents for gains, red for losses
 - High contrast for readability
 
 ## 🐛 Known Issues & Fixes
 
 ### Recent Fixes
-✅ Y-axis values now show proper dollar formatting
+✅ Practice trading system implemented with localStorage persistence
+✅ API keys secured with environment variables
+✅ Removed 26+ unnecessary files for cleaner codebase
+✅ Only real data displayed - no mock/hallucinated metrics
+✅ Y-axis values show proper dollar formatting
 ✅ 1-day view shows minute-by-minute data
-✅ Time range selector added to stock details
+✅ Time range selector on all charts (1D to Max)
 ✅ Conversation context in AI chat (remembers last 10 messages)
 ✅ Search functionality completely reimplemented
-✅ Crypto data (BTC, ETH) now loading correctly
-✅ Financial data (P/E, Market Cap, Dividend Yield) using real Yahoo Finance data
+✅ Crypto data (BTC, ETH + 18 more) loading correctly
 
 ### Troubleshooting
 - If stocks don't load: Restart the server (check `stock-cache.json` age)
@@ -190,11 +239,15 @@ npm run dev           # Development mode (Vite)
 ## 🌟 Recent Updates
 
 ### Latest Features (October 2025)
-1. **Fund Graph Modal** - Interactive full-screen graphs for mutual funds
-2. **Time Range Selector** - View stock history from 1 day to all-time
-3. **Improved Y-axis Formatting** - Proper dollar values on charts
-4. **AI Chat Memory** - Stockie now remembers previous conversation
-5. **Enhanced Data Accuracy** - Dual API approach for better financial metrics
+1. **Practice Trading System** 🆕 - Full mock trading with virtual $10,000 account
+2. **Investment Modal** 🆕 - Buy stocks by dollar amount or shares
+3. **Portfolio Tracking** 🆕 - Real-time P&L on all holdings with persistence
+4. **My Investments Tab** 🆕 - Dedicated portfolio view with performance metrics
+5. **API Security** 🆕 - Environment variables for secure API key management
+6. **Fund Graph Modal** - Interactive full-screen graphs for mutual funds
+7. **Time Range Selector** - View stock history from 1 day to all-time
+8. **AI Chat Memory** - Stockie remembers previous conversation (last 10 messages)
+9. **Clean Codebase** - Removed 26+ unnecessary files, streamlined structure
 
 ## 📄 License & Credits
 

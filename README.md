@@ -1,6 +1,6 @@
-# StockAI - Real-Time Stock Analysis Application
+# Practice Trading Simulator
 
-A comprehensive desktop application for real-time stock market analysis with AI-powered insights.
+A comprehensive desktop application for practicing stock trading with real-time market data and AI-powered insights. Learn to trade with $10,000 virtual money without any financial risk!
 
 ## 🚀 Quick Start
 
@@ -37,12 +37,21 @@ npm run electron  # Terminal 2
 
 ## ✨ Features
 
+### 💰 Practice Trading
+- **$10,000 Virtual Account** - Start with practice money, add more anytime
+- **Real Market Data** - Trade with live prices from Yahoo Finance (545+ stocks)
+- **Buy Stocks** - Invest by dollar amount or number of shares
+- **Portfolio Tracking** - See real-time gains/losses on all holdings
+- **Persistent Data** - Your account and investments saved between sessions
+- **My Investments Tab** - Dedicated view of all your holdings and performance
+
+### 📊 Market Analysis
 - **Real-Time Stock Data** - Live data from Yahoo Finance (545+ stocks)
 - **Interactive Charts** - Multiple time ranges (1D to Max) with zoom controls
 - **AI Analysis** - Powered by Google's Gemini API
 - **AI Chatbot** - "Stockie" with conversation memory
 - **Cryptocurrency Support** - BTC, ETH, and 18+ more cryptocurrencies
-- **Fund History Graphs** - S&P 500, NASDAQ, Dow Jones
+- **Fund History Graphs** - S&P 500, NASDAQ, Dow Jones ETF tracking
 
 ## 📁 Project Structure
 
