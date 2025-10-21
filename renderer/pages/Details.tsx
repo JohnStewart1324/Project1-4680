@@ -102,22 +102,6 @@ const Details: React.FC<DetailsProps> = ({ stock, onBack }) => {
                     <span className="text-white font-medium">${stock.price.toFixed(2)}</span>
                   </div>
                   <div className="flex justify-between">
-                    <span className="text-gray-400">P/E Ratio</span>
-                    <span className="text-white font-medium">
-                      {stock.pe !== null ? stock.pe.toFixed(1) : '—'}
-                    </span>
-                  </div>
-                  <div className="flex justify-between">
-                    <span className="text-gray-400">Dividend Yield</span>
-                    <span className="text-white font-medium">
-                      {stock.dividendYield !== null ? `${stock.dividendYield.toFixed(1)}%` : '—'}
-                    </span>
-                  </div>
-                  <div className="flex justify-between">
-                    <span className="text-gray-400">Market Cap</span>
-                    <span className="text-white font-medium">{formatMarketCap(stock.marketCap)}</span>
-                  </div>
-                  <div className="flex justify-between">
                     <span className="text-gray-400">Volume</span>
                     <span className="text-white font-medium">{formatVolume(stock.volume)}</span>
                   </div>

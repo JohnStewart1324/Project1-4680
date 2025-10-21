@@ -57,23 +57,29 @@ const callGeminiAPI = async (prompt: string) => {
   }
 }
 
-// Fallback analysis when Gemini API fails
+// Fallback analysis when Gemini API fails - uses only real, available data
 const generateFallbackAnalysis = (stock: Stock): string => {
   const isPositiveChange = stock.changePercent >= 0
   const changeDirection = isPositiveChange ? 'positive' : 'negative'
   
-  let analysis = `• **${stock.ticker}** is currently trading at $${stock.price.toFixed(2)} with ${changeDirection} momentum (${stock.changePercent >= 0 ? '+' : ''}${stock.changePercent.toFixed(2)}%)\n`
+  let analysis = `${stock.ticker} is currently trading at $${stock.price.toFixed(2)} with ${changeDirection} momentum (${stock.changePercent >= 0 ? '+' : ''}${stock.changePercent.toFixed(2)}%). `
   
-  if (stock.pe > 0 && stock.pe < 15) {
-    analysis += `• Low P/E ratio of ${stock.pe} suggests potential value opportunity\n`
-  } else if (stock.pe > 25) {
-    analysis += `• High P/E ratio of ${stock.pe} indicates premium valuation\n`
+  // Volume analysis - only use data we actually have
+  if (stock.volume > 10000000) {
+    analysis += `High trading volume (${(stock.volume / 1000000).toFixed(1)}M) indicates strong market interest. `
+  } else if (stock.volume > 1000000) {
+    analysis += `Moderate trading volume suggests stable market activity. `
+  } else {
+    analysis += `Lower trading volume may indicate less liquidity. `
   }
   
-  if (stock.volume > 10000000) {
-    analysis += `• High trading volume (${(stock.volume / 1000000).toFixed(1)}M) shows strong market interest`
+  // Price momentum analysis
+  if (Math.abs(stock.changePercent) > 5) {
+    analysis += `Significant price movement warrants attention.`
+  } else if (Math.abs(stock.changePercent) > 2) {
+    analysis += `Notable price movement today.`
   } else {
-    analysis += `• Moderate trading volume suggests stable market activity`
+    analysis += `Relatively stable price action today.`
   }
   
   return analysis

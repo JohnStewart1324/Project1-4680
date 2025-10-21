@@ -5,10 +5,11 @@ import { generateAIInsight } from '../utils/aiFilter'
 interface StockCardProps {
   stock: Stock
   onSelect: (stock: Stock) => void
+  onInvest: (stock: Stock) => void
   searchQuery?: string
 }
 
-const StockCard: React.FC<StockCardProps> = ({ stock, onSelect, searchQuery = '' }) => {
+const StockCard: React.FC<StockCardProps> = ({ stock, onSelect, onInvest, searchQuery = '' }) => {
   const formatMarketCap = (marketCap: number | null): string => {
     if (marketCap === null) return '—'
     if (marketCap >= 1e12) {
@@ -35,7 +36,6 @@ const StockCard: React.FC<StockCardProps> = ({ stock, onSelect, searchQuery = ''
   return (
     <div 
       className="stock-card fade-in"
-      onClick={() => onSelect(stock)}
     >
       {/* Header */}
       <div className="flex justify-between items-start mb-3">
@@ -52,23 +52,7 @@ const StockCard: React.FC<StockCardProps> = ({ stock, onSelect, searchQuery = ''
       </div>
 
       {/* Key Metrics */}
-      <div className="grid grid-cols-2 gap-4 mb-4">
-        <div>
-          <div className="text-xs text-gray-400 uppercase tracking-wide">P/E Ratio</div>
-          <div className="text-lg font-semibold text-white">
-            {stock.pe !== null ? stock.pe.toFixed(1) : '—'}
-          </div>
-        </div>
-        <div>
-          <div className="text-xs text-gray-400 uppercase tracking-wide">Dividend Yield</div>
-          <div className="text-lg font-semibold text-white">
-            {stock.dividendYield !== null ? `${stock.dividendYield.toFixed(1)}%` : '—'}
-          </div>
-        </div>
-        <div>
-          <div className="text-xs text-gray-400 uppercase tracking-wide">Market Cap</div>
-          <div className="text-lg font-semibold text-white">{formatMarketCap(stock.marketCap)}</div>
-        </div>
+      <div className="grid grid-cols-1 gap-4 mb-4">
         <div>
           <div className="text-xs text-gray-400 uppercase tracking-wide">Volume</div>
           <div className="text-lg font-semibold text-white">{formatVolume(stock.volume)}</div>
@@ -95,9 +79,23 @@ const StockCard: React.FC<StockCardProps> = ({ stock, onSelect, searchQuery = ''
         </div>
       </div>
 
-      {/* Hover Effect Indicator */}
-      <div className="mt-3 text-center">
-        <span className="text-xs text-gray-500">Click to view details →</span>
+      {/* Action Buttons */}
+      <div className="mt-4 flex gap-2">
+        <button
+          onClick={(e) => {
+            e.stopPropagation()
+            onInvest(stock)
+          }}
+          className="flex-1 px-4 py-2 bg-green-600 hover:bg-green-700 text-white rounded-lg text-sm font-medium transition-colors"
+        >
+          💰 Invest
+        </button>
+        <button
+          onClick={() => onSelect(stock)}
+          className="flex-1 px-4 py-2 bg-blue-600 hover:bg-blue-700 text-white rounded-lg text-sm font-medium transition-colors"
+        >
+          📊 Details
+        </button>
       </div>
     </div>
   )

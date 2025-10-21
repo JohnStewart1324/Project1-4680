@@ -11,7 +11,7 @@
       "volume": 90073132,
       "change": 9.950000000000017,
       "changePercent": 3.943874113123793,
-      "lastUpdated": "2025-10-21T02:19:15.116Z"
+      "lastUpdated": "2025-10-21T03:26:10.575Z"
     },
     {
       "ticker": "MSFT",
@@ -24,7 +24,7 @@
       "volume": 13903148,
       "change": 3.2099999999999227,
       "changePercent": 0.625024338953994,
-      "lastUpdated": "2025-10-21T02:19:15.152Z"
+      "lastUpdated": "2025-10-21T03:26:10.572Z"
     },
     {
       "ticker": "GOOGL",
@@ -37,7 +37,7 @@
       "volume": 22065819,
       "change": 3.25,
       "changePercent": 1.2830635609948677,
-      "lastUpdated": "2025-10-21T02:19:15.092Z"
+      "lastUpdated": "2025-10-21T03:26:10.615Z"
     },
     {
       "ticker": "GOOG",
@@ -50,7 +50,7 @@
       "volume": 13291521,
       "change": 3.2299999999999898,
       "changePercent": 1.272705780369593,
-      "lastUpdated": "2025-10-21T02:19:15.092Z"
+      "lastUpdated": "2025-10-21T03:26:10.643Z"
     },
     {
       "ticker": "AMZN",
@@ -63,7 +63,7 @@
       "volume": 31946444,
       "change": 3.4399999999999977,
       "changePercent": 1.6147202403304535,
-      "lastUpdated": "2025-10-21T02:19:15.135Z"
+      "lastUpdated": "2025-10-21T03:26:10.576Z"
     },
     {
       "ticker": "META",
@@ -76,7 +76,7 @@
       "volume": 8831158,
       "change": 15.254999999999995,
       "changePercent": 2.1278673203936305,
-      "lastUpdated": "2025-10-21T02:19:17.343Z"
+      "lastUpdated": "2025-10-21T03:26:12.894Z"
     },
     {
       "ticker": "NVDA",
@@ -89,7 +89,7 @@
       "volume": 127990019,
       "change": -0.5800000000000125,
       "changePercent": -0.3165593275843317,
-      "lastUpdated": "2025-10-21T02:19:17.436Z"
+      "lastUpdated": "2025-10-21T03:26:12.829Z"
     },
     {
       "ticker": "TSLA",
@@ -102,7 +102,7 @@
       "volume": 63228873,
       "change": 8.120000000000005,
       "changePercent": 1.8483530991782577,
-      "lastUpdated": "2025-10-21T02:19:17.445Z"
+      "lastUpdated": "2025-10-21T03:26:12.881Z"
     },
     {
       "ticker": "NFLX",
@@ -115,7 +115,7 @@
       "volume": 3912483,
       "change": 39.200000000000045,
       "changePercent": 3.2684098185699084,
-      "lastUpdated": "2025-10-21T02:19:17.433Z"
+      "lastUpdated": "2025-10-21T03:26:12.849Z"
     },
     {
       "ticker": "AMD",
@@ -128,7 +128,7 @@
       "volume": 55178856,
       "change": 7.47999999999999,
       "changePercent": 3.209198558434868,
-      "lastUpdated": "2025-10-21T02:19:17.374Z"
+      "lastUpdated": "2025-10-21T03:26:12.900Z"
     },
     {
       "ticker": "INTC",
@@ -141,7 +141,7 @@
       "volume": 79786562,
       "change": 1.0900000000000034,
       "changePercent": 2.945149959470423,
-      "lastUpdated": "2025-10-21T02:19:19.643Z"
+      "lastUpdated": "2025-10-21T03:26:15.099Z"
     },
     {
       "ticker": "ORCL",
@@ -154,7 +154,7 @@
       "volume": 30407397,
       "change": -14.129999999999995,
       "changePercent": -4.8505029006899845,
-      "lastUpdated": "2025-10-21T02:19:19.699Z"
+      "lastUpdated": "2025-10-21T03:26:15.074Z"
     },
     {
       "ticker": "CRM",
@@ -167,7 +167,7 @@
       "volume": 9947324,
       "change": 11.199999999999989,
       "changePercent": 4.607536613460584,
-      "lastUpdated": "2025-10-21T02:19:19.706Z"
+      "lastUpdated": "2025-10-21T03:26:15.075Z"
     },
     {
       "ticker": "ADBE",
@@ -180,7 +180,7 @@
       "volume": 3563842,
       "change": 10.139999999999986,
       "changePercent": 3.0426693872651946,
-      "lastUpdated": "2025-10-21T02:19:19.631Z"
+      "lastUpdated": "2025-10-21T03:26:15.072Z"
     },
     {
       "ticker": "CSCO",
@@ -193,7 +193,7 @@
       "volume": 10318851,
       "change": 0.5200000000000102,
       "changePercent": 0.7414801083701844,
-      "lastUpdated": "2025-10-21T02:19:19.673Z"
+      "lastUpdated": "2025-10-21T03:26:15.072Z"
     },
     {
       "ticker": "IBM",
@@ -206,7 +206,7 @@
       "volume": 2710327,
       "change": 2.3700000000000045,
       "changePercent": 0.8425767918088755,
-      "lastUpdated": "2025-10-21T02:19:21.891Z"
+      "lastUpdated": "2025-10-21T03:26:17.327Z"
     },
     {
       "ticker": "QCOM",
@@ -219,7 +219,7 @@
       "volume": 8146460,
       "change": 3.5900000000000034,
       "changePercent": 2.1963903334353034,
-      "lastUpdated": "2025-10-21T02:19:21.921Z"
+      "lastUpdated": "2025-10-21T03:26:17.330Z"
     },
     {
       "ticker": "TXN",
@@ -232,7 +232,7 @@
       "volume": 6390483,
       "change": 3.0049999999999955,
       "changePercent": 1.701778230830216,
-      "lastUpdated": "2025-10-21T02:19:21.884Z"
+      "lastUpdated": "2025-10-21T03:26:17.280Z"
     },
     {
       "ticker": "AVGO",
@@ -245,7 +245,7 @@
       "volume": 14146377,
       "change": -0.08999999999997499,
       "changePercent": -0.025763604614540688,
-      "lastUpdated": "2025-10-21T02:19:21.934Z"
+      "lastUpdated": "2025-10-21T03:26:17.271Z"
     },
     {
       "ticker": "MU",
@@ -258,7 +258,7 @@
       "volume": 22489503,
       "change": 4.390000000000015,
       "changePercent": 2.1691866785255534,
-      "lastUpdated": "2025-10-21T02:19:22.021Z"
+      "lastUpdated": "2025-10-21T03:26:17.298Z"
     },
     {
       "ticker": "AMAT",
@@ -271,7 +271,7 @@
       "volume": 5293744,
       "change": 3.1399999999999864,
       "changePercent": 1.3956175830036828,
-      "lastUpdated": "2025-10-21T02:19:24.230Z"
+      "lastUpdated": "2025-10-21T03:26:19.501Z"
     },
     {
       "ticker": "LRCX",
@@ -284,7 +284,7 @@
       "volume": 8884026,
       "change": 2.5400000000000205,
       "changePercent": 1.7949261536287335,
-      "lastUpdated": "2025-10-21T02:19:24.193Z"
+      "lastUpdated": "2025-10-21T03:26:19.613Z"
     },
     {
       "ticker": "KLAC",
@@ -297,7 +297,7 @@
       "volume": 1075141,
       "change": 46.23000000000002,
       "changePercent": 4.17743480382412,
-      "lastUpdated": "2025-10-21T02:19:24.211Z"
+      "lastUpdated": "2025-10-21T03:26:19.510Z"
     },
     {
       "ticker": "SNPS",
@@ -310,7 +310,7 @@
       "volume": 1391302,
       "change": 5.710000000000036,
       "changePercent": 1.2755785899383514,
-      "lastUpdated": "2025-10-21T02:19:24.203Z"
+      "lastUpdated": "2025-10-21T03:26:19.579Z"
     },
     {
       "ticker": "CDNS",
@@ -323,7 +323,7 @@
       "volume": 1457392,
       "change": 3.519999999999982,
       "changePercent": 1.0793572917944259,
-      "lastUpdated": "2025-10-21T02:19:24.216Z"
+      "lastUpdated": "2025-10-21T03:26:19.527Z"
     },
     {
       "ticker": "INTU",
@@ -336,7 +336,7 @@
       "volume": 1201187,
       "change": 3.3799999999999955,
       "changePercent": 0.5110449205461218,
-      "lastUpdated": "2025-10-21T02:19:26.418Z"
+      "lastUpdated": "2025-10-21T03:26:21.784Z"
     },
     {
       "ticker": "ADSK",
@@ -349,7 +349,7 @@
       "volume": 757031,
       "change": 4.289999999999964,
       "changePercent": 1.4127642758348031,
-      "lastUpdated": "2025-10-21T02:19:26.413Z"
+      "lastUpdated": "2025-10-21T03:26:21.803Z"
     },
     {
       "ticker": "NOW",
@@ -362,7 +362,7 @@
       "volume": 846065,
       "change": 13.949999999999932,
       "changePercent": 1.5438247011952115,
-      "lastUpdated": "2025-10-21T02:19:26.412Z"
+      "lastUpdated": "2025-10-21T03:26:21.778Z"
     },
     {
       "ticker": "WDAY",
@@ -375,7 +375,7 @@
       "volume": 1811390,
       "change": 6.949999999999989,
       "changePercent": 2.9669156883671244,
-      "lastUpdated": "2025-10-21T02:19:26.418Z"
+      "lastUpdated": "2025-10-21T03:26:21.780Z"
     },
     {
       "ticker": "TEAM",
@@ -388,7 +388,7 @@
       "volume": 2415808,
       "change": 6.840000000000003,
       "changePercent": 4.501480750246794,
-      "lastUpdated": "2025-10-21T02:19:28.604Z"
+      "lastUpdated": "2025-10-21T03:26:23.969Z"
     },
     {
       "ticker": "MDB",
@@ -401,7 +401,7 @@
       "volume": 1107581,
       "change": 8.880000000000052,
       "changePercent": 2.787806486045287,
-      "lastUpdated": "2025-10-21T02:19:28.597Z"
+      "lastUpdated": "2025-10-21T03:26:24.021Z"
     },
     {
       "ticker": "DDOG",
@@ -414,7 +414,7 @@
       "volume": 2375891,
       "change": 3.424999999999983,
       "changePercent": 2.2404657552168397,
-      "lastUpdated": "2025-10-21T02:19:28.659Z"
+      "lastUpdated": "2025-10-21T03:26:23.971Z"
     },
     {
       "ticker": "NET",
@@ -427,7 +427,7 @@
       "volume": 1859644,
       "change": 3.030000000000001,
       "changePercent": 1.4427884386457792,
-      "lastUpdated": "2025-10-21T02:19:28.680Z"
+      "lastUpdated": "2025-10-21T03:26:23.962Z"
     },
     {
       "ticker": "ZS",
@@ -440,7 +440,7 @@
       "volume": 878868,
       "change": 5.649999999999977,
       "changePercent": 1.8817651956702672,
-      "lastUpdated": "2025-10-21T02:19:28.662Z"
+      "lastUpdated": "2025-10-21T03:26:23.984Z"
     },
     {
       "ticker": "OKTA",
@@ -453,7 +453,7 @@
       "volume": 1821568,
       "change": 0.8899999999999864,
       "changePercent": 1.0179572229211784,
-      "lastUpdated": "2025-10-21T02:19:30.930Z"
+      "lastUpdated": "2025-10-21T03:26:26.180Z"
     },
     {
       "ticker": "CRWD",
@@ -466,7 +466,7 @@
       "volume": 2814899,
       "change": 18.960000000000036,
       "changePercent": 3.912101516558349,
-      "lastUpdated": "2025-10-21T02:19:31.080Z"
+      "lastUpdated": "2025-10-21T03:26:26.184Z"
     },
     {
       "ticker": "FTNT",
@@ -479,7 +479,7 @@
       "volume": 3539447,
       "change": 1.4200000000000017,
       "changePercent": 1.7018216682646234,
-      "lastUpdated": "2025-10-21T02:19:30.860Z"
+      "lastUpdated": "2025-10-21T03:26:26.184Z"
     },
     {
       "ticker": "PANW",
@@ -492,7 +492,7 @@
       "volume": 3881639,
       "change": 3.930000000000007,
       "changePercent": 1.8904228197604536,
-      "lastUpdated": "2025-10-21T02:19:30.938Z"
+      "lastUpdated": "2025-10-21T03:26:26.191Z"
     },
     {
       "ticker": "CHKP",
@@ -505,7 +505,7 @@
       "volume": 765689,
       "change": 2.5,
       "changePercent": 1.3113034356150013,
-      "lastUpdated": "2025-10-21T02:19:30.980Z"
+      "lastUpdated": "2025-10-21T03:26:26.248Z"
     },
     {
       "ticker": "VRSN",
@@ -518,7 +518,7 @@
       "volume": 438242,
       "change": 2.1299999999999955,
       "changePercent": 0.8044110427130916,
-      "lastUpdated": "2025-10-21T02:19:33.362Z"
+      "lastUpdated": "2025-10-21T03:26:28.416Z"
     },
     {
       "ticker": "AKAM",
@@ -531,7 +531,7 @@
       "volume": 1327520,
       "change": 1.3900000000000006,
       "changePercent": 1.907768322810871,
-      "lastUpdated": "2025-10-21T02:19:33.272Z"
+      "lastUpdated": "2025-10-21T03:26:28.418Z"
     },
     {
       "ticker": "FFIV",
@@ -544,7 +544,7 @@
       "volume": 817940,
       "change": -4.399999999999977,
       "changePercent": -1.4622798271851039,
-      "lastUpdated": "2025-10-21T02:19:33.327Z"
+      "lastUpdated": "2025-10-21T03:26:28.408Z"
     },
     {
       "ticker": "WDC",
@@ -557,7 +557,7 @@
       "volume": 9350229,
       "change": -4.670000000000002,
       "changePercent": -3.7004754358161662,
-      "lastUpdated": "2025-10-21T02:19:35.565Z"
+      "lastUpdated": "2025-10-21T03:26:30.592Z"
     },
     {
       "ticker": "STX",
@@ -570,7 +570,7 @@
       "volume": 4591614,
       "change": -11,
       "changePercent": -4.880212954747116,
-      "lastUpdated": "2025-10-21T02:19:35.565Z"
+      "lastUpdated": "2025-10-21T03:26:30.589Z"
     },
     {
       "ticker": "NTAP",
@@ -583,7 +583,7 @@
       "volume": 1407871,
       "change": -1.8299999999999983,
       "changePercent": -1.5369110607205831,
-      "lastUpdated": "2025-10-21T02:19:35.812Z"
+      "lastUpdated": "2025-10-21T03:26:30.590Z"
     },
     {
       "ticker": "HPE",
@@ -596,7 +596,7 @@
       "volume": 53380503,
       "change": -0.08999999999999986,
       "changePercent": -0.3919860627177694,
-      "lastUpdated": "2025-10-21T02:19:35.667Z"
+      "lastUpdated": "2025-10-21T03:26:30.582Z"
     },
     {
       "ticker": "DELL",
@@ -609,7 +609,7 @@
       "volume": 5820321,
       "change": -1.7199999999999989,
       "changePercent": -1.149809479243264,
-      "lastUpdated": "2025-10-21T02:19:35.581Z"
+      "lastUpdated": "2025-10-21T03:26:30.687Z"
     },
     {
       "ticker": "HPQ",
@@ -622,7 +622,7 @@
       "volume": 7029559,
       "change": 0.28999999999999915,
       "changePercent": 1.0595542564851996,
-      "lastUpdated": "2025-10-21T02:19:37.994Z"
+      "lastUpdated": "2025-10-21T03:26:32.938Z"
     },
     {
       "ticker": "ACN",
@@ -635,7 +635,7 @@
       "volume": 2851726,
       "change": 3.7900000000000205,
       "changePercent": 1.58983178824616,
-      "lastUpdated": "2025-10-21T02:19:37.991Z"
+      "lastUpdated": "2025-10-21T03:26:33.017Z"
     },
     {
       "ticker": "CTSH",
@@ -648,7 +648,7 @@
       "volume": 2155088,
       "change": 0.6200000000000045,
       "changePercent": 0.9382566585956484,
-      "lastUpdated": "2025-10-21T02:19:38.117Z"
+      "lastUpdated": "2025-10-21T03:26:32.869Z"
     },
     {
       "ticker": "FIS",
@@ -661,7 +661,7 @@
       "volume": 1871297,
       "change": 1.0900000000000034,
       "changePercent": 1.6305160807778663,
-      "lastUpdated": "2025-10-21T02:19:37.992Z"
+      "lastUpdated": "2025-10-21T03:26:32.870Z"
     },
     {
       "ticker": "GPN",
@@ -674,7 +674,7 @@
       "volume": 1161521,
       "change": 1.5999999999999943,
       "changePercent": 1.8730976352142288,
-      "lastUpdated": "2025-10-21T02:19:40.287Z"
+      "lastUpdated": "2025-10-21T03:26:35.254Z"
     },
     {
       "ticker": "JKHY",
@@ -687,7 +687,7 @@
       "volume": 592611,
       "change": 2.1399999999999864,
       "changePercent": 1.3993330281828198,
-      "lastUpdated": "2025-10-21T02:19:40.358Z"
+      "lastUpdated": "2025-10-21T03:26:35.182Z"
     },
     {
       "ticker": "PAYX",
@@ -700,7 +700,7 @@
       "volume": 2383579,
       "change": 0.030000000000001137,
       "changePercent": 0.023704171934261328,
-      "lastUpdated": "2025-10-21T02:19:40.287Z"
+      "lastUpdated": "2025-10-21T03:26:35.256Z"
     },
     {
       "ticker": "WU",
@@ -713,7 +713,7 @@
       "volume": 5788455,
       "change": -0.1899999999999995,
       "changePercent": -2.2919179734619965,
-      "lastUpdated": "2025-10-21T02:19:40.295Z"
+      "lastUpdated": "2025-10-21T03:26:35.184Z"
     },
     {
       "ticker": "IT",
@@ -726,7 +726,7 @@
       "volume": 609853,
       "change": 3.75,
       "changePercent": 1.590803037373266,
-      "lastUpdated": "2025-10-21T02:19:40.290Z"
+      "lastUpdated": "2025-10-21T03:26:35.175Z"
     },
     {
       "ticker": "GLW",
@@ -739,7 +739,7 @@
       "volume": 3961232,
       "change": 0.7900000000000063,
       "changePercent": 0.9350218960823841,
-      "lastUpdated": "2025-10-21T02:19:42.537Z"
+      "lastUpdated": "2025-10-21T03:26:37.419Z"
     },
     {
       "ticker": "APH",
@@ -752,7 +752,7 @@
       "volume": 5269951,
       "change": 2.019999999999996,
       "changePercent": 1.6076402705929134,
-      "lastUpdated": "2025-10-21T02:19:42.532Z"
+      "lastUpdated": "2025-10-21T03:26:37.489Z"
     },
     {
       "ticker": "TEL",
@@ -765,7 +765,7 @@
       "volume": 1293739,
       "change": 2.980000000000018,
       "changePercent": 1.3364427302897204,
-      "lastUpdated": "2025-10-21T02:19:42.540Z"
+      "lastUpdated": "2025-10-21T03:26:37.430Z"
     },
     {
       "ticker": "CIEN",
@@ -778,7 +778,7 @@
       "volume": 2010503,
       "change": 2.170000000000016,
       "changePercent": 1.2693770108218871,
-      "lastUpdated": "2025-10-21T02:19:42.532Z"
+      "lastUpdated": "2025-10-21T03:26:37.427Z"
     },
     {
       "ticker": "ANET",
@@ -791,7 +791,7 @@
       "volume": 5169699,
       "change": 3.3799999999999955,
       "changePercent": 2.3619846261355666,
-      "lastUpdated": "2025-10-21T02:19:44.728Z"
+      "lastUpdated": "2025-10-21T03:26:39.659Z"
     },
     {
       "ticker": "ARW",
@@ -804,7 +804,7 @@
       "volume": 581658,
       "change": 5.599999999999994,
       "changePercent": 4.699958036088959,
-      "lastUpdated": "2025-10-21T02:19:44.723Z"
+      "lastUpdated": "2025-10-21T03:26:39.658Z"
     },
     {
       "ticker": "TDY",
@@ -817,7 +817,7 @@
       "volume": 221701,
       "change": 9.57000000000005,
       "changePercent": 1.702059545406049,
-      "lastUpdated": "2025-10-21T02:19:44.723Z"
+      "lastUpdated": "2025-10-21T03:26:39.650Z"
     },
     {
       "ticker": "KEYS",
@@ -830,7 +830,7 @@
       "volume": 862567,
       "change": 2.5600000000000023,
       "changePercent": 1.5783957087366685,
-      "lastUpdated": "2025-10-21T02:19:44.731Z"
+      "lastUpdated": "2025-10-21T03:26:39.644Z"
     },
     {
       "ticker": "SWKS",
@@ -843,7 +843,7 @@
       "volume": 2111507,
       "change": 0.8200000000000074,
       "changePercent": 1.088688263409463,
-      "lastUpdated": "2025-10-21T02:19:44.729Z"
+      "lastUpdated": "2025-10-21T03:26:39.655Z"
     },
     {
       "ticker": "QRVO",
@@ -856,7 +856,7 @@
       "volume": 1163478,
       "change": 1.0300000000000011,
       "changePercent": 1.1179854553348543,
-      "lastUpdated": "2025-10-21T02:19:46.981Z"
+      "lastUpdated": "2025-10-21T03:26:41.819Z"
     },
     {
       "ticker": "MCHP",
@@ -869,7 +869,7 @@
       "volume": 5396427,
       "change": 1.934999999999988,
       "changePercent": 2.9707530513548597,
-      "lastUpdated": "2025-10-21T02:19:46.915Z"
+      "lastUpdated": "2025-10-21T03:26:41.826Z"
     },
     {
       "ticker": "SLAB",
@@ -882,7 +882,7 @@
       "volume": 218674,
       "change": 1.3699999999999761,
       "changePercent": 1.0065388288883814,
-      "lastUpdated": "2025-10-21T02:19:46.914Z"
+      "lastUpdated": "2025-10-21T03:26:41.821Z"
     },
     {
       "ticker": "ALGN",
@@ -895,7 +895,7 @@
       "volume": 1009643,
       "change": 4.480000000000018,
       "changePercent": 3.434266002299746,
-      "lastUpdated": "2025-10-21T02:19:46.917Z"
+      "lastUpdated": "2025-10-21T03:26:41.830Z"
     },
     {
       "ticker": "ISRG",
@@ -908,7 +908,7 @@
       "volume": 3161378,
       "change": 12.340000000000032,
       "changePercent": 2.7660099074260938,
-      "lastUpdated": "2025-10-21T02:19:46.940Z"
+      "lastUpdated": "2025-10-21T03:26:41.820Z"
     },
     {
       "ticker": "ILMN",
@@ -921,7 +921,7 @@
       "volume": 1694674,
       "change": 4.040000000000006,
       "changePercent": 4.232139115860053,
-      "lastUpdated": "2025-10-21T02:19:49.162Z"
+      "lastUpdated": "2025-10-21T03:26:44.018Z"
     },
     {
       "ticker": "VRSK",
@@ -934,7 +934,7 @@
       "volume": 847162,
       "change": 2.9499999999999886,
       "changePercent": 1.269690970129977,
-      "lastUpdated": "2025-10-21T02:19:49.301Z"
+      "lastUpdated": "2025-10-21T03:26:44.029Z"
     },
     {
       "ticker": "JPM",
@@ -947,7 +947,7 @@
       "volume": 6864913,
       "change": 4.800000000000011,
       "changePercent": 1.6131200430165384,
-      "lastUpdated": "2025-10-21T02:19:49.224Z"
+      "lastUpdated": "2025-10-21T03:26:43.994Z"
     },
     {
       "ticker": "BAC",
@@ -960,7 +960,7 @@
       "volume": 20626076,
       "change": 0.759999999999998,
       "changePercent": 1.4820592823712908,
-      "lastUpdated": "2025-10-21T02:19:49.170Z"
+      "lastUpdated": "2025-10-21T03:26:44.061Z"
     },
     {
       "ticker": "WFC",
@@ -973,7 +973,7 @@
       "volume": 15660016,
       "change": 2.739999999999995,
       "changePercent": 3.2901056676272753,
-      "lastUpdated": "2025-10-21T02:19:49.180Z"
+      "lastUpdated": "2025-10-21T03:26:44.010Z"
     },
     {
       "ticker": "GS",
@@ -986,7 +986,7 @@
       "volume": 1849612,
       "change": 12.550000000000068,
       "changePercent": 1.6716171397365462,
-      "lastUpdated": "2025-10-21T02:19:51.515Z"
+      "lastUpdated": "2025-10-21T03:26:46.248Z"
     },
     {
       "ticker": "MS",
@@ -999,7 +999,7 @@
       "volume": 5711436,
       "change": 3.3000000000000114,
       "changePercent": 2.0797882397428697,
-      "lastUpdated": "2025-10-21T02:19:51.480Z"
+      "lastUpdated": "2025-10-21T03:26:46.239Z"
     },
     {
       "ticker": "C",
@@ -1012,7 +1012,7 @@
       "volume": 11097382,
       "change": 2.230000000000004,
       "changePercent": 2.297311218708153,
-      "lastUpdated": "2025-10-21T02:19:51.597Z"
+      "lastUpdated": "2025-10-21T03:26:46.243Z"
     },
     {
       "ticker": "AXP",
@@ -1025,7 +1025,7 @@
       "volume": 3439063,
       "change": 2.8600000000000136,
       "changePercent": 0.8251110726443984,
-      "lastUpdated": "2025-10-21T02:19:51.905Z"
+      "lastUpdated": "2025-10-21T03:26:46.257Z"
     },
     {
       "ticker": "BLK",
@@ -1038,7 +1038,7 @@
       "volume": 678416,
       "change": -1.1600000000000819,
       "changePercent": -0.09990009990010695,
-      "lastUpdated": "2025-10-21T02:19:51.476Z"
+      "lastUpdated": "2025-10-21T03:26:46.312Z"
     },
     {
       "ticker": "SPGI",
@@ -1051,7 +1051,7 @@
       "volume": 1110781,
       "change": 4.399999999999977,
       "changePercent": 0.929859041822519,
-      "lastUpdated": "2025-10-21T02:19:54.151Z"
+      "lastUpdated": "2025-10-21T03:26:48.490Z"
     },
     {
       "ticker": "V",
@@ -1064,7 +1064,7 @@
       "volume": 2690581,
       "change": 2.5200000000000387,
       "changePercent": 0.7370791775132466,
-      "lastUpdated": "2025-10-21T02:19:54.127Z"
+      "lastUpdated": "2025-10-21T03:26:48.483Z"
     },
     {
       "ticker": "MA",
@@ -1077,7 +1077,7 @@
       "volume": 1594422,
       "change": 5.389999999999986,
       "changePercent": 0.9608356953134725,
-      "lastUpdated": "2025-10-21T02:19:54.147Z"
+      "lastUpdated": "2025-10-21T03:26:48.482Z"
     },
     {
       "ticker": "PYPL",
@@ -1090,7 +1090,7 @@
       "volume": 9978255,
       "change": 1.7900000000000063,
       "changePercent": 2.6553923750185526,
-      "lastUpdated": "2025-10-21T02:19:54.273Z"
+      "lastUpdated": "2025-10-21T03:26:48.517Z"
     },
     {
       "ticker": "COF",
@@ -1103,7 +1103,7 @@
       "volume": 3773434,
       "change": 3.530000000000001,
       "changePercent": 1.6702943124822567,
-      "lastUpdated": "2025-10-21T02:19:54.154Z"
+      "lastUpdated": "2025-10-21T03:26:48.572Z"
     },
     {
       "ticker": "USB",
@@ -1116,7 +1116,7 @@
       "volume": 9287074,
       "change": 1.4100000000000037,
       "changePercent": 3.0860144451740066,
-      "lastUpdated": "2025-10-21T02:19:56.448Z"
+      "lastUpdated": "2025-10-21T03:26:50.747Z"
     },
     {
       "ticker": "PNC",
@@ -1129,7 +1129,7 @@
       "volume": 1947706,
       "change": 2.769999999999982,
       "changePercent": 1.5440356744704469,
-      "lastUpdated": "2025-10-21T02:19:56.499Z"
+      "lastUpdated": "2025-10-21T03:26:50.743Z"
     },
     {
       "ticker": "TFC",
@@ -1142,7 +1142,7 @@
       "volume": 7173033,
       "change": 0.8500000000000014,
       "changePercent": 1.9953051643192519,
-      "lastUpdated": "2025-10-21T02:19:56.444Z"
+      "lastUpdated": "2025-10-21T03:26:50.732Z"
     },
     {
       "ticker": "SCHW",
@@ -1155,7 +1155,7 @@
       "volume": 5760649,
       "change": 0.8100000000000023,
       "changePercent": 0.8604206500956048,
-      "lastUpdated": "2025-10-21T02:19:56.462Z"
+      "lastUpdated": "2025-10-21T03:26:50.747Z"
     },
     {
       "ticker": "CB",
@@ -1168,7 +1168,7 @@
       "volume": 1995552,
       "change": -0.009999999999990905,
       "changePercent": -0.003728421759065995,
-      "lastUpdated": "2025-10-21T02:19:56.461Z"
+      "lastUpdated": "2025-10-21T03:26:50.738Z"
     },
     {
       "ticker": "MMC",
@@ -1181,7 +1181,7 @@
       "volume": 2897877,
       "change": 0.3199999999999932,
       "changePercent": 0.16878527348488484,
-      "lastUpdated": "2025-10-21T02:19:58.696Z"
+      "lastUpdated": "2025-10-21T03:26:52.916Z"
     },
     {
       "ticker": "AON",
@@ -1194,7 +1194,7 @@
       "volume": 782804,
       "change": -2.490000000000009,
       "changePercent": -0.7184073860357787,
-      "lastUpdated": "2025-10-21T02:19:58.688Z"
+      "lastUpdated": "2025-10-21T03:26:52.915Z"
     },
     {
       "ticker": "ICE",
@@ -1207,7 +1207,7 @@
       "volume": 2848021,
       "change": 1.6899999999999977,
       "changePercent": 1.1002604166666652,
-      "lastUpdated": "2025-10-21T02:19:58.681Z"
+      "lastUpdated": "2025-10-21T03:26:52.920Z"
     },
     {
       "ticker": "BK",
@@ -1220,7 +1220,7 @@
       "volume": 3903917,
       "change": 2.519999999999996,
       "changePercent": 2.3778071334213964,
-      "lastUpdated": "2025-10-21T02:19:58.748Z"
+      "lastUpdated": "2025-10-21T03:26:52.913Z"
     },
     {
       "ticker": "STT",
@@ -1233,7 +1233,7 @@
       "volume": 2858697,
       "change": 3.9200000000000017,
       "changePercent": 3.5197988686360793,
-      "lastUpdated": "2025-10-21T02:20:00.933Z"
+      "lastUpdated": "2025-10-21T03:26:55.086Z"
     },
     {
       "ticker": "TROW",
@@ -1246,7 +1246,7 @@
       "volume": 1130367,
       "change": 0.539999999999992,
       "changePercent": 0.5207328833172536,
-      "lastUpdated": "2025-10-21T02:20:00.939Z"
+      "lastUpdated": "2025-10-21T03:26:55.100Z"
     },
     {
       "ticker": "NTRS",
@@ -1259,7 +1259,7 @@
       "volume": 1219773,
       "change": 4.030000000000001,
       "changePercent": 3.228649254927096,
-      "lastUpdated": "2025-10-21T02:20:00.951Z"
+      "lastUpdated": "2025-10-21T03:26:55.124Z"
     },
     {
       "ticker": "FITB",
@@ -1272,7 +1272,7 @@
       "volume": 10717872,
       "change": 0.9099999999999966,
       "changePercent": 2.225483003179253,
-      "lastUpdated": "2025-10-21T02:20:00.931Z"
+      "lastUpdated": "2025-10-21T03:26:55.088Z"
     },
     {
       "ticker": "RF",
@@ -1285,7 +1285,7 @@
       "volume": 45150025,
       "change": 0.4800000000000004,
       "changePercent": 2.035623409669213,
-      "lastUpdated": "2025-10-21T02:20:00.998Z"
+      "lastUpdated": "2025-10-21T03:26:55.096Z"
     },
     {
       "ticker": "HBAN",
@@ -1298,7 +1298,7 @@
       "volume": 27993330,
       "change": 0.33999999999999986,
       "changePercent": 2.1935483870967736,
-      "lastUpdated": "2025-10-21T02:20:03.182Z"
+      "lastUpdated": "2025-10-21T03:26:57.285Z"
     },
     {
       "ticker": "CFG",
@@ -1311,7 +1311,7 @@
       "volume": 4119131,
       "change": 0.9799999999999969,
       "changePercent": 1.9874264854998922,
-      "lastUpdated": "2025-10-21T02:20:03.279Z"
+      "lastUpdated": "2025-10-21T03:26:57.417Z"
     },
     {
       "ticker": "KEY",
@@ -1324,7 +1324,7 @@
       "volume": 20051240,
       "change": 0.41999999999999815,
       "changePercent": 2.4764150943396115,
-      "lastUpdated": "2025-10-21T02:20:03.191Z"
+      "lastUpdated": "2025-10-21T03:26:57.289Z"
     },
     {
       "ticker": "ZION",
@@ -1337,7 +1337,7 @@
       "volume": 5802002,
       "change": 2.309999999999995,
       "changePercent": 4.65069458425608,
-      "lastUpdated": "2025-10-21T02:20:03.269Z"
+      "lastUpdated": "2025-10-21T03:26:57.367Z"
     },
     {
       "ticker": "CMA",
@@ -1350,7 +1350,7 @@
       "volume": 2791042,
       "change": 1.8400000000000034,
       "changePercent": 2.455953016550992,
-      "lastUpdated": "2025-10-21T02:20:03.182Z"
+      "lastUpdated": "2025-10-21T03:26:57.281Z"
     },
     {
       "ticker": "WAL",
@@ -1363,7 +1363,7 @@
       "volume": 1564227,
       "change": 2.9200000000000017,
       "changePercent": 4.0286975717439315,
-      "lastUpdated": "2025-10-21T02:20:05.473Z"
+      "lastUpdated": "2025-10-21T03:26:59.614Z"
     },
     {
       "ticker": "MTB",
@@ -1376,7 +1376,7 @@
       "volume": 1682070,
       "change": 1.4000000000000057,
       "changePercent": 0.7748934521503326,
-      "lastUpdated": "2025-10-21T02:20:05.544Z"
+      "lastUpdated": "2025-10-21T03:26:59.683Z"
     },
     {
       "ticker": "SNV",
@@ -1389,7 +1389,7 @@
       "volume": 1794486,
       "change": 0.5900000000000034,
       "changePercent": 1.3024282560706477,
-      "lastUpdated": "2025-10-21T02:20:05.478Z"
+      "lastUpdated": "2025-10-21T03:26:59.648Z"
     },
     {
       "ticker": "FHN",
@@ -1402,7 +1402,7 @@
       "volume": 13138531,
       "change": 0.259999999999998,
       "changePercent": 1.2820512820512722,
-      "lastUpdated": "2025-10-21T02:20:05.476Z"
+      "lastUpdated": "2025-10-21T03:26:59.648Z"
     },
     {
       "ticker": "CFR",
@@ -1415,7 +1415,7 @@
       "volume": 376938,
       "change": 2.5999999999999943,
       "changePercent": 2.122448979591832,
-      "lastUpdated": "2025-10-21T02:20:05.566Z"
+      "lastUpdated": "2025-10-21T03:26:59.590Z"
     },
     {
       "ticker": "FNB",
@@ -1428,7 +1428,7 @@
       "volume": 14677440,
       "change": 0.40000000000000036,
       "changePercent": 2.6507620941020567,
-      "lastUpdated": "2025-10-21T02:20:07.832Z"
+      "lastUpdated": "2025-10-21T03:27:01.910Z"
     },
     {
       "ticker": "ASB",
@@ -1441,7 +1441,7 @@
       "volume": 1430852,
       "change": 0.9600000000000009,
       "changePercent": 3.940886699507393,
-      "lastUpdated": "2025-10-21T02:20:07.816Z"
+      "lastUpdated": "2025-10-21T03:27:01.856Z"
     },
     {
       "ticker": "BOKF",
@@ -1454,7 +1454,7 @@
       "volume": 280786,
       "change": 2.1899999999999977,
       "changePercent": 2.032293986636969,
-      "lastUpdated": "2025-10-21T02:20:07.816Z"
+      "lastUpdated": "2025-10-21T03:27:01.847Z"
     },
     {
       "ticker": "ONB",
@@ -1467,7 +1467,7 @@
       "volume": 5520341,
       "change": 0.7999999999999972,
       "changePercent": 4.030226700251874,
-      "lastUpdated": "2025-10-21T02:20:07.744Z"
+      "lastUpdated": "2025-10-21T03:27:01.856Z"
     },
     {
       "ticker": "PNFP",
@@ -1480,7 +1480,7 @@
       "volume": 1198443,
       "change": 1.1200000000000045,
       "changePercent": 1.287060445874517,
-      "lastUpdated": "2025-10-21T02:20:07.973Z"
+      "lastUpdated": "2025-10-21T03:27:01.848Z"
     },
     {
       "ticker": "TCBI",
@@ -1493,7 +1493,7 @@
       "volume": 440998,
       "change": 2.6899999999999977,
       "changePercent": 3.4098111294207096,
-      "lastUpdated": "2025-10-21T02:20:10.153Z"
+      "lastUpdated": "2025-10-21T03:27:04.066Z"
     },
     {
       "ticker": "UMBF",
@@ -1506,7 +1506,7 @@
       "volume": 354115,
       "change": 3.510000000000005,
       "changePercent": 3.224621038125866,
-      "lastUpdated": "2025-10-21T02:20:10.152Z"
+      "lastUpdated": "2025-10-21T03:27:04.072Z"
     },
     {
       "ticker": "WBS",
@@ -1519,7 +1519,7 @@
       "volume": 2393240,
       "change": 0.5599999999999952,
       "changePercent": 1.0318776487930625,
-      "lastUpdated": "2025-10-21T02:20:10.174Z"
+      "lastUpdated": "2025-10-21T03:27:04.119Z"
     },
     {
       "ticker": "WTFC",
@@ -1532,20 +1532,20 @@
       "volume": 602393,
       "change": 3.8100000000000023,
       "changePercent": 3.104122535440771,
-      "lastUpdated": "2025-10-21T02:20:10.152Z"
+      "lastUpdated": "2025-10-21T03:27:04.071Z"
     },
     {
       "ticker": "SBNY",
       "name": "Signature Bank",
       "sector": "Diversified",
-      "price": 0.56,
+      "price": 0.65,
       "pe": null,
       "dividendYield": null,
       "marketCap": null,
       "volume": 2005,
-      "change": -0.08999999999999997,
-      "changePercent": -13.846153846153841,
-      "lastUpdated": "2025-10-21T02:20:12.354Z"
+      "change": 0,
+      "changePercent": 0,
+      "lastUpdated": "2025-10-21T03:27:06.277Z"
     },
     {
       "ticker": "EWBC",
@@ -1558,7 +1558,7 @@
       "volume": 662561,
       "change": 2.339999999999989,
       "changePercent": 2.4380079183163046,
-      "lastUpdated": "2025-10-21T02:20:12.353Z"
+      "lastUpdated": "2025-10-21T03:27:06.288Z"
     },
     {
       "ticker": "CBSH",
@@ -1571,7 +1571,7 @@
       "volume": 1173670,
       "change": 0.3400000000000034,
       "changePercent": 0.6333830104321971,
-      "lastUpdated": "2025-10-21T02:20:12.357Z"
+      "lastUpdated": "2025-10-21T03:27:06.283Z"
     },
     {
       "ticker": "HOMB",
@@ -1584,7 +1584,7 @@
       "volume": 1048110,
       "change": 0.20000000000000284,
       "changePercent": 0.7366482504604157,
-      "lastUpdated": "2025-10-21T02:20:14.533Z"
+      "lastUpdated": "2025-10-21T03:27:08.502Z"
     },
     {
       "ticker": "UBSI",
@@ -1597,7 +1597,7 @@
       "volume": 776479,
       "change": 0.5900000000000034,
       "changePercent": 1.6747090547828654,
-      "lastUpdated": "2025-10-21T02:20:14.605Z"
+      "lastUpdated": "2025-10-21T03:27:08.575Z"
     },
     {
       "ticker": "FFIN",
@@ -1610,7 +1610,7 @@
       "volume": 437259,
       "change": 0.7100000000000009,
       "changePercent": 2.251823660006346,
-      "lastUpdated": "2025-10-21T02:20:14.616Z"
+      "lastUpdated": "2025-10-21T03:27:08.502Z"
     },
     {
       "ticker": "IBOC",
@@ -1623,7 +1623,7 @@
       "volume": 141898,
       "change": 1.1749999999999972,
       "changePercent": 1.7927982911199223,
-      "lastUpdated": "2025-10-21T02:20:14.681Z"
+      "lastUpdated": "2025-10-21T03:27:08.501Z"
     },
     {
       "ticker": "BKU",
@@ -1636,7 +1636,7 @@
       "volume": 901665,
       "change": 0.6900000000000048,
       "changePercent": 1.904499033949779,
-      "lastUpdated": "2025-10-21T02:20:14.612Z"
+      "lastUpdated": "2025-10-21T03:27:08.573Z"
     },
     {
       "ticker": "CATY",
@@ -1649,7 +1649,7 @@
       "volume": 254154,
       "change": 1.1099999999999994,
       "changePercent": 2.4188276312922192,
-      "lastUpdated": "2025-10-21T02:20:16.862Z"
+      "lastUpdated": "2025-10-21T03:27:10.742Z"
     },
     {
       "ticker": "COLB",
@@ -1662,7 +1662,7 @@
       "volume": 5827297,
       "change": 1.0399999999999991,
       "changePercent": 4.2763157894736805,
-      "lastUpdated": "2025-10-21T02:20:16.878Z"
+      "lastUpdated": "2025-10-21T03:27:10.745Z"
     },
     {
       "ticker": "CVBF",
@@ -1675,7 +1675,7 @@
       "volume": 539262,
       "change": 0.4700000000000024,
       "changePercent": 2.5350593311758494,
-      "lastUpdated": "2025-10-21T02:20:16.856Z"
+      "lastUpdated": "2025-10-21T03:27:10.746Z"
     },
     {
       "ticker": "FULT",
@@ -1688,7 +1688,7 @@
       "volume": 1761162,
       "change": 0.5599999999999987,
       "changePercent": 3.276770040959618,
-      "lastUpdated": "2025-10-21T02:20:16.865Z"
+      "lastUpdated": "2025-10-21T03:27:10.740Z"
     },
     {
       "ticker": "GBCI",
@@ -1701,7 +1701,7 @@
       "volume": 1303115,
       "change": -0.35999999999999943,
       "changePercent": -0.8192990441511139,
-      "lastUpdated": "2025-10-21T02:20:16.892Z"
+      "lastUpdated": "2025-10-21T03:27:10.740Z"
     },
     {
       "ticker": "HWC",
@@ -1714,7 +1714,7 @@
       "volume": 697531,
       "change": 1.2999999999999972,
       "changePercent": 2.3520897412701234,
-      "lastUpdated": "2025-10-21T02:20:19.155Z"
+      "lastUpdated": "2025-10-21T03:27:12.919Z"
     },
     {
       "ticker": "INDB",
@@ -1727,7 +1727,7 @@
       "volume": 413307,
       "change": 2.3699999999999903,
       "changePercent": 3.5784387739694856,
-      "lastUpdated": "2025-10-21T02:20:19.070Z"
+      "lastUpdated": "2025-10-21T03:27:12.915Z"
     },
     {
       "ticker": "LKFN",
@@ -1740,7 +1740,7 @@
       "volume": 108755,
       "change": 1,
       "changePercent": 1.6730801405387317,
-      "lastUpdated": "2025-10-21T02:20:19.071Z"
+      "lastUpdated": "2025-10-21T03:27:12.987Z"
     },
     {
       "ticker": "MBIN",
@@ -1753,7 +1753,7 @@
       "volume": 131459,
       "change": 0.5599999999999987,
       "changePercent": 1.8117114202523414,
-      "lastUpdated": "2025-10-21T02:20:19.068Z"
+      "lastUpdated": "2025-10-21T03:27:13.006Z"
     },
     {
       "ticker": "NBTB",
@@ -1766,7 +1766,7 @@
       "volume": 148676,
       "change": 0.6000000000000014,
       "changePercent": 1.4943960149439637,
-      "lastUpdated": "2025-10-21T02:20:19.218Z"
+      "lastUpdated": "2025-10-21T03:27:12.923Z"
     },
     {
       "ticker": "NWBI",
@@ -1779,7 +1779,7 @@
       "volume": 759841,
       "change": 0.25,
       "changePercent": 2.066115702479339,
-      "lastUpdated": "2025-10-21T02:20:21.476Z"
+      "lastUpdated": "2025-10-21T03:27:15.242Z"
     },
     {
       "ticker": "OZK",
@@ -1792,7 +1792,7 @@
       "volume": 1711836,
       "change": 0.240000000000002,
       "changePercent": 0.522193211488255,
-      "lastUpdated": "2025-10-21T02:20:21.600Z"
+      "lastUpdated": "2025-10-21T03:27:15.177Z"
     },
     {
       "ticker": "PPBI",
@@ -1805,7 +1805,7 @@
       "volume": 19566748,
       "change": 0,
       "changePercent": 0,
-      "lastUpdated": "2025-10-21T02:20:21.405Z"
+      "lastUpdated": "2025-10-21T03:27:15.230Z"
     },
     {
       "ticker": "SFNC",
@@ -1818,7 +1818,7 @@
       "volume": 1486234,
       "change": -0.16999999999999815,
       "changePercent": -0.9294696555494706,
-      "lastUpdated": "2025-10-21T02:20:21.399Z"
+      "lastUpdated": "2025-10-21T03:27:15.171Z"
     },
     {
       "ticker": "STBA",
@@ -1831,7 +1831,7 @@
       "volume": 97769,
       "change": 0.6999999999999957,
       "changePercent": 2.000571591883383,
-      "lastUpdated": "2025-10-21T02:20:21.399Z"
+      "lastUpdated": "2025-10-21T03:27:15.177Z"
     },
     {
       "ticker": "TBBK",
@@ -1844,7 +1844,7 @@
       "volume": 466514,
       "change": 2.260000000000005,
       "changePercent": 3.16349384098545,
-      "lastUpdated": "2025-10-21T02:20:23.785Z"
+      "lastUpdated": "2025-10-21T03:27:17.409Z"
     },
     {
       "ticker": "VBTX",
@@ -1857,7 +1857,7 @@
       "volume": 25682857,
       "change": 0,
       "changePercent": 0,
-      "lastUpdated": "2025-10-21T02:20:23.854Z"
+      "lastUpdated": "2025-10-21T03:27:17.426Z"
     },
     {
       "ticker": "WAFD",
@@ -1870,7 +1870,7 @@
       "volume": 488185,
       "change": 1.0399999999999991,
       "changePercent": 3.7050231563947245,
-      "lastUpdated": "2025-10-21T02:20:23.775Z"
+      "lastUpdated": "2025-10-21T03:27:17.491Z"
     },
     {
       "ticker": "WASH",
@@ -1883,7 +1883,7 @@
       "volume": 184908,
       "change": 0.9899999999999984,
       "changePercent": 3.8297872340425467,
-      "lastUpdated": "2025-10-21T02:20:23.783Z"
+      "lastUpdated": "2025-10-21T03:27:17.418Z"
     },
     {
       "ticker": "WSBC",
@@ -1896,7 +1896,7 @@
       "volume": 367222,
       "change": 0.7199999999999989,
       "changePercent": 2.3445131878866783,
-      "lastUpdated": "2025-10-21T02:20:26.032Z"
+      "lastUpdated": "2025-10-21T03:27:19.666Z"
     },
     {
       "ticker": "JNJ",
@@ -1909,7 +1909,7 @@
       "volume": 4729507,
       "change": 0.5,
       "changePercent": 0.25877238381119966,
-      "lastUpdated": "2025-10-21T02:20:26.030Z"
+      "lastUpdated": "2025-10-21T03:27:19.730Z"
     },
     {
       "ticker": "PFE",
@@ -1922,7 +1922,7 @@
       "volume": 35696742,
       "change": 0.17999999999999972,
       "changePercent": 0.7343941248470001,
-      "lastUpdated": "2025-10-21T02:20:26.093Z"
+      "lastUpdated": "2025-10-21T03:27:19.735Z"
     },
     {
       "ticker": "UNH",
@@ -1935,7 +1935,7 @@
       "volume": 5974211,
       "change": 7.8799999999999955,
       "changePercent": 2.2097588334268075,
-      "lastUpdated": "2025-10-21T02:20:26.068Z"
+      "lastUpdated": "2025-10-21T03:27:19.661Z"
     },
     {
       "ticker": "ABBV",
@@ -1948,7 +1948,7 @@
       "volume": 3242601,
       "change": 2.490000000000009,
       "changePercent": 1.0846364943154634,
-      "lastUpdated": "2025-10-21T02:20:26.036Z"
+      "lastUpdated": "2025-10-21T03:27:19.792Z"
     },
     {
       "ticker": "MRK",
@@ -1961,7 +1961,7 @@
       "volume": 6601788,
       "change": 1.529999999999987,
       "changePercent": 1.804458072885938,
-      "lastUpdated": "2025-10-21T02:20:28.297Z"
+      "lastUpdated": "2025-10-21T03:27:22.023Z"
     },
     {
       "ticker": "TMO",
@@ -1974,7 +1974,7 @@
       "volume": 1276078,
       "change": 4.920000000000073,
       "changePercent": 0.9129369850812872,
-      "lastUpdated": "2025-10-21T02:20:28.290Z"
+      "lastUpdated": "2025-10-21T03:27:21.970Z"
     },
     {
       "ticker": "ABT",
@@ -1987,7 +1987,7 @@
       "volume": 4291126,
       "change": 0.9699999999999989,
       "changePercent": 0.7546289092889364,
-      "lastUpdated": "2025-10-21T02:20:28.277Z"
+      "lastUpdated": "2025-10-21T03:27:21.991Z"
     },
     {
       "ticker": "DHR",
@@ -2000,7 +2000,7 @@
       "volume": 4067740,
       "change": -0.6700000000000159,
       "changePercent": -0.3204821582320941,
-      "lastUpdated": "2025-10-21T02:20:28.285Z"
+      "lastUpdated": "2025-10-21T03:27:22.063Z"
     },
     {
       "ticker": "BMY",
@@ -2013,7 +2013,7 @@
       "volume": 9393544,
       "change": -0.03999999999999915,
       "changePercent": -0.09168003667201272,
-      "lastUpdated": "2025-10-21T02:20:28.278Z"
+      "lastUpdated": "2025-10-21T03:27:22.057Z"
     },
     {
       "ticker": "AMGN",
@@ -2026,7 +2026,7 @@
       "volume": 1603406,
       "change": 4.519999999999982,
       "changePercent": 1.5126669120845961,
-      "lastUpdated": "2025-10-21T02:20:30.488Z"
+      "lastUpdated": "2025-10-21T03:27:24.223Z"
     },
     {
       "ticker": "GILD",
@@ -2039,7 +2039,7 @@
       "volume": 8019865,
       "change": 0.29999999999999716,
       "changePercent": 0.24427978177672596,
-      "lastUpdated": "2025-10-21T02:20:30.555Z"
+      "lastUpdated": "2025-10-21T03:27:24.233Z"
     },
     {
       "ticker": "BIIB",
@@ -2052,7 +2052,7 @@
       "volume": 1226523,
       "change": 3.6299999999999955,
       "changePercent": 2.538461538461535,
-      "lastUpdated": "2025-10-21T02:20:30.543Z"
+      "lastUpdated": "2025-10-21T03:27:24.224Z"
     },
     {
       "ticker": "REGN",
@@ -2065,7 +2065,7 @@
       "volume": 638997,
       "change": -1.2799999999999727,
       "changePercent": -0.22143413199549744,
-      "lastUpdated": "2025-10-21T02:20:30.482Z"
+      "lastUpdated": "2025-10-21T03:27:24.218Z"
     },
     {
       "ticker": "VRTX",
@@ -2078,7 +2078,7 @@
       "volume": 1075799,
       "change": 2.2900000000000205,
       "changePercent": 0.5494110026151053,
-      "lastUpdated": "2025-10-21T02:20:30.596Z"
+      "lastUpdated": "2025-10-21T03:27:24.220Z"
     },
     {
       "ticker": "MRNA",
@@ -2091,7 +2091,7 @@
       "volume": 11097935,
       "change": 1.2299999999999969,
       "changePercent": 4.728950403690876,
-      "lastUpdated": "2025-10-21T02:20:32.776Z"
+      "lastUpdated": "2025-10-21T03:27:26.432Z"
     },
     {
       "ticker": "BNTX",
@@ -2104,7 +2104,7 @@
       "volume": 885831,
       "change": 2.8100000000000023,
       "changePercent": 2.672626973559066,
-      "lastUpdated": "2025-10-21T02:20:32.766Z"
+      "lastUpdated": "2025-10-21T03:27:26.437Z"
     },
     {
       "ticker": "SYK",
@@ -2117,7 +2117,7 @@
       "volume": 1407296,
       "change": 6.800000000000011,
       "changePercent": 1.81614230009081,
-      "lastUpdated": "2025-10-21T02:20:32.765Z"
+      "lastUpdated": "2025-10-21T03:27:26.473Z"
     },
     {
       "ticker": "MDT",
@@ -2130,7 +2130,7 @@
       "volume": 5092229,
       "change": 0.14000000000000057,
       "changePercent": 0.14616830235957462,
-      "lastUpdated": "2025-10-21T02:20:32.775Z"
+      "lastUpdated": "2025-10-21T03:27:26.411Z"
     },
     {
       "ticker": "ZTS",
@@ -2143,7 +2143,7 @@
       "volume": 1560963,
       "change": 1,
       "changePercent": 0.6941552131056504,
-      "lastUpdated": "2025-10-21T02:20:32.833Z"
+      "lastUpdated": "2025-10-21T03:27:26.408Z"
     },
     {
       "ticker": "LLY",
@@ -2156,7 +2156,7 @@
       "volume": 1657859,
       "change": 6.1299999999999955,
       "changePercent": 0.7635489456049219,
-      "lastUpdated": "2025-10-21T02:20:35.012Z"
+      "lastUpdated": "2025-10-21T03:27:28.711Z"
     },
     {
       "ticker": "CVS",
@@ -2169,7 +2169,7 @@
       "volume": 3878203,
       "change": -0.03999999999999204,
       "changePercent": -0.04847309743091619,
-      "lastUpdated": "2025-10-21T02:20:35.056Z"
+      "lastUpdated": "2025-10-21T03:27:28.633Z"
     },
     {
       "ticker": "CI",
@@ -2182,7 +2182,7 @@
       "volume": 1584991,
       "change": 7.569999999999993,
       "changePercent": 2.529488421826442,
-      "lastUpdated": "2025-10-21T02:20:35.018Z"
+      "lastUpdated": "2025-10-21T03:27:28.642Z"
     },
     {
       "ticker": "HUM",
@@ -2195,7 +2195,7 @@
       "volume": 1041882,
       "change": 8.990000000000009,
       "changePercent": 3.2689720373804625,
-      "lastUpdated": "2025-10-21T02:20:35.026Z"
+      "lastUpdated": "2025-10-21T03:27:28.640Z"
     },
     {
       "ticker": "AET",
@@ -2208,7 +2208,7 @@
       "volume": 0,
       "change": 0,
       "changePercent": 0,
-      "lastUpdated": "2025-10-21T02:20:37.305Z"
+      "lastUpdated": "2025-10-21T03:27:30.890Z"
     },
     {
       "ticker": "ESRX",
@@ -2221,7 +2221,7 @@
       "volume": 0,
       "change": 0,
       "changePercent": 0,
-      "lastUpdated": "2025-10-21T02:20:37.283Z"
+      "lastUpdated": "2025-10-21T03:27:30.886Z"
     },
     {
       "ticker": "PRGO",
@@ -2234,7 +2234,7 @@
       "volume": 1674285,
       "change": 0.0799999999999983,
       "changePercent": 0.3700277520813982,
-      "lastUpdated": "2025-10-21T02:20:37.292Z"
+      "lastUpdated": "2025-10-21T03:27:30.883Z"
     },
     {
       "ticker": "TEVA",
@@ -2247,7 +2247,7 @@
       "volume": 5306693,
       "change": 0.11000000000000298,
       "changePercent": 0.5696530295183998,
-      "lastUpdated": "2025-10-21T02:20:37.342Z"
+      "lastUpdated": "2025-10-21T03:27:30.891Z"
     },
     {
       "ticker": "ZBH",
@@ -2260,7 +2260,7 @@
       "volume": 1633261,
       "change": 0.8199999999999932,
       "changePercent": 0.8045525902668693,
-      "lastUpdated": "2025-10-21T02:20:39.584Z"
+      "lastUpdated": "2025-10-21T03:27:33.063Z"
     },
     {
       "ticker": "BAX",
@@ -2273,7 +2273,7 @@
       "volume": 4492338,
       "change": 0.03999999999999915,
       "changePercent": 0.1732351667388443,
-      "lastUpdated": "2025-10-21T02:20:39.526Z"
+      "lastUpdated": "2025-10-21T03:27:33.053Z"
     },
     {
       "ticker": "BDX",
@@ -2286,7 +2286,7 @@
       "volume": 1701942,
       "change": 1.9000000000000057,
       "changePercent": 1.0047593865679565,
-      "lastUpdated": "2025-10-21T02:20:39.585Z"
+      "lastUpdated": "2025-10-21T03:27:33.057Z"
     },
     {
       "ticker": "BSX",
@@ -2299,7 +2299,7 @@
       "volume": 7960767,
       "change": 1.2900000000000063,
       "changePercent": 1.299879081015726,
-      "lastUpdated": "2025-10-21T02:20:39.527Z"
+      "lastUpdated": "2025-10-21T03:27:33.054Z"
     },
     {
       "ticker": "EW",
@@ -2312,7 +2312,7 @@
       "volume": 4141995,
       "change": 0.6500000000000057,
       "changePercent": 0.8708467309753559,
-      "lastUpdated": "2025-10-21T02:20:39.522Z"
+      "lastUpdated": "2025-10-21T03:27:33.053Z"
     },
     {
       "ticker": "HCA",
@@ -2325,7 +2325,7 @@
       "volume": 876960,
       "change": 6.989999999999952,
       "changePercent": 1.6402290219635705,
-      "lastUpdated": "2025-10-21T02:20:41.761Z"
+      "lastUpdated": "2025-10-21T03:27:35.235Z"
     },
     {
       "ticker": "LH",
@@ -2338,7 +2338,7 @@
       "volume": 462735,
       "change": 4.990000000000009,
       "changePercent": 1.7451213541302402,
-      "lastUpdated": "2025-10-21T02:20:41.907Z"
+      "lastUpdated": "2025-10-21T03:27:35.238Z"
     },
     {
       "ticker": "TECH",
@@ -2351,7 +2351,7 @@
       "volume": 1422547,
       "change": 0.6799999999999997,
       "changePercent": 1.0992563853863557,
-      "lastUpdated": "2025-10-21T02:20:41.770Z"
+      "lastUpdated": "2025-10-21T03:27:35.242Z"
     },
     {
       "ticker": "UHS",
@@ -2364,7 +2364,7 @@
       "volume": 207398,
       "change": 2.680000000000007,
       "changePercent": 1.3101290574892486,
-      "lastUpdated": "2025-10-21T02:20:41.765Z"
+      "lastUpdated": "2025-10-21T03:27:35.304Z"
     },
     {
       "ticker": "WAT",
@@ -2377,7 +2377,7 @@
       "volume": 579047,
       "change": 8.590000000000032,
       "changePercent": 2.56732119907948,
-      "lastUpdated": "2025-10-21T02:20:44.077Z"
+      "lastUpdated": "2025-10-21T03:27:37.486Z"
     },
     {
       "ticker": "XRAY",
@@ -2390,7 +2390,7 @@
       "volume": 3379417,
       "change": 0.41999999999999993,
       "changePercent": 3.3573141486810543,
-      "lastUpdated": "2025-10-21T02:20:44.074Z"
+      "lastUpdated": "2025-10-21T03:27:37.474Z"
     },
     {
       "ticker": "DGX",
@@ -2403,7 +2403,7 @@
       "volume": 1283713,
       "change": 0.9000000000000057,
       "changePercent": 0.4749089757796453,
-      "lastUpdated": "2025-10-21T02:20:44.083Z"
+      "lastUpdated": "2025-10-21T03:27:37.506Z"
     },
     {
       "ticker": "HOLX",
@@ -2416,7 +2416,7 @@
       "volume": 3618736,
       "change": 2.0200000000000102,
       "changePercent": 2.891911238367946,
-      "lastUpdated": "2025-10-21T02:20:44.080Z"
+      "lastUpdated": "2025-10-21T03:27:37.487Z"
     },
     {
       "ticker": "IDXX",
@@ -2429,7 +2429,7 @@
       "volume": 325401,
       "change": 8.009999999999991,
       "changePercent": 1.260623229461755,
-      "lastUpdated": "2025-10-21T02:20:46.311Z"
+      "lastUpdated": "2025-10-21T03:27:39.671Z"
     },
     {
       "ticker": "IQV",
@@ -2442,7 +2442,7 @@
       "volume": 1671153,
       "change": 7.5,
       "changePercent": 3.6665851869958446,
-      "lastUpdated": "2025-10-21T02:20:46.311Z"
+      "lastUpdated": "2025-10-21T03:27:39.687Z"
     },
     {
       "ticker": "MOH",
@@ -2455,7 +2455,7 @@
       "volume": 1051299,
       "change": 4.810000000000002,
       "changePercent": 2.4963670334232937,
-      "lastUpdated": "2025-10-21T02:20:46.313Z"
+      "lastUpdated": "2025-10-21T03:27:39.673Z"
     },
     {
       "ticker": "PENN",
@@ -2468,7 +2468,7 @@
       "volume": 3817965,
       "change": 0.759999999999998,
       "changePercent": 4.674046740467392,
-      "lastUpdated": "2025-10-21T02:20:46.318Z"
+      "lastUpdated": "2025-10-21T03:27:39.678Z"
     },
     {
       "ticker": "RMD",
@@ -2481,7 +2481,7 @@
       "volume": 604838,
       "change": 3.32000000000005,
       "changePercent": 1.2383900928792757,
-      "lastUpdated": "2025-10-21T02:20:46.316Z"
+      "lastUpdated": "2025-10-21T03:27:39.674Z"
     },
     {
       "ticker": "STE",
@@ -2494,7 +2494,7 @@
       "volume": 488692,
       "change": 2.009999999999991,
       "changePercent": 0.8367678281503647,
-      "lastUpdated": "2025-10-21T02:20:48.501Z"
+      "lastUpdated": "2025-10-21T03:27:41.843Z"
     },
     {
       "ticker": "TFX",
@@ -2507,7 +2507,7 @@
       "volume": 382758,
       "change": 2.4099999999999966,
       "changePercent": 1.8809022086942924,
-      "lastUpdated": "2025-10-21T02:20:48.500Z"
+      "lastUpdated": "2025-10-21T03:27:41.841Z"
     },
     {
       "ticker": "WST",
@@ -2520,7 +2520,7 @@
       "volume": 358346,
       "change": 4.2999999999999545,
       "changePercent": 1.5890613451588893,
-      "lastUpdated": "2025-10-21T02:20:48.497Z"
+      "lastUpdated": "2025-10-21T03:27:41.843Z"
     },
     {
       "ticker": "HD",
@@ -2533,7 +2533,7 @@
       "volume": 1699677,
       "change": -3.009999999999991,
       "changePercent": -0.7680530747639681,
-      "lastUpdated": "2025-10-21T02:20:48.538Z"
+      "lastUpdated": "2025-10-21T03:27:41.918Z"
     },
     {
       "ticker": "MCD",
@@ -2546,7 +2546,7 @@
       "volume": 1719623,
       "change": -0.3199999999999932,
       "changePercent": -0.10386575351358149,
-      "lastUpdated": "2025-10-21T02:20:48.512Z"
+      "lastUpdated": "2025-10-21T03:27:41.945Z"
     },
     {
       "ticker": "NKE",
@@ -2559,7 +2559,7 @@
       "volume": 9210719,
       "change": 0.25,
       "changePercent": 0.3710850526940775,
-      "lastUpdated": "2025-10-21T02:20:50.738Z"
+      "lastUpdated": "2025-10-21T03:27:44.105Z"
     },
     {
       "ticker": "SBUX",
@@ -2572,7 +2572,7 @@
       "volume": 7659525,
       "change": -0.8299999999999983,
       "changePercent": -0.9723523898781611,
-      "lastUpdated": "2025-10-21T02:20:51.698Z"
+      "lastUpdated": "2025-10-21T03:27:44.178Z"
     },
     {
       "ticker": "BKNG",
@@ -2585,7 +2585,7 @@
       "volume": 241285,
       "change": 71.85999999999967,
       "changePercent": 1.4173514108425542,
-      "lastUpdated": "2025-10-21T02:20:50.715Z"
+      "lastUpdated": "2025-10-21T03:27:44.103Z"
     },
     {
       "ticker": "ABNB",
@@ -2598,7 +2598,7 @@
       "volume": 3791130,
       "change": 1.2999999999999972,
       "changePercent": 1.0324835199745828,
-      "lastUpdated": "2025-10-21T02:20:50.858Z"
+      "lastUpdated": "2025-10-21T03:27:44.121Z"
     },
     {
       "ticker": "EBAY",
@@ -2611,7 +2611,7 @@
       "volume": 6705707,
       "change": 3.6400000000000006,
       "changePercent": 3.9560917291598745,
-      "lastUpdated": "2025-10-21T02:20:50.723Z"
+      "lastUpdated": "2025-10-21T03:27:44.315Z"
     },
     {
       "ticker": "ETSY",
@@ -2624,7 +2624,7 @@
       "volume": 2118083,
       "change": 0.8800000000000097,
       "changePercent": 1.2489355662787536,
-      "lastUpdated": "2025-10-21T02:20:53.900Z"
+      "lastUpdated": "2025-10-21T03:27:46.636Z"
     },
     {
       "ticker": "ROKU",
@@ -2637,7 +2637,7 @@
       "volume": 1785316,
       "change": 2.0700000000000074,
       "changePercent": 2.197218978876985,
-      "lastUpdated": "2025-10-21T02:20:53.940Z"
+      "lastUpdated": "2025-10-21T03:27:46.542Z"
     },
     {
       "ticker": "ZM",
@@ -2650,7 +2650,7 @@
       "volume": 2020132,
       "change": 1.8999999999999915,
       "changePercent": 2.374703162104726,
-      "lastUpdated": "2025-10-21T02:20:53.878Z"
+      "lastUpdated": "2025-10-21T03:27:46.547Z"
     },
     {
       "ticker": "PTON",
@@ -2663,7 +2663,7 @@
       "volume": 10044846,
       "change": -0.03000000000000025,
       "changePercent": -0.4000000000000033,
-      "lastUpdated": "2025-10-21T02:20:53.958Z"
+      "lastUpdated": "2025-10-21T03:27:46.476Z"
     },
     {
       "ticker": "DOCU",
@@ -2676,7 +2676,7 @@
       "volume": 2225944,
       "change": 2.75,
       "changePercent": 4.048284999263948,
-      "lastUpdated": "2025-10-21T02:20:53.879Z"
+      "lastUpdated": "2025-10-21T03:27:46.488Z"
     },
     {
       "ticker": "TGT",
@@ -2689,7 +2689,7 @@
       "volume": 3998716,
       "change": 0.6899999999999977,
       "changePercent": 0.7595772787318337,
-      "lastUpdated": "2025-10-21T02:20:56.151Z"
+      "lastUpdated": "2025-10-21T03:27:48.820Z"
     },
     {
       "ticker": "LOW",
@@ -2702,7 +2702,7 @@
       "volume": 1606956,
       "change": -2.4299999999999784,
       "changePercent": -0.9930527176133954,
-      "lastUpdated": "2025-10-21T02:20:56.134Z"
+      "lastUpdated": "2025-10-21T03:27:48.819Z"
     },
     {
       "ticker": "COST",
@@ -2715,7 +2715,7 @@
       "volume": 1519098,
       "change": -0.22000000000002728,
       "changePercent": -0.023495989661767462,
-      "lastUpdated": "2025-10-21T02:20:56.202Z"
+      "lastUpdated": "2025-10-21T03:27:48.814Z"
     },
     {
       "ticker": "TJX",
@@ -2728,7 +2728,7 @@
       "volume": 2579104,
       "change": -0.5099999999999909,
       "changePercent": -0.3545606229143429,
-      "lastUpdated": "2025-10-21T02:20:56.136Z"
+      "lastUpdated": "2025-10-21T03:27:48.819Z"
     },
     {
       "ticker": "MAR",
@@ -2741,7 +2741,7 @@
       "volume": 1642440,
       "change": -0.8500000000000227,
       "changePercent": -0.325857772666292,
-      "lastUpdated": "2025-10-21T02:20:56.133Z"
+      "lastUpdated": "2025-10-21T03:27:48.808Z"
     },
     {
       "ticker": "HLT",
@@ -2754,7 +2754,7 @@
       "volume": 1496393,
       "change": 0.7700000000000387,
       "changePercent": 0.2958466208168589,
-      "lastUpdated": "2025-10-21T02:20:58.521Z"
+      "lastUpdated": "2025-10-21T03:27:50.984Z"
     },
     {
       "ticker": "CHTR",
@@ -2767,7 +2767,7 @@
       "volume": 1456247,
       "change": -1.6500000000000057,
       "changePercent": -0.6517617317111731,
-      "lastUpdated": "2025-10-21T02:20:58.450Z"
+      "lastUpdated": "2025-10-21T03:27:50.986Z"
     },
     {
       "ticker": "CMCSA",
@@ -2780,7 +2780,7 @@
       "volume": 16502929,
       "change": 0.030000000000001137,
       "changePercent": 0.10155721056195376,
-      "lastUpdated": "2025-10-21T02:20:58.387Z"
+      "lastUpdated": "2025-10-21T03:27:51.050Z"
     },
     {
       "ticker": "DIS",
@@ -2793,7 +2793,7 @@
       "volume": 7705742,
       "change": 1.289999999999992,
       "changePercent": 1.165627541339109,
-      "lastUpdated": "2025-10-21T02:20:58.447Z"
+      "lastUpdated": "2025-10-21T03:27:51.050Z"
     },
     {
       "ticker": "VZ",
@@ -2806,7 +2806,7 @@
       "volume": 24800304,
       "change": 0.25,
       "changePercent": 0.6165228113440198,
-      "lastUpdated": "2025-10-21T02:20:58.418Z"
+      "lastUpdated": "2025-10-21T03:27:50.983Z"
     },
     {
       "ticker": "T",
@@ -2819,7 +2819,7 @@
       "volume": 59692370,
       "change": -0.23999999999999844,
       "changePercent": -0.9111617312072834,
-      "lastUpdated": "2025-10-21T02:21:00.767Z"
+      "lastUpdated": "2025-10-21T03:27:53.219Z"
     },
     {
       "ticker": "TMUS",
@@ -2832,7 +2832,7 @@
       "volume": 3734054,
       "change": 0.7599999999999909,
       "changePercent": 0.3314001657000789,
-      "lastUpdated": "2025-10-21T02:21:00.729Z"
+      "lastUpdated": "2025-10-21T03:27:53.295Z"
     },
     {
       "ticker": "LUMN",
@@ -2845,7 +2845,7 @@
       "volume": 8432830,
       "change": 0.2599999999999998,
       "changePercent": 3.7681159420289823,
-      "lastUpdated": "2025-10-21T02:21:00.764Z"
+      "lastUpdated": "2025-10-21T03:27:53.226Z"
     },
     {
       "ticker": "FOX",
@@ -2858,7 +2858,7 @@
       "volume": 728174,
       "change": 0.21999999999999886,
       "changePercent": 0.42397379071111746,
-      "lastUpdated": "2025-10-21T02:21:00.701Z"
+      "lastUpdated": "2025-10-21T03:27:53.219Z"
     },
     {
       "ticker": "FOXA",
@@ -2871,7 +2871,7 @@
       "volume": 1728231,
       "change": 0.10999999999999943,
       "changePercent": 0.1894265541587729,
-      "lastUpdated": "2025-10-21T02:21:03.031Z"
+      "lastUpdated": "2025-10-21T03:27:55.450Z"
     },
     {
       "ticker": "NWSA",
@@ -2884,7 +2884,7 @@
       "volume": 2938421,
       "change": 0.4200000000000017,
       "changePercent": 1.6141429669485077,
-      "lastUpdated": "2025-10-21T02:21:03.036Z"
+      "lastUpdated": "2025-10-21T03:27:55.539Z"
     },
     {
       "ticker": "NWS",
@@ -2897,7 +2897,7 @@
       "volume": 458940,
       "change": 0.41000000000000014,
       "changePercent": 1.3884185573992553,
-      "lastUpdated": "2025-10-21T02:21:02.965Z"
+      "lastUpdated": "2025-10-21T03:27:55.462Z"
     },
     {
       "ticker": "LYFT",
@@ -2910,7 +2910,7 @@
       "volume": 10320078,
       "change": 0.6799999999999997,
       "changePercent": 3.4818228366615447,
-      "lastUpdated": "2025-10-21T02:21:05.287Z"
+      "lastUpdated": "2025-10-21T03:27:57.722Z"
     },
     {
       "ticker": "UBER",
@@ -2923,7 +2923,7 @@
       "volume": 11157176,
       "change": 1.4000000000000057,
       "changePercent": 1.516793066088847,
-      "lastUpdated": "2025-10-21T02:21:05.224Z"
+      "lastUpdated": "2025-10-21T03:27:57.710Z"
     },
     {
       "ticker": "DASH",
@@ -2936,7 +2936,7 @@
       "volume": 2371650,
       "change": 2.3100000000000023,
       "changePercent": 0.878126663118681,
-      "lastUpdated": "2025-10-21T02:21:05.211Z"
+      "lastUpdated": "2025-10-21T03:27:57.717Z"
     },
     {
       "ticker": "SHOP",
@@ -2949,7 +2949,7 @@
       "volume": 6247600,
       "change": 6.950000000000017,
       "changePercent": 4.405425963488855,
-      "lastUpdated": "2025-10-21T02:21:09.250Z"
+      "lastUpdated": "2025-10-21T03:27:59.945Z"
     },
     {
       "ticker": "SIRI",
@@ -2962,7 +2962,7 @@
       "volume": 2077699,
       "change": 0.26000000000000156,
       "changePercent": 1.2160898035547314,
-      "lastUpdated": "2025-10-21T02:21:09.314Z"
+      "lastUpdated": "2025-10-21T03:27:59.923Z"
     },
     {
       "ticker": "PINS",
@@ -2975,7 +2975,7 @@
       "volume": 7933518,
       "change": 0.509999999999998,
       "changePercent": 1.5745600493979561,
-      "lastUpdated": "2025-10-21T02:21:09.307Z"
+      "lastUpdated": "2025-10-21T03:27:59.928Z"
     },
     {
       "ticker": "SNAP",
@@ -2988,7 +2988,7 @@
       "volume": 26840857,
       "change": 0.08000000000000007,
       "changePercent": 1.0457516339869288,
-      "lastUpdated": "2025-10-21T02:21:09.235Z"
+      "lastUpdated": "2025-10-21T03:27:59.991Z"
     },
     {
       "ticker": "SPOT",
@@ -3001,7 +3001,7 @@
       "volume": 1015361,
       "change": 4.009999999999991,
       "changePercent": 0.5971527281391457,
-      "lastUpdated": "2025-10-21T02:21:11.495Z"
+      "lastUpdated": "2025-10-21T03:28:02.167Z"
     },
     {
       "ticker": "WMT",
@@ -3014,7 +3014,7 @@
       "volume": 8602009,
       "change": -0.6800000000000068,
       "changePercent": -0.6312076487515147,
-      "lastUpdated": "2025-10-21T02:21:11.530Z"
+      "lastUpdated": "2025-10-21T03:28:02.163Z"
     },
     {
       "ticker": "PG",
@@ -3027,7 +3027,7 @@
       "volume": 4045489,
       "change": 0.5600000000000023,
       "changePercent": 0.36988110964333043,
-      "lastUpdated": "2025-10-21T02:21:11.503Z"
+      "lastUpdated": "2025-10-21T03:28:02.168Z"
     },
     {
       "ticker": "KO",
@@ -3040,7 +3040,7 @@
       "volume": 13997604,
       "change": 0,
       "changePercent": 0,
-      "lastUpdated": "2025-10-21T02:21:11.555Z"
+      "lastUpdated": "2025-10-21T03:28:02.178Z"
     },
     {
       "ticker": "PEP",
@@ -3053,7 +3053,7 @@
       "volume": 4733851,
       "change": -0.0700000000000216,
       "changePercent": -0.045540303168318,
-      "lastUpdated": "2025-10-21T02:21:13.740Z"
+      "lastUpdated": "2025-10-21T03:28:04.353Z"
     },
     {
       "ticker": "CL",
@@ -3066,7 +3066,7 @@
       "volume": 4078675,
       "change": -0.37000000000000455,
       "changePercent": -0.4676440849342827,
-      "lastUpdated": "2025-10-21T02:21:13.725Z"
+      "lastUpdated": "2025-10-21T03:28:04.352Z"
     },
     {
       "ticker": "KMB",
@@ -3079,7 +3079,7 @@
       "volume": 1544189,
       "change": -0.7399999999999949,
       "changePercent": -0.6093544137022355,
-      "lastUpdated": "2025-10-21T02:21:13.848Z"
+      "lastUpdated": "2025-10-21T03:28:04.351Z"
     },
     {
       "ticker": "GIS",
@@ -3092,7 +3092,7 @@
       "volume": 4542774,
       "change": 0.4200000000000017,
       "changePercent": 0.867947923124616,
-      "lastUpdated": "2025-10-21T02:21:13.726Z"
+      "lastUpdated": "2025-10-21T03:28:04.343Z"
     },
     {
       "ticker": "K",
@@ -3105,7 +3105,7 @@
       "volume": 1114119,
       "change": -0.04999999999999716,
       "changePercent": -0.060175713082196595,
-      "lastUpdated": "2025-10-21T02:21:13.742Z"
+      "lastUpdated": "2025-10-21T03:28:04.352Z"
     },
     {
       "ticker": "HSY",
@@ -3118,7 +3118,7 @@
       "volume": 1427070,
       "change": -1.5300000000000011,
       "changePercent": -0.8149568552253121,
-      "lastUpdated": "2025-10-21T02:21:16.038Z"
+      "lastUpdated": "2025-10-21T03:28:06.581Z"
     },
     {
       "ticker": "CPB",
@@ -3131,7 +3131,7 @@
       "volume": 3666085,
       "change": 0.16000000000000014,
       "changePercent": 0.518470511989631,
-      "lastUpdated": "2025-10-21T02:21:16.029Z"
+      "lastUpdated": "2025-10-21T03:28:06.515Z"
     },
     {
       "ticker": "CAG",
@@ -3144,7 +3144,7 @@
       "volume": 7275235,
       "change": -0.05999999999999872,
       "changePercent": -0.32327586206895864,
-      "lastUpdated": "2025-10-21T02:21:16.025Z"
+      "lastUpdated": "2025-10-21T03:28:06.539Z"
     },
     {
       "ticker": "CHD",
@@ -3157,7 +3157,7 @@
       "volume": 1918890,
       "change": -0.4000000000000057,
       "changePercent": -0.4520795660036231,
-      "lastUpdated": "2025-10-21T02:21:16.141Z"
+      "lastUpdated": "2025-10-21T03:28:06.524Z"
     },
     {
       "ticker": "CLX",
@@ -3170,7 +3170,7 @@
       "volume": 1410099,
       "change": -0.12999999999999545,
       "changePercent": -0.10858670230537541,
-      "lastUpdated": "2025-10-21T02:21:16.096Z"
+      "lastUpdated": "2025-10-21T03:28:06.514Z"
     },
     {
       "ticker": "EL",
@@ -3183,7 +3183,7 @@
       "volume": 4278503,
       "change": 1.7399999999999949,
       "changePercent": 1.7265330422702865,
-      "lastUpdated": "2025-10-21T02:21:18.423Z"
+      "lastUpdated": "2025-10-21T03:28:08.751Z"
     },
     {
       "ticker": "FLO",
@@ -3196,7 +3196,7 @@
       "volume": 2159502,
       "change": -0.009999999999999787,
       "changePercent": -0.07836990595611118,
-      "lastUpdated": "2025-10-21T02:21:18.319Z"
+      "lastUpdated": "2025-10-21T03:28:08.792Z"
     },
     {
       "ticker": "HRL",
@@ -3209,7 +3209,7 @@
       "volume": 3921796,
       "change": -0.07000000000000028,
       "changePercent": -0.29130253849355087,
-      "lastUpdated": "2025-10-21T02:21:18.320Z"
+      "lastUpdated": "2025-10-21T03:28:08.818Z"
     },
     {
       "ticker": "KHC",
@@ -3222,7 +3222,7 @@
       "volume": 10048660,
       "change": 0.19000000000000128,
       "changePercent": 0.7445141065830772,
-      "lastUpdated": "2025-10-21T02:21:18.322Z"
+      "lastUpdated": "2025-10-21T03:28:08.776Z"
     },
     {
       "ticker": "MDLZ",
@@ -3235,7 +3235,7 @@
       "volume": 4036788,
       "change": 0.3500000000000014,
       "changePercent": 0.560358629522897,
-      "lastUpdated": "2025-10-21T02:21:18.320Z"
+      "lastUpdated": "2025-10-21T03:28:08.751Z"
     },
     {
       "ticker": "MNST",
@@ -3248,7 +3248,7 @@
       "volume": 4658147,
       "change": -0.45999999999999375,
       "changePercent": -0.6550840216462457,
-      "lastUpdated": "2025-10-21T02:21:20.616Z"
+      "lastUpdated": "2025-10-21T03:28:10.991Z"
     },
     {
       "ticker": "MKC",
@@ -3261,7 +3261,7 @@
       "volume": 1632659,
       "change": 0.20999999999999375,
       "changePercent": 0.3109268581581192,
-      "lastUpdated": "2025-10-21T02:21:20.614Z"
+      "lastUpdated": "2025-10-21T03:28:11.067Z"
     },
     {
       "ticker": "SJM",
@@ -3274,7 +3274,7 @@
       "volume": 1239629,
       "change": 0.060000000000002274,
       "changePercent": 0.056980056980059146,
-      "lastUpdated": "2025-10-21T02:21:20.617Z"
+      "lastUpdated": "2025-10-21T03:28:10.982Z"
     },
     {
       "ticker": "STZ",
@@ -3287,7 +3287,7 @@
       "volume": 1476591,
       "change": 0.8199999999999932,
       "changePercent": 0.5840039883199154,
-      "lastUpdated": "2025-10-21T02:21:20.809Z"
+      "lastUpdated": "2025-10-21T03:28:11.020Z"
     },
     {
       "ticker": "TSN",
@@ -3300,7 +3300,7 @@
       "volume": 1996604,
       "change": 0,
       "changePercent": 0,
-      "lastUpdated": "2025-10-21T02:21:20.615Z"
+      "lastUpdated": "2025-10-21T03:28:10.981Z"
     },
     {
       "ticker": "XOM",
@@ -3313,7 +3313,7 @@
       "volume": 6907188,
       "change": 0.46000000000000796,
       "changePercent": 0.4098360655737776,
-      "lastUpdated": "2025-10-21T02:21:22.992Z"
+      "lastUpdated": "2025-10-21T03:28:13.239Z"
     },
     {
       "ticker": "CVX",
@@ -3326,7 +3326,7 @@
       "volume": 5541150,
       "change": 1.3999999999999773,
       "changePercent": 0.9145544813169435,
-      "lastUpdated": "2025-10-21T02:21:23.002Z"
+      "lastUpdated": "2025-10-21T03:28:13.235Z"
     },
     {
       "ticker": "COP",
@@ -3339,7 +3339,7 @@
       "volume": 3675594,
       "change": 0.5799999999999983,
       "changePercent": 0.6706753006475465,
-      "lastUpdated": "2025-10-21T02:21:23.066Z"
+      "lastUpdated": "2025-10-21T03:28:13.291Z"
     },
     {
       "ticker": "EOG",
@@ -3352,7 +3352,7 @@
       "volume": 2975138,
       "change": 0.18000000000000682,
       "changePercent": 0.16945961212578312,
-      "lastUpdated": "2025-10-21T02:21:22.993Z"
+      "lastUpdated": "2025-10-21T03:28:13.234Z"
     },
     {
       "ticker": "SLB",
@@ -3365,7 +3365,7 @@
       "volume": 15808884,
       "change": 0.7999999999999972,
       "changePercent": 2.451731535396865,
-      "lastUpdated": "2025-10-21T02:21:25.251Z"
+      "lastUpdated": "2025-10-21T03:28:15.470Z"
     },
     {
       "ticker": "OXY",
@@ -3378,7 +3378,7 @@
       "volume": 8782519,
       "change": 0.13000000000000256,
       "changePercent": 0.3178484107579525,
-      "lastUpdated": "2025-10-21T02:21:25.294Z"
+      "lastUpdated": "2025-10-21T03:28:15.528Z"
     },
     {
       "ticker": "KMI",
@@ -3391,7 +3391,7 @@
       "volume": 13870124,
       "change": 0.14000000000000057,
       "changePercent": 0.5113221329437567,
-      "lastUpdated": "2025-10-21T02:21:25.243Z"
+      "lastUpdated": "2025-10-21T03:28:15.535Z"
     },
     {
       "ticker": "PSX",
@@ -3404,7 +3404,7 @@
       "volume": 1533332,
       "change": 1.0699999999999932,
       "changePercent": 0.8277249168407157,
-      "lastUpdated": "2025-10-21T02:21:25.242Z"
+      "lastUpdated": "2025-10-21T03:28:15.466Z"
     },
     {
       "ticker": "VLO",
@@ -3417,7 +3417,7 @@
       "volume": 1061735,
       "change": 2.3999999999999773,
       "changePercent": 1.5212017493819971,
-      "lastUpdated": "2025-10-21T02:21:25.265Z"
+      "lastUpdated": "2025-10-21T03:28:15.468Z"
     },
     {
       "ticker": "MPC",
@@ -3430,7 +3430,7 @@
       "volume": 681500,
       "change": 1.8000000000000114,
       "changePercent": 0.9757684176288889,
-      "lastUpdated": "2025-10-21T02:21:27.480Z"
+      "lastUpdated": "2025-10-21T03:28:17.700Z"
     },
     {
       "ticker": "DVN",
@@ -3443,7 +3443,7 @@
       "volume": 5662502,
       "change": 0.19000000000000128,
       "changePercent": 0.59861373660996,
-      "lastUpdated": "2025-10-21T02:21:27.557Z"
+      "lastUpdated": "2025-10-21T03:28:17.696Z"
     },
     {
       "ticker": "FANG",
@@ -3456,7 +3456,7 @@
       "volume": 2215440,
       "change": 2.0999999999999943,
       "changePercent": 1.5098137896326078,
-      "lastUpdated": "2025-10-21T02:21:27.548Z"
+      "lastUpdated": "2025-10-21T03:28:17.705Z"
     },
     {
       "ticker": "NOV",
@@ -3469,7 +3469,7 @@
       "volume": 3403722,
       "change": 0.09999999999999964,
       "changePercent": 0.7898894154818297,
-      "lastUpdated": "2025-10-21T02:21:27.505Z"
+      "lastUpdated": "2025-10-21T03:28:17.700Z"
     },
     {
       "ticker": "HAL",
@@ -3482,7 +3482,7 @@
       "volume": 16553799,
       "change": 0.3500000000000014,
       "changePercent": 1.5716210148181475,
-      "lastUpdated": "2025-10-21T02:21:29.748Z"
+      "lastUpdated": "2025-10-21T03:28:19.884Z"
     },
     {
       "ticker": "BKR",
@@ -3495,7 +3495,7 @@
       "volume": 6771784,
       "change": 1.1000000000000014,
       "changePercent": 2.434705621956621,
-      "lastUpdated": "2025-10-21T02:21:29.803Z"
+      "lastUpdated": "2025-10-21T03:28:19.884Z"
     },
     {
       "ticker": "OKE",
@@ -3508,7 +3508,7 @@
       "volume": 2600796,
       "change": 0.4399999999999977,
       "changePercent": 0.6462035541195443,
-      "lastUpdated": "2025-10-21T02:21:29.799Z"
+      "lastUpdated": "2025-10-21T03:28:19.989Z"
     },
     {
       "ticker": "WMB",
@@ -3521,7 +3521,7 @@
       "volume": 3156942,
       "change": 0.6000000000000014,
       "changePercent": 0.9606147934678217,
-      "lastUpdated": "2025-10-21T02:21:29.748Z"
+      "lastUpdated": "2025-10-21T03:28:19.884Z"
     },
     {
       "ticker": "ET",
@@ -3534,7 +3534,7 @@
       "volume": 12750167,
       "change": 0.3200000000000003,
       "changePercent": 1.945288753799394,
-      "lastUpdated": "2025-10-21T02:21:29.807Z"
+      "lastUpdated": "2025-10-21T03:28:19.887Z"
     },
     {
       "ticker": "EPD",
@@ -3547,7 +3547,7 @@
       "volume": 3862581,
       "change": 0.4800000000000004,
       "changePercent": 1.5899304405432275,
-      "lastUpdated": "2025-10-21T02:21:31.996Z"
+      "lastUpdated": "2025-10-21T03:28:22.165Z"
     },
     {
       "ticker": "SRE",
@@ -3560,7 +3560,7 @@
       "volume": 2516974,
       "change": 1.4299999999999926,
       "changePercent": 1.566436630518121,
-      "lastUpdated": "2025-10-21T02:21:31.991Z"
+      "lastUpdated": "2025-10-21T03:28:22.221Z"
     },
     {
       "ticker": "AEP",
@@ -3573,7 +3573,7 @@
       "volume": 2083142,
       "change": 0.28999999999999204,
       "changePercent": 0.24674551178421852,
-      "lastUpdated": "2025-10-21T02:21:31.997Z"
+      "lastUpdated": "2025-10-21T03:28:22.175Z"
     },
     {
       "ticker": "SO",
@@ -3586,7 +3586,7 @@
       "volume": 4996312,
       "change": -0.10999999999999943,
       "changePercent": -0.11247443762781129,
-      "lastUpdated": "2025-10-21T02:21:32.056Z"
+      "lastUpdated": "2025-10-21T03:28:22.183Z"
     },
     {
       "ticker": "DUK",
@@ -3599,7 +3599,7 @@
       "volume": 2487377,
       "change": 0.4099999999999966,
       "changePercent": 0.31899167509530585,
-      "lastUpdated": "2025-10-21T02:21:32.051Z"
+      "lastUpdated": "2025-10-21T03:28:22.164Z"
     },
     {
       "ticker": "EXC",
@@ -3612,7 +3612,7 @@
       "volume": 3841263,
       "change": 0.46000000000000085,
       "changePercent": 0.9627459187944764,
-      "lastUpdated": "2025-10-21T02:21:34.238Z"
+      "lastUpdated": "2025-10-21T03:28:24.386Z"
     },
     {
       "ticker": "XEL",
@@ -3625,7 +3625,7 @@
       "volume": 3758383,
       "change": 0.12000000000000455,
       "changePercent": 0.14785608674224318,
-      "lastUpdated": "2025-10-21T02:21:34.235Z"
+      "lastUpdated": "2025-10-21T03:28:24.452Z"
     },
     {
       "ticker": "PEG",
@@ -3638,7 +3638,7 @@
       "volume": 1680994,
       "change": 0.0799999999999983,
       "changePercent": 0.09439528023598619,
-      "lastUpdated": "2025-10-21T02:21:34.311Z"
+      "lastUpdated": "2025-10-21T03:28:24.451Z"
     },
     {
       "ticker": "ES",
@@ -3651,7 +3651,7 @@
       "volume": 2256801,
       "change": 0.28999999999999204,
       "changePercent": 0.39966923925026465,
-      "lastUpdated": "2025-10-21T02:21:34.329Z"
+      "lastUpdated": "2025-10-21T03:28:24.451Z"
     },
     {
       "ticker": "NEE",
@@ -3664,7 +3664,7 @@
       "volume": 4056450,
       "change": 0.23999999999999488,
       "changePercent": 0.2839228676209569,
-      "lastUpdated": "2025-10-21T02:21:34.237Z"
+      "lastUpdated": "2025-10-21T03:28:24.406Z"
     },
     {
       "ticker": "WEC",
@@ -3677,7 +3677,7 @@
       "volume": 1981438,
       "change": 0.6599999999999966,
       "changePercent": 0.5648750427935609,
-      "lastUpdated": "2025-10-21T02:21:36.554Z"
+      "lastUpdated": "2025-10-21T03:28:26.712Z"
     },
     {
       "ticker": "BA",
@@ -3690,7 +3690,7 @@
       "volume": 5306886,
       "change": 3.8799999999999955,
       "changePercent": 1.8221095144172046,
-      "lastUpdated": "2025-10-21T02:21:36.606Z"
+      "lastUpdated": "2025-10-21T03:28:26.623Z"
     },
     {
       "ticker": "CAT",
@@ -3703,7 +3703,7 @@
       "volume": 2140487,
       "change": 5.6099999999999,
       "changePercent": 1.0674125235458454,
-      "lastUpdated": "2025-10-21T02:21:36.528Z"
+      "lastUpdated": "2025-10-21T03:28:26.670Z"
     },
     {
       "ticker": "GE",
@@ -3716,7 +3716,7 @@
       "volume": 4000603,
       "change": 2.5400000000000205,
       "changePercent": 0.8462717398547414,
-      "lastUpdated": "2025-10-21T02:21:36.536Z"
+      "lastUpdated": "2025-10-21T03:28:26.637Z"
     },
     {
       "ticker": "HON",
@@ -3729,7 +3729,7 @@
       "volume": 3906877,
       "change": 3.069999999999993,
       "changePercent": 1.5126133228222276,
-      "lastUpdated": "2025-10-21T02:21:36.508Z"
+      "lastUpdated": "2025-10-21T03:28:26.630Z"
     },
     {
       "ticker": "UPS",
@@ -3742,7 +3742,7 @@
       "volume": 4688375,
       "change": 0.5,
       "changePercent": 0.5786367318597385,
-      "lastUpdated": "2025-10-21T02:21:38.787Z"
+      "lastUpdated": "2025-10-21T03:28:28.894Z"
     },
     {
       "ticker": "RTX",
@@ -3755,7 +3755,7 @@
       "volume": 5412737,
       "change": 2.7600000000000193,
       "changePercent": 1.747388414055093,
-      "lastUpdated": "2025-10-21T02:21:38.794Z"
+      "lastUpdated": "2025-10-21T03:28:28.874Z"
     },
     {
       "ticker": "LMT",
@@ -3768,7 +3768,7 @@
       "volume": 1239085,
       "change": 10.75,
       "changePercent": 2.171059274967182,
-      "lastUpdated": "2025-10-21T02:21:38.791Z"
+      "lastUpdated": "2025-10-21T03:28:28.943Z"
     },
     {
       "ticker": "NOC",
@@ -3781,7 +3781,7 @@
       "volume": 913233,
       "change": 7.5,
       "changePercent": 1.2615643397813288,
-      "lastUpdated": "2025-10-21T02:21:38.800Z"
+      "lastUpdated": "2025-10-21T03:28:28.886Z"
     },
     {
       "ticker": "GD",
@@ -3794,7 +3794,7 @@
       "volume": 670743,
       "change": 6.0400000000000205,
       "changePercent": 1.823946851879819,
-      "lastUpdated": "2025-10-21T02:21:38.798Z"
+      "lastUpdated": "2025-10-21T03:28:28.878Z"
     },
     {
       "ticker": "TDG",
@@ -3807,7 +3807,7 @@
       "volume": 369349,
       "change": 35.799999999999955,
       "changePercent": 2.828072171137861,
-      "lastUpdated": "2025-10-21T02:21:40.977Z"
+      "lastUpdated": "2025-10-21T03:28:31.141Z"
     },
     {
       "ticker": "EMR",
@@ -3820,7 +3820,7 @@
       "volume": 1799786,
       "change": 1.0699999999999932,
       "changePercent": 0.8276608910891036,
-      "lastUpdated": "2025-10-21T02:21:41.066Z"
+      "lastUpdated": "2025-10-21T03:28:31.105Z"
     },
     {
       "ticker": "MMM",
@@ -3833,7 +3833,7 @@
       "volume": 4201758,
       "change": 2.140000000000015,
       "changePercent": 1.4019916142557751,
-      "lastUpdated": "2025-10-21T02:21:40.977Z"
+      "lastUpdated": "2025-10-21T03:28:31.132Z"
     },
     {
       "ticker": "ITW",
@@ -3846,7 +3846,7 @@
       "volume": 1000224,
       "change": 3.1200000000000045,
       "changePercent": 1.251705046938941,
-      "lastUpdated": "2025-10-21T02:21:40.998Z"
+      "lastUpdated": "2025-10-21T03:28:31.116Z"
     },
     {
       "ticker": "ETN",
@@ -3859,7 +3859,7 @@
       "volume": 1015310,
       "change": 4.389999999999986,
       "changePercent": 1.17599785695151,
-      "lastUpdated": "2025-10-21T02:21:40.987Z"
+      "lastUpdated": "2025-10-21T03:28:31.138Z"
     },
     {
       "ticker": "PH",
@@ -3872,7 +3872,7 @@
       "volume": 548505,
       "change": 6.419999999999959,
       "changePercent": 0.8751482435692906,
-      "lastUpdated": "2025-10-21T02:21:43.272Z"
+      "lastUpdated": "2025-10-21T03:28:33.302Z"
     },
     {
       "ticker": "CMI",
@@ -3885,7 +3885,7 @@
       "volume": 628165,
       "change": 2.180000000000007,
       "changePercent": 0.5293446324939919,
-      "lastUpdated": "2025-10-21T02:21:43.275Z"
+      "lastUpdated": "2025-10-21T03:28:33.365Z"
     },
     {
       "ticker": "DE",
@@ -3898,7 +3898,7 @@
       "volume": 664649,
       "change": 3.9399999999999977,
       "changePercent": 0.8593238822246451,
-      "lastUpdated": "2025-10-21T02:21:43.247Z"
+      "lastUpdated": "2025-10-21T03:28:33.380Z"
     },
     {
       "ticker": "FDX",
@@ -3911,7 +3911,7 @@
       "volume": 632913,
       "change": 2.009999999999991,
       "changePercent": 0.8452481076534865,
-      "lastUpdated": "2025-10-21T02:21:43.244Z"
+      "lastUpdated": "2025-10-21T03:28:33.305Z"
     },
     {
       "ticker": "CSX",
@@ -3924,7 +3924,7 @@
       "volume": 13469451,
       "change": 0.07100000000000506,
       "changePercent": 0.19399437143092724,
-      "lastUpdated": "2025-10-21T02:21:43.240Z"
+      "lastUpdated": "2025-10-21T03:28:33.312Z"
     },
     {
       "ticker": "NSC",
@@ -3937,7 +3937,7 @@
       "volume": 915694,
       "change": 1.3700000000000045,
       "changePercent": 0.4727724480640502,
-      "lastUpdated": "2025-10-21T02:21:45.520Z"
+      "lastUpdated": "2025-10-21T03:28:35.559Z"
     },
     {
       "ticker": "UNP",
@@ -3950,7 +3950,7 @@
       "volume": 2853932,
       "change": 1.2600000000000193,
       "changePercent": 0.5574234648734823,
-      "lastUpdated": "2025-10-21T02:21:45.456Z"
+      "lastUpdated": "2025-10-21T03:28:35.560Z"
     },
     {
       "ticker": "JBHT",
@@ -3963,7 +3963,7 @@
       "volume": 1588029,
       "change": 0.6400000000000148,
       "changePercent": 0.3882317258113526,
-      "lastUpdated": "2025-10-21T02:21:45.462Z"
+      "lastUpdated": "2025-10-21T03:28:35.624Z"
     },
     {
       "ticker": "CHRW",
@@ -3976,7 +3976,7 @@
       "volume": 1294439,
       "change": 0.06999999999999318,
       "changePercent": 0.0549493680822617,
-      "lastUpdated": "2025-10-21T02:21:45.524Z"
+      "lastUpdated": "2025-10-21T03:28:35.623Z"
     },
     {
       "ticker": "EXPD",
@@ -3989,7 +3989,7 @@
       "volume": 451014,
       "change": 0.519999999999996,
       "changePercent": 0.43362241494329223,
-      "lastUpdated": "2025-10-21T02:21:47.700Z"
+      "lastUpdated": "2025-10-21T03:28:37.804Z"
     },
     {
       "ticker": "ODFL",
@@ -4002,7 +4002,7 @@
       "volume": 1946709,
       "change": 2.670000000000016,
       "changePercent": 1.93422196464794,
-      "lastUpdated": "2025-10-21T02:21:47.719Z"
+      "lastUpdated": "2025-10-21T03:28:37.869Z"
     },
     {
       "ticker": "LSTR",
@@ -4015,7 +4015,7 @@
       "volume": 453103,
       "change": 3.319999999999993,
       "changePercent": 2.552275522755222,
-      "lastUpdated": "2025-10-21T02:21:47.725Z"
+      "lastUpdated": "2025-10-21T03:28:37.797Z"
     },
     {
       "ticker": "XPO",
@@ -4028,7 +4028,7 @@
       "volume": 1078215,
       "change": 3.859999999999985,
       "changePercent": 2.970830447163846,
-      "lastUpdated": "2025-10-21T02:21:47.771Z"
+      "lastUpdated": "2025-10-21T03:28:37.796Z"
     },
     {
       "ticker": "ZTO",
@@ -4041,7 +4041,7 @@
       "volume": 892882,
       "change": 0.120000000000001,
       "changePercent": 0.6322444678609114,
-      "lastUpdated": "2025-10-21T02:21:47.712Z"
+      "lastUpdated": "2025-10-21T03:28:37.795Z"
     },
     {
       "ticker": "YMM",
@@ -4054,7 +4054,7 @@
       "volume": 3455237,
       "change": 0.0600000000000005,
       "changePercent": 0.47619047619048016,
-      "lastUpdated": "2025-10-21T02:21:50.025Z"
+      "lastUpdated": "2025-10-21T03:28:40.044Z"
     },
     {
       "ticker": "CC",
@@ -4067,7 +4067,7 @@
       "volume": 2394670,
       "change": 0.41000000000000014,
       "changePercent": 3.178294573643412,
-      "lastUpdated": "2025-10-21T02:21:49.957Z"
+      "lastUpdated": "2025-10-21T03:28:40.047Z"
     },
     {
       "ticker": "CTAS",
@@ -4080,7 +4080,7 @@
       "volume": 3434343,
       "change": 4.230000000000018,
       "changePercent": 2.248803827751206,
-      "lastUpdated": "2025-10-21T02:21:50.083Z"
+      "lastUpdated": "2025-10-21T03:28:40.044Z"
     },
     {
       "ticker": "DOV",
@@ -4093,7 +4093,7 @@
       "volume": 1161725,
       "change": 2.4199999999999875,
       "changePercent": 1.453453453453446,
-      "lastUpdated": "2025-10-21T02:21:52.263Z"
+      "lastUpdated": "2025-10-21T03:28:42.292Z"
     },
     {
       "ticker": "JCI",
@@ -4106,7 +4106,7 @@
       "volume": 3110186,
       "change": 1.769999999999996,
       "changePercent": 1.6263897822291613,
-      "lastUpdated": "2025-10-21T02:21:52.257Z"
+      "lastUpdated": "2025-10-21T03:28:42.289Z"
     },
     {
       "ticker": "AMT",
@@ -4119,7 +4119,7 @@
       "volume": 1290583,
       "change": 1.7900000000000205,
       "changePercent": 0.9357519995817974,
-      "lastUpdated": "2025-10-21T02:21:52.254Z"
+      "lastUpdated": "2025-10-21T03:28:42.372Z"
     },
     {
       "ticker": "PLD",
@@ -4132,7 +4132,7 @@
       "volume": 3122792,
       "change": 3.1000000000000085,
       "changePercent": 2.498388136686016,
-      "lastUpdated": "2025-10-21T02:21:52.262Z"
+      "lastUpdated": "2025-10-21T03:28:42.368Z"
     },
     {
       "ticker": "CCI",
@@ -4145,7 +4145,7 @@
       "volume": 1902634,
       "change": 1.3900000000000006,
       "changePercent": 1.4259335248256058,
-      "lastUpdated": "2025-10-21T02:21:52.253Z"
+      "lastUpdated": "2025-10-21T03:28:42.310Z"
     },
     {
       "ticker": "EQIX",
@@ -4158,7 +4158,7 @@
       "volume": 374303,
       "change": 11.210000000000036,
       "changePercent": 1.3772683154571077,
-      "lastUpdated": "2025-10-21T02:21:54.510Z"
+      "lastUpdated": "2025-10-21T03:28:44.613Z"
     },
     {
       "ticker": "PSA",
@@ -4171,7 +4171,7 @@
       "volume": 714744,
       "change": 4.189999999999998,
       "changePercent": 1.3621143655927952,
-      "lastUpdated": "2025-10-21T02:21:54.443Z"
+      "lastUpdated": "2025-10-21T03:28:44.542Z"
     },
     {
       "ticker": "SPG",
@@ -4184,7 +4184,7 @@
       "volume": 683604,
       "change": 0.37999999999999545,
       "changePercent": 0.21337525970014903,
-      "lastUpdated": "2025-10-21T02:21:54.503Z"
+      "lastUpdated": "2025-10-21T03:28:44.551Z"
     },
     {
       "ticker": "O",
@@ -4197,7 +4197,7 @@
       "volume": 3642197,
       "change": 0.7000000000000028,
       "changePercent": 1.1678345011678393,
-      "lastUpdated": "2025-10-21T02:21:54.441Z"
+      "lastUpdated": "2025-10-21T03:28:44.558Z"
     },
     {
       "ticker": "WELL",
@@ -4210,7 +4210,7 @@
       "volume": 1764313,
       "change": 2.6200000000000045,
       "changePercent": 1.4963732937346532,
-      "lastUpdated": "2025-10-21T02:21:54.481Z"
+      "lastUpdated": "2025-10-21T03:28:44.543Z"
     },
     {
       "ticker": "EXR",
@@ -4223,7 +4223,7 @@
       "volume": 740732,
       "change": -0.06999999999999318,
       "changePercent": -0.04619242444238695,
-      "lastUpdated": "2025-10-21T02:21:56.688Z"
+      "lastUpdated": "2025-10-21T03:28:46.781Z"
     },
     {
       "ticker": "AVB",
@@ -4236,7 +4236,7 @@
       "volume": 324958,
       "change": 0.030000000000001137,
       "changePercent": 0.016041065126725023,
-      "lastUpdated": "2025-10-21T02:21:56.760Z"
+      "lastUpdated": "2025-10-21T03:28:46.841Z"
     },
     {
       "ticker": "EQR",
@@ -4249,7 +4249,7 @@
       "volume": 2508151,
       "change": 0.14000000000000057,
       "changePercent": 0.2250442051117193,
-      "lastUpdated": "2025-10-21T02:21:56.696Z"
+      "lastUpdated": "2025-10-21T03:28:46.822Z"
     },
     {
       "ticker": "MAA",
@@ -4262,7 +4262,7 @@
       "volume": 749495,
       "change": 0.18999999999999773,
       "changePercent": 0.14318010550112867,
-      "lastUpdated": "2025-10-21T02:21:56.848Z"
+      "lastUpdated": "2025-10-21T03:28:46.777Z"
     },
     {
       "ticker": "UDR",
@@ -4275,7 +4275,7 @@
       "volume": 1787686,
       "change": 0.1699999999999946,
       "changePercent": 0.4710446106954685,
-      "lastUpdated": "2025-10-21T02:21:56.774Z"
+      "lastUpdated": "2025-10-21T03:28:46.777Z"
     },
     {
       "ticker": "ESS",
@@ -4288,7 +4288,7 @@
       "volume": 361699,
       "change": 1.1800000000000068,
       "changePercent": 0.45451043833295074,
-      "lastUpdated": "2025-10-21T02:21:59.016Z"
+      "lastUpdated": "2025-10-21T03:28:49.002Z"
     },
     {
       "ticker": "CPT",
@@ -4301,7 +4301,7 @@
       "volume": 540115,
       "change": 0.6899999999999977,
       "changePercent": 0.6738281249999978,
-      "lastUpdated": "2025-10-21T02:21:59.039Z"
+      "lastUpdated": "2025-10-21T03:28:49.010Z"
     },
     {
       "ticker": "AIV",
@@ -4314,7 +4314,7 @@
       "volume": 1525099,
       "change": 0.1200000000000001,
       "changePercent": 2.1699819168173615,
-      "lastUpdated": "2025-10-21T02:21:59.033Z"
+      "lastUpdated": "2025-10-21T03:28:49.003Z"
     },
     {
       "ticker": "BXP",
@@ -4327,7 +4327,7 @@
       "volume": 853782,
       "change": -0.39000000000000057,
       "changePercent": -0.5488319729805805,
-      "lastUpdated": "2025-10-21T02:21:59.076Z"
+      "lastUpdated": "2025-10-21T03:28:49.008Z"
     },
     {
       "ticker": "KIM",
@@ -4340,7 +4340,7 @@
       "volume": 5467210,
       "change": 0.16000000000000014,
       "changePercent": 0.7326007326007333,
-      "lastUpdated": "2025-10-21T02:21:59.025Z"
+      "lastUpdated": "2025-10-21T03:28:49.003Z"
     },
     {
       "ticker": "REG",
@@ -4353,7 +4353,7 @@
       "volume": 660826,
       "change": -0.030000000000001137,
       "changePercent": -0.041528239202659384,
-      "lastUpdated": "2025-10-21T02:22:01.259Z"
+      "lastUpdated": "2025-10-21T03:28:51.171Z"
     },
     {
       "ticker": "SLG",
@@ -4366,7 +4366,7 @@
       "volume": 1506765,
       "change": -0.8800000000000026,
       "changePercent": -1.6733219243202178,
-      "lastUpdated": "2025-10-21T02:22:01.250Z"
+      "lastUpdated": "2025-10-21T03:28:51.201Z"
     },
     {
       "ticker": "VTR",
@@ -4379,7 +4379,7 @@
       "volume": 1763003,
       "change": 0.8799999999999955,
       "changePercent": 1.2461059190031087,
-      "lastUpdated": "2025-10-21T02:22:01.255Z"
+      "lastUpdated": "2025-10-21T03:28:51.181Z"
     },
     {
       "ticker": "WY",
@@ -4392,7 +4392,7 @@
       "volume": 3854245,
       "change": -0.28999999999999915,
       "changePercent": -1.2293344637558252,
-      "lastUpdated": "2025-10-21T02:22:01.338Z"
+      "lastUpdated": "2025-10-21T03:28:51.179Z"
     },
     {
       "ticker": "LIN",
@@ -4405,7 +4405,7 @@
       "volume": 1861288,
       "change": 0.6700000000000159,
       "changePercent": 0.14859500099802966,
-      "lastUpdated": "2025-10-21T02:22:01.318Z"
+      "lastUpdated": "2025-10-21T03:28:51.178Z"
     },
     {
       "ticker": "APD",
@@ -4418,7 +4418,7 @@
       "volume": 967742,
       "change": 1.0100000000000193,
       "changePercent": 0.39889415481833307,
-      "lastUpdated": "2025-10-21T02:22:03.613Z"
+      "lastUpdated": "2025-10-21T03:28:53.361Z"
     },
     {
       "ticker": "SHW",
@@ -4431,7 +4431,7 @@
       "volume": 3042725,
       "change": 0.5,
       "changePercent": 0.15117615045050492,
-      "lastUpdated": "2025-10-21T02:22:03.518Z"
+      "lastUpdated": "2025-10-21T03:28:53.359Z"
     },
     {
       "ticker": "FCX",
@@ -4444,7 +4444,7 @@
       "volume": 12534577,
       "change": 1.009999999999998,
       "changePercent": 2.4526469159786255,
-      "lastUpdated": "2025-10-21T02:22:03.549Z"
+      "lastUpdated": "2025-10-21T03:28:53.372Z"
     },
     {
       "ticker": "NEM",
@@ -4457,7 +4457,7 @@
       "volume": 11824613,
       "change": 4.1200000000000045,
       "changePercent": 4.5389445852153845,
-      "lastUpdated": "2025-10-21T02:22:03.553Z"
+      "lastUpdated": "2025-10-21T03:28:53.376Z"
     },
     {
       "ticker": "ECL",
@@ -4470,7 +4470,7 @@
       "volume": 1475976,
       "change": 3.420000000000016,
       "changePercent": 1.235772357723583,
-      "lastUpdated": "2025-10-21T02:22:03.658Z"
+      "lastUpdated": "2025-10-21T03:28:53.362Z"
     },
     {
       "ticker": "DD",
@@ -4483,7 +4483,7 @@
       "volume": 2516539,
       "change": 1.3800000000000097,
       "changePercent": 1.7343219806459844,
-      "lastUpdated": "2025-10-21T02:22:05.850Z"
+      "lastUpdated": "2025-10-21T03:28:55.606Z"
     },
     {
       "ticker": "DOW",
@@ -4496,7 +4496,7 @@
       "volume": 10140573,
       "change": -0.26000000000000156,
       "changePercent": -1.187756966651446,
-      "lastUpdated": "2025-10-21T02:22:05.832Z"
+      "lastUpdated": "2025-10-21T03:28:55.540Z"
     },
     {
       "ticker": "PPG",
@@ -4509,7 +4509,7 @@
       "volume": 1030104,
       "change": 0.6000000000000085,
       "changePercent": 0.5907256079551133,
-      "lastUpdated": "2025-10-21T02:22:05.869Z"
+      "lastUpdated": "2025-10-21T03:28:55.622Z"
     },
     {
       "ticker": "NUE",
@@ -4522,7 +4522,7 @@
       "volume": 1069017,
       "change": 4.8300000000000125,
       "changePercent": 3.6651995750493342,
-      "lastUpdated": "2025-10-21T02:22:05.832Z"
+      "lastUpdated": "2025-10-21T03:28:55.570Z"
     },
     {
       "ticker": "IFF",
@@ -4535,7 +4535,7 @@
       "volume": 1756824,
       "change": 0.8900000000000006,
       "changePercent": 1.3960784313725498,
-      "lastUpdated": "2025-10-21T02:22:05.833Z"
+      "lastUpdated": "2025-10-21T03:28:55.544Z"
     },
     {
       "ticker": "LYB",
@@ -4548,7 +4548,7 @@
       "volume": 2924509,
       "change": -0.5700000000000003,
       "changePercent": -1.234033340549903,
-      "lastUpdated": "2025-10-21T02:22:08.056Z"
+      "lastUpdated": "2025-10-21T03:28:57.792Z"
     },
     {
       "ticker": "EMN",
@@ -4561,7 +4561,7 @@
       "volume": 1351641,
       "change": 0.259999999999998,
       "changePercent": 0.4242819843342004,
-      "lastUpdated": "2025-10-21T02:22:08.047Z"
+      "lastUpdated": "2025-10-21T03:28:57.799Z"
     },
     {
       "ticker": "FMC",
@@ -4574,7 +4574,7 @@
       "volume": 1797017,
       "change": 0.13000000000000256,
       "changePercent": 0.442176870748308,
-      "lastUpdated": "2025-10-21T02:22:08.052Z"
+      "lastUpdated": "2025-10-21T03:28:57.798Z"
     },
     {
       "ticker": "MOS",
@@ -4587,7 +4587,7 @@
       "volume": 5453808,
       "change": 0.259999999999998,
       "changePercent": 0.8867667121418757,
-      "lastUpdated": "2025-10-21T02:22:08.047Z"
+      "lastUpdated": "2025-10-21T03:28:57.788Z"
     },
     {
       "ticker": "CF",
@@ -4600,7 +4600,7 @@
       "volume": 1657786,
       "change": 0.4200000000000017,
       "changePercent": 0.5029337803855846,
-      "lastUpdated": "2025-10-21T02:22:08.044Z"
+      "lastUpdated": "2025-10-21T03:28:57.850Z"
     },
     {
       "ticker": "NTR",
@@ -4613,7 +4613,7 @@
       "volume": 1869656,
       "change": 0.14999999999999858,
       "changePercent": 0.26123301985370706,
-      "lastUpdated": "2025-10-21T02:22:10.390Z"
+      "lastUpdated": "2025-10-21T03:29:00.021Z"
     },
     {
       "ticker": "IP",
@@ -4626,7 +4626,7 @@
       "volume": 3224052,
       "change": 1.3100000000000023,
       "changePercent": 2.81236582224131,
-      "lastUpdated": "2025-10-21T02:22:10.300Z"
+      "lastUpdated": "2025-10-21T03:29:00.089Z"
     },
     {
       "ticker": "PKG",
@@ -4639,7 +4639,7 @@
       "volume": 568589,
       "change": 2.549999999999983,
       "changePercent": 1.2541189199822862,
-      "lastUpdated": "2025-10-21T02:22:10.300Z"
+      "lastUpdated": "2025-10-21T03:29:00.091Z"
     },
     {
       "ticker": "CLF",
@@ -4652,7 +4652,7 @@
       "volume": 76536190,
       "change": 2.8599999999999994,
       "changePercent": 21.471471471471467,
-      "lastUpdated": "2025-10-21T02:22:12.577Z"
+      "lastUpdated": "2025-10-21T03:29:02.284Z"
     },
     {
       "ticker": "AA",
@@ -4665,7 +4665,7 @@
       "volume": 9853733,
       "change": 2.990000000000002,
       "changePercent": 8.312482624409236,
-      "lastUpdated": "2025-10-21T02:22:12.594Z"
+      "lastUpdated": "2025-10-21T03:29:02.353Z"
     },
     {
       "ticker": "SCCO",
@@ -4678,7 +4678,7 @@
       "volume": 1034318,
       "change": 5.1299999999999955,
       "changePercent": 3.9519297434712235,
-      "lastUpdated": "2025-10-21T02:22:12.568Z"
+      "lastUpdated": "2025-10-21T03:29:02.318Z"
     },
     {
       "ticker": "VALE",
@@ -4691,7 +4691,7 @@
       "volume": 34710214,
       "change": 0.3000000000000007,
       "changePercent": 2.7027027027027093,
-      "lastUpdated": "2025-10-21T02:22:12.641Z"
+      "lastUpdated": "2025-10-21T03:29:02.249Z"
     },
     {
       "ticker": "RIO",
@@ -4704,7 +4704,7 @@
       "volume": 3845216,
       "change": 1.2199999999999989,
       "changePercent": 1.793590120552777,
-      "lastUpdated": "2025-10-21T02:22:12.568Z"
+      "lastUpdated": "2025-10-21T03:29:02.248Z"
     },
     {
       "ticker": "BHP",
@@ -4717,7 +4717,7 @@
       "volume": 3949700,
       "change": 1.2099999999999937,
       "changePercent": 2.176650476704432,
-      "lastUpdated": "2025-10-21T02:22:14.827Z"
+      "lastUpdated": "2025-10-21T03:29:04.524Z"
     },
     {
       "ticker": "ABX",
@@ -4730,7 +4730,7 @@
       "volume": 0,
       "change": 0,
       "changePercent": 0,
-      "lastUpdated": "2025-10-21T02:22:14.883Z"
+      "lastUpdated": "2025-10-21T03:29:04.580Z"
     },
     {
       "ticker": "AEM",
@@ -4743,7 +4743,7 @@
       "volume": 2605185,
       "change": 4.009999999999991,
       "changePercent": 2.2981259671041268,
-      "lastUpdated": "2025-10-21T02:22:14.827Z"
+      "lastUpdated": "2025-10-21T03:29:04.526Z"
     },
     {
       "ticker": "ADP",
@@ -4756,7 +4756,7 @@
       "volume": 1128638,
       "change": 1.759999999999991,
       "changePercent": 0.62573328118889,
-      "lastUpdated": "2025-10-21T02:22:14.939Z"
+      "lastUpdated": "2025-10-21T03:29:04.517Z"
     },
     {
       "ticker": "ASML",
@@ -4769,7 +4769,7 @@
       "volume": 1264567,
       "change": 12.88000000000011,
       "changePercent": 1.2513723318468535,
-      "lastUpdated": "2025-10-21T02:22:17.105Z"
+      "lastUpdated": "2025-10-21T03:29:06.751Z"
     },
     {
       "ticker": "BIDU",
@@ -4782,7 +4782,7 @@
       "volume": 5121338,
       "change": 2.1099999999999994,
       "changePercent": 1.7581868177651856,
-      "lastUpdated": "2025-10-21T02:22:17.144Z"
+      "lastUpdated": "2025-10-21T03:29:06.753Z"
     },
     {
       "ticker": "CPRT",
@@ -4795,7 +4795,7 @@
       "volume": 3607168,
       "change": 0.4199999999999946,
       "changePercent": 0.9472259810554681,
-      "lastUpdated": "2025-10-21T02:22:17.118Z"
+      "lastUpdated": "2025-10-21T03:29:06.758Z"
     },
     {
       "ticker": "CSGP",
@@ -4808,7 +4808,7 @@
       "volume": 1869702,
       "change": 0.9699999999999989,
       "changePercent": 1.310987971347478,
-      "lastUpdated": "2025-10-21T02:22:17.180Z"
+      "lastUpdated": "2025-10-21T03:29:06.744Z"
     },
     {
       "ticker": "DLTR",
@@ -4821,7 +4821,7 @@
       "volume": 4053039,
       "change": 2.5799999999999983,
       "changePercent": 2.6752384902530055,
-      "lastUpdated": "2025-10-21T02:22:19.379Z"
+      "lastUpdated": "2025-10-21T03:29:08.932Z"
     },
     {
       "ticker": "DXCM",
@@ -4834,7 +4834,7 @@
       "volume": 4503402,
       "change": 1.8300000000000125,
       "changePercent": 2.7477477477477668,
-      "lastUpdated": "2025-10-21T02:22:19.445Z"
+      "lastUpdated": "2025-10-21T03:29:08.922Z"
     },
     {
       "ticker": "EA",
@@ -4847,7 +4847,7 @@
       "volume": 2253260,
       "change": 0.28999999999999204,
       "changePercent": 0.14478282576135398,
-      "lastUpdated": "2025-10-21T02:22:19.395Z"
+      "lastUpdated": "2025-10-21T03:29:08.916Z"
     },
     {
       "ticker": "FAST",
@@ -4860,7 +4860,7 @@
       "volume": 4031362,
       "change": 0.5300000000000011,
       "changePercent": 1.2482336316533234,
-      "lastUpdated": "2025-10-21T02:22:19.426Z"
+      "lastUpdated": "2025-10-21T03:29:09.055Z"
     },
     {
       "ticker": "INCY",
@@ -4873,7 +4873,7 @@
       "volume": 2056243,
       "change": -1.3999999999999915,
       "changePercent": -1.598721023181445,
-      "lastUpdated": "2025-10-21T02:22:19.483Z"
+      "lastUpdated": "2025-10-21T03:29:08.990Z"
     },
     {
       "ticker": "JD",
@@ -4886,7 +4886,7 @@
       "volume": 13455912,
       "change": 0.6899999999999977,
       "changePercent": 2.086483217417592,
-      "lastUpdated": "2025-10-21T02:22:21.707Z"
+      "lastUpdated": "2025-10-21T03:29:11.261Z"
     },
     {
       "ticker": "KDP",
@@ -4899,7 +4899,7 @@
       "volume": 10924839,
       "change": -0.28000000000000114,
       "changePercent": -0.9989297181591192,
-      "lastUpdated": "2025-10-21T02:22:21.669Z"
+      "lastUpdated": "2025-10-21T03:29:11.345Z"
     },
     {
       "ticker": "LULU",
@@ -4912,7 +4912,7 @@
       "volume": 5086132,
       "change": 5.02000000000001,
       "changePercent": 2.9986261274714834,
-      "lastUpdated": "2025-10-21T02:22:21.703Z"
+      "lastUpdated": "2025-10-21T03:29:11.938Z"
     },
     {
       "ticker": "MELI",
@@ -4925,7 +4925,7 @@
       "volume": 355586,
       "change": 77.13000000000011,
       "changePercent": 3.8089265079161327,
-      "lastUpdated": "2025-10-21T02:22:21.728Z"
+      "lastUpdated": "2025-10-21T03:29:11.213Z"
     },
     {
       "ticker": "MRVL",
@@ -4938,7 +4938,7 @@
       "volume": 15740172,
       "change": -2.1099999999999994,
       "changePercent": -2.3990903922683335,
-      "lastUpdated": "2025-10-21T02:22:21.676Z"
+      "lastUpdated": "2025-10-21T03:29:11.306Z"
     },
     {
       "ticker": "MTCH",
@@ -4951,7 +4951,7 @@
       "volume": 2332973,
       "change": 0.5499999999999972,
       "changePercent": 1.6959605303731025,
-      "lastUpdated": "2025-10-21T02:22:23.903Z"
+      "lastUpdated": "2025-10-21T03:29:14.112Z"
     },
     {
       "ticker": "NTES",
@@ -4964,7 +4964,7 @@
       "volume": 537425,
       "change": 4.639999999999986,
       "changePercent": 3.1306929356993365,
-      "lastUpdated": "2025-10-21T02:22:23.905Z"
+      "lastUpdated": "2025-10-21T03:29:14.182Z"
     },
     {
       "ticker": "NXPI",
@@ -4977,7 +4977,7 @@
       "volume": 2333202,
       "change": 5.469999999999999,
       "changePercent": 2.551901096337765,
-      "lastUpdated": "2025-10-21T02:22:23.899Z"
+      "lastUpdated": "2025-10-21T03:29:14.108Z"
     },
     {
       "ticker": "ORLY",
@@ -4990,7 +4990,7 @@
       "volume": 4179296,
       "change": -0.6299999999999955,
       "changePercent": -0.6200787401574759,
-      "lastUpdated": "2025-10-21T02:22:23.904Z"
+      "lastUpdated": "2025-10-21T03:29:14.109Z"
     },
     {
       "ticker": "PCAR",
@@ -5003,7 +5003,7 @@
       "volume": 4881960,
       "change": 2.7900000000000063,
       "changePercent": 2.9464568592248455,
-      "lastUpdated": "2025-10-21T02:22:23.902Z"
+      "lastUpdated": "2025-10-21T03:29:14.183Z"
     },
     {
       "ticker": "PDD",
@@ -5016,7 +5016,7 @@
       "volume": 8042960,
       "change": 3.0800000000000125,
       "changePercent": 2.3972602739726128,
-      "lastUpdated": "2025-10-21T02:22:26.095Z"
+      "lastUpdated": "2025-10-21T03:29:16.417Z"
     },
     {
       "ticker": "ROST",
@@ -5029,7 +5029,7 @@
       "volume": 1584001,
       "change": 1.1399999999999864,
       "changePercent": 0.7293199411425925,
-      "lastUpdated": "2025-10-21T02:22:26.084Z"
+      "lastUpdated": "2025-10-21T03:29:16.349Z"
     },
     {
       "ticker": "TCOM",
@@ -5042,7 +5042,7 @@
       "volume": 791580,
       "change": 1.2399999999999949,
       "changePercent": 1.7678927858568505,
-      "lastUpdated": "2025-10-21T02:22:26.153Z"
+      "lastUpdated": "2025-10-21T03:29:16.342Z"
     },
     {
       "ticker": "WBA",
@@ -5055,7 +5055,7 @@
       "volume": 451753578,
       "change": 0,
       "changePercent": 0,
-      "lastUpdated": "2025-10-21T02:22:26.084Z"
+      "lastUpdated": "2025-10-21T03:29:16.337Z"
     },
     {
       "ticker": "TRV",
@@ -5068,7 +5068,7 @@
       "volume": 845721,
       "change": 3.240000000000009,
       "changePercent": 1.2365940231288917,
-      "lastUpdated": "2025-10-21T02:22:28.343Z"
+      "lastUpdated": "2025-10-21T03:29:18.586Z"
     },
     {
       "ticker": "PLTR",
@@ -5081,7 +5081,7 @@
       "volume": 31850481,
       "change": 3.4399999999999977,
       "changePercent": 1.9309570586584324,
-      "lastUpdated": "2025-10-21T02:22:28.349Z"
+      "lastUpdated": "2025-10-21T03:29:18.664Z"
     },
     {
       "ticker": "SNOW",
@@ -5094,7 +5094,7 @@
       "volume": 2669664,
       "change": 4.929999999999978,
       "changePercent": 2.047852454930622,
-      "lastUpdated": "2025-10-21T02:22:28.345Z"
+      "lastUpdated": "2025-10-21T03:29:18.583Z"
     },
     {
       "ticker": "ARKK",
@@ -5107,7 +5107,7 @@
       "volume": 9294747,
       "change": 3.7700000000000102,
       "changePercent": 4.371521335807063,
-      "lastUpdated": "2025-10-21T02:22:28.336Z"
+      "lastUpdated": "2025-10-21T03:29:18.585Z"
     },
     {
       "ticker": "ARKQ",
@@ -5120,7 +5120,7 @@
       "volume": 264971,
       "change": 2.7700000000000102,
       "changePercent": 2.3830006882312547,
-      "lastUpdated": "2025-10-21T02:22:28.334Z"
+      "lastUpdated": "2025-10-21T03:29:18.666Z"
     },
     {
       "ticker": "ARKW",
@@ -5133,7 +5133,7 @@
       "volume": 106197,
       "change": 3.7099999999999795,
       "changePercent": 2.178124816532601,
-      "lastUpdated": "2025-10-21T02:22:30.537Z"
+      "lastUpdated": "2025-10-21T03:29:20.893Z"
     },
     {
       "ticker": "ARKG",
@@ -5146,7 +5146,7 @@
       "volume": 6516556,
       "change": 2.6000000000000014,
       "changePercent": 8.387096774193553,
-      "lastUpdated": "2025-10-21T02:22:30.658Z"
+      "lastUpdated": "2025-10-21T03:29:20.883Z"
     },
     {
       "ticker": "ARKF",
@@ -5159,124 +5159,124 @@
       "volume": 310288,
       "change": 1.6200000000000045,
       "changePercent": 2.971931755641175,
-      "lastUpdated": "2025-10-21T02:22:30.605Z"
+      "lastUpdated": "2025-10-21T03:29:20.831Z"
     },
     {
       "ticker": "BTC-USD",
       "name": "Bitcoin USD",
       "sector": "Cryptocurrency",
-      "price": 109579.69,
+      "price": 109547.42,
       "pe": null,
       "dividendYield": null,
       "marketCap": null,
-      "volume": 60871315456,
-      "change": -1007.9400000000023,
-      "changePercent": -0.9114400950630757,
-      "lastUpdated": "2025-10-21T02:22:30.597Z"
+      "volume": 62126841856,
+      "change": -1040.2100000000064,
+      "changePercent": -0.9406205739285726,
+      "lastUpdated": "2025-10-21T03:29:20.836Z"
     },
     {
       "ticker": "ETH-USD",
       "name": "Ethereum USD",
       "sector": "Cryptocurrency",
-      "price": 3939.0457,
+      "price": 3940.088,
       "pe": null,
       "dividendYield": null,
       "marketCap": null,
-      "volume": 37858947072,
-      "change": -41.69479999999976,
-      "changePercent": -1.0474131634553863,
-      "lastUpdated": "2025-10-21T02:22:30.533Z"
+      "volume": 37538041856,
+      "change": -40.65249999999969,
+      "changePercent": -1.0212295928357975,
+      "lastUpdated": "2025-10-21T03:29:20.833Z"
     },
     {
       "ticker": "BNB-USD",
       "name": "BNB USD",
       "sector": "Cryptocurrency",
-      "price": 1085.2958,
+      "price": 1083.9867,
       "pe": null,
       "dividendYield": null,
       "marketCap": null,
-      "volume": 4039742976,
-      "change": -15.86909999999989,
-      "changePercent": -1.441119309197005,
-      "lastUpdated": "2025-10-21T02:22:32.842Z"
+      "volume": 4112498944,
+      "change": -17.17820000000006,
+      "changePercent": -1.5600025028040814,
+      "lastUpdated": "2025-10-21T03:29:23.058Z"
     },
     {
       "ticker": "ADA-USD",
       "name": "Cardano USD",
       "sector": "Cryptocurrency",
-      "price": 0.656488,
+      "price": 0.653977,
       "pe": null,
       "dividendYield": null,
       "marketCap": null,
-      "volume": 1000466688,
-      "change": -0.00672600000000001,
-      "changePercent": -1.014152294734431,
-      "lastUpdated": "2025-10-21T02:22:32.840Z"
+      "volume": 1000110720,
+      "change": -0.00923699999999994,
+      "changePercent": -1.3927631201995043,
+      "lastUpdated": "2025-10-21T03:29:23.047Z"
     },
     {
       "ticker": "SOL-USD",
       "name": "Solana USD",
       "sector": "Cryptocurrency",
-      "price": 186.28761,
+      "price": 186.56216,
       "pe": null,
       "dividendYield": null,
       "marketCap": null,
-      "volume": 6010671104,
-      "change": -3.4744300000000123,
-      "changePercent": -1.8309404768203439,
-      "lastUpdated": "2025-10-21T02:22:32.840Z"
+      "volume": 5890018816,
+      "change": -3.1998800000000074,
+      "changePercent": -1.6862592750373082,
+      "lastUpdated": "2025-10-21T03:29:23.053Z"
     },
     {
       "ticker": "XRP-USD",
       "name": "XRP USD",
       "sector": "Cryptocurrency",
-      "price": 2.4643922,
+      "price": 2.4575377,
       "pe": null,
       "dividendYield": null,
       "marketCap": null,
-      "volume": 4595425280,
-      "change": -0.0311944000000004,
-      "changePercent": -1.2499826694052771,
-      "lastUpdated": "2025-10-21T02:22:32.838Z"
+      "volume": 4596088320,
+      "change": -0.03804890000000016,
+      "changePercent": -1.5246475518020557,
+      "lastUpdated": "2025-10-21T03:29:23.174Z"
     },
     {
       "ticker": "DOT-USD",
       "name": "Polkadot USD",
       "sector": "Cryptocurrency",
-      "price": 3.0491536,
+      "price": 3.044764,
       "pe": null,
       "dividendYield": null,
       "marketCap": null,
-      "volume": 225599632,
-      "change": -0.038851699999999934,
-      "changePercent": -1.2581487473483266,
-      "lastUpdated": "2025-10-21T02:22:32.928Z"
+      "volume": 225974880,
+      "change": -0.04324130000000004,
+      "changePercent": -1.400298762440597,
+      "lastUpdated": "2025-10-21T03:29:23.079Z"
     },
     {
       "ticker": "DOGE-USD",
       "name": "Dogecoin USD",
       "sector": "Cryptocurrency",
-      "price": 0.19729133,
+      "price": 0.1972203,
       "pe": null,
       "dividendYield": null,
       "marketCap": null,
-      "volume": 2067004416,
-      "change": -0.0028641800000000217,
-      "changePercent": -1.4309773435665207,
-      "lastUpdated": "2025-10-21T02:22:35.101Z"
+      "volume": 2075083904,
+      "change": -0.0029352100000000214,
+      "changePercent": -1.466464750333389,
+      "lastUpdated": "2025-10-21T03:29:25.396Z"
     },
     {
       "ticker": "AVAX-USD",
       "name": "Avalanche USD",
       "sector": "Cryptocurrency",
-      "price": 20.043732,
+      "price": 19.961449,
       "pe": null,
       "dividendYield": null,
       "marketCap": null,
-      "volume": 582158784,
-      "change": -0.31841400000000064,
-      "changePercent": -1.5637546258631123,
-      "lastUpdated": "2025-10-21T02:22:35.094Z"
+      "volume": 586521984,
+      "change": -0.4006969999999974,
+      "changePercent": -1.9678525043480066,
+      "lastUpdated": "2025-10-21T03:29:25.369Z"
     },
     {
       "ticker": "MATIC-USD",
@@ -5289,20 +5289,20 @@
       "volume": 1267171,
       "change": 0.005476179999999997,
       "changePercent": 2.5738777573274954,
-      "lastUpdated": "2025-10-21T02:22:35.101Z"
+      "lastUpdated": "2025-10-21T03:29:25.409Z"
     },
     {
       "ticker": "LTC-USD",
       "name": "Litecoin USD",
       "sector": "Cryptocurrency",
-      "price": 93.27906,
+      "price": 93.34252,
       "pe": null,
       "dividendYield": null,
       "marketCap": null,
-      "volume": 547345024,
-      "change": -0.8159799999999962,
-      "changePercent": -0.8671870483290045,
-      "lastUpdated": "2025-10-21T02:22:35.129Z"
+      "volume": 550971392,
+      "change": -0.7525200000000041,
+      "changePercent": -0.7997445986526007,
+      "lastUpdated": "2025-10-21T03:29:25.356Z"
     },
     {
       "ticker": "UNI-USD",
@@ -5315,33 +5315,33 @@
       "volume": 3,
       "change": 0,
       "changePercent": 0,
-      "lastUpdated": "2025-10-21T02:22:35.089Z"
+      "lastUpdated": "2025-10-21T03:29:25.330Z"
     },
     {
       "ticker": "LINK-USD",
       "name": "Chainlink USD",
       "sector": "Cryptocurrency",
-      "price": 18.574371,
+      "price": 18.379784,
       "pe": null,
       "dividendYield": null,
       "marketCap": null,
-      "volume": 1333605632,
-      "change": -0.08783400000000086,
-      "changePercent": -0.47065177989418105,
-      "lastUpdated": "2025-10-21T02:22:37.368Z"
+      "volume": 1350390784,
+      "change": -0.28242099999999937,
+      "changePercent": -1.5133313560750155,
+      "lastUpdated": "2025-10-21T03:29:27.592Z"
     },
     {
       "ticker": "ATOM-USD",
       "name": "Cosmos USD",
       "sector": "Cryptocurrency",
-      "price": 3.2558646,
+      "price": 3.2524927,
       "pe": null,
       "dividendYield": null,
       "marketCap": null,
-      "volume": 100579624,
-      "change": -0.01974269999999967,
-      "changePercent": -0.6027187691271683,
-      "lastUpdated": "2025-10-21T02:22:37.299Z"
+      "volume": 100038968,
+      "change": -0.023114599999999985,
+      "changePercent": -0.7056584591199313,
+      "lastUpdated": "2025-10-21T03:29:27.582Z"
     },
     {
       "ticker": "FTM-USD",
@@ -5354,72 +5354,72 @@
       "volume": 46269352,
       "change": -0.0018748999999999016,
       "changePercent": -0.2683142085460561,
-      "lastUpdated": "2025-10-21T02:22:37.297Z"
+      "lastUpdated": "2025-10-21T03:29:27.573Z"
     },
     {
       "ticker": "ALGO-USD",
       "name": "Algorand USD",
       "sector": "Cryptocurrency",
-      "price": 0.18363675,
+      "price": 0.18328801,
       "pe": null,
       "dividendYield": null,
       "marketCap": null,
-      "volume": 83435472,
-      "change": -0.003239960000000014,
-      "changePercent": -1.7337419949227562,
-      "lastUpdated": "2025-10-21T02:22:37.367Z"
+      "volume": 83784504,
+      "change": -0.0035887000000000002,
+      "changePercent": -1.9203570097097709,
+      "lastUpdated": "2025-10-21T03:29:27.574Z"
     },
     {
       "ticker": "VET-USD",
       "name": "VeChain USD",
       "sector": "Cryptocurrency",
-      "price": 0.01764619,
+      "price": 0.017569654,
       "pe": null,
       "dividendYield": null,
       "marketCap": null,
-      "volume": 32447952,
-      "change": -0.00018774300000000063,
-      "changePercent": -1.0527290867359467,
-      "lastUpdated": "2025-10-21T02:22:37.485Z"
+      "volume": 33324186,
+      "change": -0.0002642789999999992,
+      "changePercent": -1.4818884875254337,
+      "lastUpdated": "2025-10-21T03:29:27.635Z"
     },
     {
       "ticker": "FIL-USD",
       "name": "Filecoin USD",
       "sector": "Cryptocurrency",
-      "price": 1.5652374,
+      "price": 1.5588906,
       "pe": null,
       "dividendYield": null,
       "marketCap": null,
-      "volume": 117435216,
-      "change": -0.016614899999999988,
-      "changePercent": -1.0503445865331413,
-      "lastUpdated": "2025-10-21T02:22:39.824Z"
+      "volume": 117399616,
+      "change": -0.022961699999999974,
+      "changePercent": -1.4515704152656965,
+      "lastUpdated": "2025-10-21T03:29:29.878Z"
     },
     {
       "ticker": "TRX-USD",
       "name": "TRON USD",
       "sector": "Cryptocurrency",
-      "price": 0.3214844,
+      "price": 0.3214432,
       "pe": null,
       "dividendYield": null,
       "marketCap": null,
-      "volume": 647353792,
-      "change": -0.0012078199999999706,
-      "changePercent": -0.3742947381873572,
-      "lastUpdated": "2025-10-21T02:22:39.668Z"
+      "volume": 635411584,
+      "change": -0.0012490199999999896,
+      "changePercent": -0.38706232210990077,
+      "lastUpdated": "2025-10-21T03:29:29.868Z"
     },
     {
       "ticker": "ICP-USD",
       "name": "Internet Computer USD",
       "sector": "Cryptocurrency",
-      "price": 3.127069,
+      "price": 3.125845,
       "pe": null,
       "dividendYield": null,
       "marketCap": null,
-      "volume": 76501272,
-      "change": -0.06509900000000002,
-      "changePercent": -2.03933502246749,
-      "lastUpdated": "2025-10-21T02:22:39.789Z"
+      "volume": 76896048,
+      "change": -0.06632300000000013,
+      "changePercent": -2.07767886903196,
+      "lastUpdated": "2025-10-21T03:29:29.796Z"
     },
     {
       "ticker": "COIN",
@@ -5432,7 +5432,7 @@
       "volume": 7442961,
       "change": 7.759999999999991,
       "changePercent": 2.3093863460508275,
-      "lastUpdated": "2025-10-21T02:22:39.729Z"
+      "lastUpdated": "2025-10-21T03:29:29.829Z"
     },
     {
       "ticker": "MSTR",
@@ -5445,7 +5445,7 @@
       "volume": 9186191,
       "change": 6.740000000000009,
       "changePercent": 2.325180253216962,
-      "lastUpdated": "2025-10-21T02:22:39.828Z"
+      "lastUpdated": "2025-10-21T03:29:29.808Z"
     },
     {
       "ticker": "RIOT",
@@ -5458,7 +5458,7 @@
       "volume": 21552001,
       "change": 1.9800000000000004,
       "changePercent": 9.885172241637544,
-      "lastUpdated": "2025-10-21T02:22:42.014Z"
+      "lastUpdated": "2025-10-21T03:29:32.121Z"
     },
     {
       "ticker": "MARA",
@@ -5471,7 +5471,7 @@
       "volume": 49019240,
       "change": 1.1600000000000001,
       "changePercent": 5.927439959121104,
-      "lastUpdated": "2025-10-21T02:22:42.059Z"
+      "lastUpdated": "2025-10-21T03:29:32.057Z"
     },
     {
       "ticker": "HUT",
@@ -5484,7 +5484,7 @@
       "volume": 7116331,
       "change": 1.4600000000000009,
       "changePercent": 3.0127940569541907,
-      "lastUpdated": "2025-10-21T02:22:42.081Z"
+      "lastUpdated": "2025-10-21T03:29:32.045Z"
     },
     {
       "ticker": "BITF",
@@ -5497,7 +5497,7 @@
       "volume": 116394789,
       "change": -0.02999999999999936,
       "changePercent": -0.5988023952095681,
-      "lastUpdated": "2025-10-21T02:22:42.119Z"
+      "lastUpdated": "2025-10-21T03:29:32.057Z"
     },
     {
       "ticker": "CAN",
@@ -5510,7 +5510,7 @@
       "volume": 139096315,
       "change": 0.44999999999999973,
       "changePercent": 28.124999999999982,
-      "lastUpdated": "2025-10-21T02:22:42.092Z"
+      "lastUpdated": "2025-10-21T03:29:32.092Z"
     },
     {
       "ticker": "ARBKF",
@@ -5523,7 +5523,7 @@
       "volume": 80000,
       "change": -0.0049999999999999975,
       "changePercent": -9.090909090909086,
-      "lastUpdated": "2025-10-21T02:22:44.360Z"
+      "lastUpdated": "2025-10-21T03:29:34.299Z"
     },
     {
       "ticker": "BTBT",
@@ -5536,7 +5536,7 @@
       "volume": 74993697,
       "change": 0.5699999999999998,
       "changePercent": 15.61643835616438,
-      "lastUpdated": "2025-10-21T02:22:44.665Z"
+      "lastUpdated": "2025-10-21T03:29:34.294Z"
     },
     {
       "ticker": "EBON",
@@ -5549,7 +5549,7 @@
       "volume": 5758,
       "change": -0.020000000000000462,
       "changePercent": -0.4464285714285817,
-      "lastUpdated": "2025-10-21T02:22:44.310Z"
+      "lastUpdated": "2025-10-21T03:29:34.300Z"
     },
     {
       "ticker": "SOS",
@@ -5562,7 +5562,7 @@
       "volume": 36370,
       "change": 0.020000000000000018,
       "changePercent": 1.1173184357541908,
-      "lastUpdated": "2025-10-21T02:22:44.360Z"
+      "lastUpdated": "2025-10-21T03:29:34.287Z"
     },
     {
       "ticker": "BTCM",
@@ -5575,7 +5575,7 @@
       "volume": 389440,
       "change": -0.10999999999999988,
       "changePercent": -3.873239436619714,
-      "lastUpdated": "2025-10-21T02:22:44.310Z"
+      "lastUpdated": "2025-10-21T03:29:34.286Z"
     },
     {
       "ticker": "BLOK",
@@ -5588,7 +5588,7 @@
       "volume": 359665,
       "change": 2.260000000000005,
       "changePercent": 3.2621247113164045,
-      "lastUpdated": "2025-10-21T02:22:46.908Z"
+      "lastUpdated": "2025-10-21T03:29:36.460Z"
     },
     {
       "ticker": "BITQ",
@@ -5601,7 +5601,7 @@
       "volume": 191887,
       "change": 0.8900000000000006,
       "changePercent": 3.175169461291475,
-      "lastUpdated": "2025-10-21T02:22:46.843Z"
+      "lastUpdated": "2025-10-21T03:29:36.458Z"
     },
     {
       "ticker": "LEGR",
@@ -5614,7 +5614,7 @@
       "volume": 6502,
       "change": 0.46750000000000114,
       "changePercent": 0.8172719723788315,
-      "lastUpdated": "2025-10-21T02:22:46.837Z"
+      "lastUpdated": "2025-10-21T03:29:36.455Z"
     },
     {
       "ticker": "XBTF",
@@ -5627,7 +5627,7 @@
       "volume": 40788,
       "change": 0.12999999999999545,
       "changePercent": 0.3325658736249564,
-      "lastUpdated": "2025-10-21T02:22:46.830Z"
+      "lastUpdated": "2025-10-21T03:29:36.457Z"
     },
     {
       "ticker": "BITO",
@@ -5640,7 +5640,7 @@
       "volume": 24902796,
       "change": 0.7300000000000004,
       "changePercent": 4.161915621436719,
-      "lastUpdated": "2025-10-21T02:22:46.850Z"
+      "lastUpdated": "2025-10-21T03:29:36.539Z"
     },
     {
       "ticker": "BTF",
@@ -5653,7 +5653,7 @@
       "volume": 35009,
       "change": 0.6689999999999969,
       "changePercent": 4.178638351030586,
-      "lastUpdated": "2025-10-21T02:22:49.089Z"
+      "lastUpdated": "2025-10-21T03:29:38.773Z"
     },
     {
       "ticker": "GBTC",
@@ -5666,7 +5666,7 @@
       "volume": 5302656,
       "change": 3.430000000000007,
       "changePercent": 4.109753175173744,
-      "lastUpdated": "2025-10-21T02:22:49.169Z"
+      "lastUpdated": "2025-10-21T03:29:38.725Z"
     },
     {
       "ticker": "ETHE",
@@ -5679,7 +5679,7 @@
       "volume": 5350153,
       "change": 1.2600000000000016,
       "changePercent": 4.002541296060996,
-      "lastUpdated": "2025-10-21T02:22:49.087Z"
+      "lastUpdated": "2025-10-21T03:29:38.714Z"
     },
     {
       "ticker": "GDLC",
@@ -5692,7 +5692,7 @@
       "volume": 101344,
       "change": 2.289200000000001,
       "changePercent": 4.45796365392555,
-      "lastUpdated": "2025-10-21T02:22:49.085Z"
+      "lastUpdated": "2025-10-21T03:29:38.706Z"
     },
     {
       "ticker": "OBTC",
@@ -5703,35 +5703,35 @@
       "dividendYield": null,
       "marketCap": null,
       "volume": 4465,
-      "change": 1.3500000000000014,
-      "changePercent": 4.212168486739475,
-      "lastUpdated": "2025-10-21T02:22:49.105Z"
+      "change": 1.2800000000000011,
+      "changePercent": 3.9850560398505643,
+      "lastUpdated": "2025-10-21T03:29:38.705Z"
     },
     {
       "ticker": "BITW",
       "name": "Bitwise 10 Crypto Index Fund",
       "sector": "Diversified",
-      "price": 74.9,
+      "price": 75.11,
       "pe": null,
       "dividendYield": null,
       "marketCap": null,
       "volume": 17637,
-      "change": 3.240000000000009,
-      "changePercent": 4.521350823332416,
-      "lastUpdated": "2025-10-21T02:22:51.341Z"
+      "change": 3.450000000000003,
+      "changePercent": 4.814401339659508,
+      "lastUpdated": "2025-10-21T03:29:40.941Z"
     },
     {
       "ticker": "ETCG",
       "name": "Grayscale Ethereum Classic Trust (ETC)",
       "sector": "Diversified",
-      "price": 8.4,
+      "price": 8.412,
       "pe": null,
       "dividendYield": null,
       "marketCap": null,
       "volume": 14582,
-      "change": 0.34999999999999964,
-      "changePercent": 4.347826086956517,
-      "lastUpdated": "2025-10-21T02:22:51.347Z"
+      "change": 0.38200000000000145,
+      "changePercent": 4.757160647571625,
+      "lastUpdated": "2025-10-21T03:29:40.940Z"
     },
     {
       "ticker": "BLCN",
@@ -5744,7 +5744,7 @@
       "volume": 12315,
       "change": 0.5459999999999994,
       "changePercent": 1.9341126461211455,
-      "lastUpdated": "2025-10-21T02:22:51.420Z"
+      "lastUpdated": "2025-10-21T03:29:41.004Z"
     },
     {
       "ticker": "KOIN",
@@ -5757,7 +5757,7 @@
       "volume": 462,
       "change": -0.0788999999999973,
       "changePercent": -0.23733820242631629,
-      "lastUpdated": "2025-10-21T02:22:51.331Z"
+      "lastUpdated": "2025-10-21T03:29:40.995Z"
     },
     {
       "ticker": "RBLX",
@@ -5770,7 +5770,7 @@
       "volume": 4881702,
       "change": 1.920000000000016,
       "changePercent": 1.4444778814324526,
-      "lastUpdated": "2025-10-21T02:22:51.340Z"
+      "lastUpdated": "2025-10-21T03:29:40.962Z"
     },
     {
       "ticker": "U",
@@ -5783,7 +5783,7 @@
       "volume": 4578214,
       "change": 0.030000000000001137,
       "changePercent": 0.08513053348467972,
-      "lastUpdated": "2025-10-21T02:22:53.602Z"
+      "lastUpdated": "2025-10-21T03:29:43.203Z"
     },
     {
       "ticker": "ESTC",
@@ -5796,7 +5796,7 @@
       "volume": 1256290,
       "change": 2.6700000000000017,
       "changePercent": 3.289797930014788,
-      "lastUpdated": "2025-10-21T02:22:53.611Z"
+      "lastUpdated": "2025-10-21T03:29:43.175Z"
     },
     {
       "ticker": "FROG",
@@ -5809,7 +5809,7 @@
       "volume": 465130,
       "change": 0.6499999999999986,
       "changePercent": 1.3730460498521304,
-      "lastUpdated": "2025-10-21T02:22:53.606Z"
+      "lastUpdated": "2025-10-21T03:29:43.174Z"
     },
     {
       "ticker": "TWLO",
@@ -5822,7 +5822,7 @@
       "volume": 1368769,
       "change": 2.3699999999999903,
       "changePercent": 2.222222222222213,
-      "lastUpdated": "2025-10-21T02:22:55.866Z"
+      "lastUpdated": "2025-10-21T03:29:45.367Z"
     },
     {
       "ticker": "SOFI",
@@ -5835,7 +5835,7 @@
       "volume": 63901062,
       "change": 2.1400000000000006,
       "changePercent": 8.063300678221555,
-      "lastUpdated": "2025-10-21T02:22:55.836Z"
+      "lastUpdated": "2025-10-21T03:29:45.395Z"
     },
     {
       "ticker": "UPST",
@@ -5848,7 +5848,7 @@
       "volume": 5525385,
       "change": 3.719999999999999,
       "changePercent": 7.999999999999997,
-      "lastUpdated": "2025-10-21T02:22:55.886Z"
+      "lastUpdated": "2025-10-21T03:29:45.368Z"
     },
     {
       "ticker": "LC",
@@ -5861,7 +5861,7 @@
       "volume": 1056877,
       "change": 0.9699999999999989,
       "changePercent": 6.30279402209226,
-      "lastUpdated": "2025-10-21T02:22:55.932Z"
+      "lastUpdated": "2025-10-21T03:29:45.375Z"
     },
     {
       "ticker": "AFRM",
@@ -5874,7 +5874,7 @@
       "volume": 4830094,
       "change": 4.179999999999993,
       "changePercent": 6.156111929307794,
-      "lastUpdated": "2025-10-21T02:22:58.112Z"
+      "lastUpdated": "2025-10-21T03:29:47.565Z"
     },
     {
       "ticker": "OPEN",
@@ -5887,7 +5887,7 @@
       "volume": 62903295,
       "change": 0.20999999999999996,
       "changePercent": 2.932960893854748,
-      "lastUpdated": "2025-10-21T02:22:58.115Z"
+      "lastUpdated": "2025-10-21T03:29:47.654Z"
     },
     {
       "ticker": "COMP",
@@ -5900,7 +5900,7 @@
       "volume": 8688584,
       "change": 0.20000000000000018,
       "changePercent": 2.7434842249657088,
-      "lastUpdated": "2025-10-21T02:22:58.114Z"
+      "lastUpdated": "2025-10-21T03:29:47.559Z"
     },
     {
       "ticker": "Z",
@@ -5913,7 +5913,7 @@
       "volume": 2088254,
       "change": 1.7000000000000028,
       "changePercent": 2.330043859649127,
-      "lastUpdated": "2025-10-21T02:22:58.179Z"
+      "lastUpdated": "2025-10-21T03:29:47.576Z"
     },
     {
       "ticker": "RKT",
@@ -5926,7 +5926,7 @@
       "volume": 55244955,
       "change": 0.46999999999999886,
       "changePercent": 2.8211284513805452,
-      "lastUpdated": "2025-10-21T02:22:58.109Z"
+      "lastUpdated": "2025-10-21T03:29:47.564Z"
     },
     {
       "ticker": "EXPI",
@@ -5939,7 +5939,7 @@
       "volume": 740881,
       "change": 0.25,
       "changePercent": 2.334267040149393,
-      "lastUpdated": "2025-10-21T02:23:00.434Z"
+      "lastUpdated": "2025-10-21T03:29:49.822Z"
     },
     {
       "ticker": "REAL",
@@ -5952,7 +5952,7 @@
       "volume": 6045023,
       "change": 1.450000000000001,
       "changePercent": 14.132553606237828,
-      "lastUpdated": "2025-10-21T02:23:00.511Z"
+      "lastUpdated": "2025-10-21T03:29:49.829Z"
     },
     {
       "ticker": "CRL",
@@ -5965,7 +5965,7 @@
       "volume": 795217,
       "change": 5.619999999999976,
       "changePercent": 3.148106654716545,
-      "lastUpdated": "2025-10-21T02:23:00.360Z"
+      "lastUpdated": "2025-10-21T03:29:49.826Z"
     },
     {
       "ticker": "ICLR",
@@ -5978,7 +5978,7 @@
       "volume": 999956,
       "change": 3.3899999999999864,
       "changePercent": 1.8318383227061419,
-      "lastUpdated": "2025-10-21T02:23:00.423Z"
+      "lastUpdated": "2025-10-21T03:29:49.834Z"
     },
     {
       "ticker": "ED",
@@ -5991,7 +5991,7 @@
       "volume": 1126022,
       "change": 0.5300000000000011,
       "changePercent": 0.5237671706690396,
-      "lastUpdated": "2025-10-21T02:23:02.685Z"
+      "lastUpdated": "2025-10-21T03:29:52.062Z"
     },
     {
       "ticker": "D",
@@ -6004,7 +6004,7 @@
       "volume": 3725338,
       "change": 0.8700000000000045,
       "changePercent": 1.4361175305381388,
-      "lastUpdated": "2025-10-21T02:23:02.695Z"
+      "lastUpdated": "2025-10-21T03:29:51.994Z"
     },
     {
       "ticker": "FE",
@@ -6017,7 +6017,7 @@
       "volume": 2907862,
       "change": 0.259999999999998,
       "changePercent": 0.5535448158398936,
-      "lastUpdated": "2025-10-21T02:23:02.761Z"
+      "lastUpdated": "2025-10-21T03:29:52.003Z"
     },
     {
       "ticker": "AEE",
@@ -6030,7 +6030,7 @@
       "volume": 2137644,
       "change": 0.1700000000000017,
       "changePercent": 0.1611068991660365,
-      "lastUpdated": "2025-10-21T02:23:02.686Z"
+      "lastUpdated": "2025-10-21T03:29:52.005Z"
     },
     {
       "ticker": "LNT",
@@ -6043,7 +6043,7 @@
       "volume": 1504859,
       "change": 0.5200000000000102,
       "changePercent": 0.7639194946378879,
-      "lastUpdated": "2025-10-21T02:23:02.749Z"
+      "lastUpdated": "2025-10-21T03:29:51.988Z"
     },
     {
       "ticker": "EIX",
@@ -6056,7 +6056,7 @@
       "volume": 2075429,
       "change": 0.990000000000002,
       "changePercent": 1.7472643840451854,
-      "lastUpdated": "2025-10-21T02:23:04.945Z"
+      "lastUpdated": "2025-10-21T03:29:54.231Z"
     },
     {
       "ticker": "PCG",
@@ -6069,7 +6069,7 @@
       "volume": 13593429,
       "change": 0.259999999999998,
       "changePercent": 1.58343483556637,
-      "lastUpdated": "2025-10-21T02:23:04.953Z"
+      "lastUpdated": "2025-10-21T03:29:54.288Z"
     },
     {
       "ticker": "TSM",
@@ -6082,7 +6082,7 @@
       "volume": 13162424,
       "change": 2.6200000000000045,
       "changePercent": 0.8878948081876118,
-      "lastUpdated": "2025-10-21T02:23:04.968Z"
+      "lastUpdated": "2025-10-21T03:29:54.239Z"
     },
     {
       "ticker": "BABA",
@@ -6095,7 +6095,7 @@
       "volume": 20056257,
       "change": 6.4199999999999875,
       "changePercent": 3.843160730320256,
-      "lastUpdated": "2025-10-21T02:23:04.978Z"
+      "lastUpdated": "2025-10-21T03:29:54.257Z"
     },
     {
       "ticker": "NIO",
@@ -6108,7 +6108,7 @@
       "volume": 52359508,
       "change": 0.3099999999999996,
       "changePercent": 4.592592592592587,
-      "lastUpdated": "2025-10-21T02:23:04.972Z"
+      "lastUpdated": "2025-10-21T03:29:54.227Z"
     },
     {
       "ticker": "XPEV",
@@ -6121,7 +6121,7 @@
       "volume": 3443335,
       "change": 0.26000000000000156,
       "changePercent": 1.22641509433963,
-      "lastUpdated": "2025-10-21T02:23:07.147Z"
+      "lastUpdated": "2025-10-21T03:29:56.478Z"
     },
     {
       "ticker": "LI",
@@ -6134,7 +6134,7 @@
       "volume": 2334839,
       "change": 0.019999999999999574,
       "changePercent": 0.0888494002665463,
-      "lastUpdated": "2025-10-21T02:23:07.150Z"
+      "lastUpdated": "2025-10-21T03:29:56.446Z"
     },
     {
       "ticker": "TME",
@@ -6147,7 +6147,7 @@
       "volume": 3195239,
       "change": 0.379999999999999,
       "changePercent": 1.6994633273702997,
-      "lastUpdated": "2025-10-21T02:23:07.283Z"
+      "lastUpdated": "2025-10-21T03:29:56.457Z"
     },
     {
       "ticker": "VIPS",
@@ -6160,7 +6160,7 @@
       "volume": 1714447,
       "change": 0.21000000000000085,
       "changePercent": 1.1170212765957492,
-      "lastUpdated": "2025-10-21T02:23:07.232Z"
+      "lastUpdated": "2025-10-21T03:29:56.452Z"
     },
     {
       "ticker": "WB",
@@ -6173,7 +6173,7 @@
       "volume": 809336,
       "change": 0.15000000000000036,
       "changePercent": 1.341681574239717,
-      "lastUpdated": "2025-10-21T02:23:07.156Z"
+      "lastUpdated": "2025-10-21T03:29:56.524Z"
     },
     {
       "ticker": "TAL",
@@ -6186,7 +6186,7 @@
       "volume": 4195817,
       "change": 0.7400000000000002,
       "changePercent": 6.672678088367901,
-      "lastUpdated": "2025-10-21T02:23:09.463Z"
+      "lastUpdated": "2025-10-21T03:29:58.693Z"
     },
     {
       "ticker": "EDU",
@@ -6199,7 +6199,7 @@
       "volume": 824709,
       "change": 1.1700000000000017,
       "changePercent": 2.058771775470705,
-      "lastUpdated": "2025-10-21T02:23:09.467Z"
+      "lastUpdated": "2025-10-21T03:29:58.705Z"
     },
     {
       "ticker": "GSX",
@@ -6212,7 +6212,7 @@
       "volume": 9870,
       "change": 0.7643999999999984,
       "changePercent": 3.399705572332687,
-      "lastUpdated": "2025-10-21T02:23:09.479Z"
+      "lastUpdated": "2025-10-21T03:29:58.691Z"
     },
     {
       "ticker": "COE",
@@ -6225,7 +6225,7 @@
       "volume": 20943,
       "change": 6.020000000000003,
       "changePercent": 12.15179652805814,
-      "lastUpdated": "2025-10-21T02:23:09.458Z"
+      "lastUpdated": "2025-10-21T03:29:58.769Z"
     },
     {
       "ticker": "WIT",
@@ -6238,7 +6238,7 @@
       "volume": 12127817,
       "change": 0,
       "changePercent": 0,
-      "lastUpdated": "2025-10-21T02:23:09.541Z"
+      "lastUpdated": "2025-10-21T03:29:58.704Z"
     },
     {
       "ticker": "INFY",
@@ -6251,7 +6251,7 @@
       "volume": 19870808,
       "change": 0.5800000000000018,
       "changePercent": 3.5517452541335084,
-      "lastUpdated": "2025-10-21T02:23:11.729Z"
+      "lastUpdated": "2025-10-21T03:30:00.944Z"
     },
     {
       "ticker": "HDB",
@@ -6264,7 +6264,7 @@
       "volume": 4253843,
       "change": -0.10999999999999943,
       "changePercent": -0.2994011976047889,
-      "lastUpdated": "2025-10-21T02:23:11.722Z"
+      "lastUpdated": "2025-10-21T03:30:01.004Z"
     },
     {
       "ticker": "IBN",
@@ -6277,7 +6277,7 @@
       "volume": 8863869,
       "change": -1.9399999999999977,
       "changePercent": -5.889496053430473,
-      "lastUpdated": "2025-10-21T02:23:11.813Z"
+      "lastUpdated": "2025-10-21T03:30:00.944Z"
     },
     {
       "ticker": "SIFY",
@@ -6290,7 +6290,7 @@
       "volume": 236481,
       "change": -0.1999999999999993,
       "changePercent": -1.5163002274450288,
-      "lastUpdated": "2025-10-21T02:23:11.731Z"
+      "lastUpdated": "2025-10-21T03:30:00.945Z"
     },
     {
       "ticker": "REDF",
@@ -6303,7 +6303,7 @@
       "volume": 0,
       "change": 0,
       "changePercent": 0,
-      "lastUpdated": "2025-10-21T02:23:13.992Z"
+      "lastUpdated": "2025-10-21T03:30:03.169Z"
     },
     {
       "ticker": "MIND",
@@ -6316,7 +6316,7 @@
       "volume": 520637,
       "change": 0.9299999999999997,
       "changePercent": 9.327983951855563,
-      "lastUpdated": "2025-10-21T02:23:14.000Z"
+      "lastUpdated": "2025-10-21T03:30:03.253Z"
     },
     {
       "ticker": "RDY",
@@ -6329,7 +6329,7 @@
       "volume": 892416,
       "change": 0.3000000000000007,
       "changePercent": 2.0761245674740536,
-      "lastUpdated": "2025-10-21T02:23:13.998Z"
+      "lastUpdated": "2025-10-21T03:30:03.172Z"
     },
     {
       "ticker": "SPY",
@@ -6342,7 +6342,7 @@
       "volume": 60226054,
       "change": 6.909999999999968,
       "changePercent": 1.0400517768178281,
-      "lastUpdated": "2025-10-21T02:23:16.233Z"
+      "lastUpdated": "2025-10-21T03:30:05.522Z"
     },
     {
       "ticker": "QQQ",
@@ -6355,7 +6355,7 @@
       "volume": 45286407,
       "change": 7.610000000000014,
       "changePercent": 1.2600798105740754,
-      "lastUpdated": "2025-10-21T02:23:16.228Z"
+      "lastUpdated": "2025-10-21T03:30:05.429Z"
     },
     {
       "ticker": "IWM",
@@ -6368,7 +6368,7 @@
       "volume": 31109180,
       "change": 4.75,
       "changePercent": 1.9514399572737355,
-      "lastUpdated": "2025-10-21T02:23:16.265Z"
+      "lastUpdated": "2025-10-21T03:30:05.425Z"
     },
     {
       "ticker": "VTI",
@@ -6381,7 +6381,7 @@
       "volume": 3911724,
       "change": 3.6499999999999773,
       "changePercent": 1.115184845707295,
-      "lastUpdated": "2025-10-21T02:23:16.236Z"
+      "lastUpdated": "2025-10-21T03:30:05.428Z"
     },
     {
       "ticker": "VOO",
@@ -6394,7 +6394,7 @@
       "volume": 3994020,
       "change": 6.409999999999968,
       "changePercent": 1.0495120833060396,
-      "lastUpdated": "2025-10-21T02:23:16.295Z"
+      "lastUpdated": "2025-10-21T03:30:05.442Z"
     },
     {
       "ticker": "VEA",
@@ -6407,7 +6407,7 @@
       "volume": 7548641,
       "change": 0.5300000000000011,
       "changePercent": 0.8730028001976629,
-      "lastUpdated": "2025-10-21T02:23:18.544Z"
+      "lastUpdated": "2025-10-21T03:30:07.776Z"
     },
     {
       "ticker": "VWO",
@@ -6420,7 +6420,7 @@
       "volume": 6192326,
       "change": 0.6499999999999986,
       "changePercent": 1.1952923869069483,
-      "lastUpdated": "2025-10-21T02:23:18.474Z"
+      "lastUpdated": "2025-10-21T03:30:07.690Z"
     },
     {
       "ticker": "AGG",
@@ -6433,7 +6433,7 @@
       "volume": 7299142,
       "change": 0.1700000000000017,
       "changePercent": 0.16838351822504133,
-      "lastUpdated": "2025-10-21T02:23:18.520Z"
+      "lastUpdated": "2025-10-21T03:30:07.818Z"
     },
     {
       "ticker": "BND",
@@ -6446,7 +6446,7 @@
       "volume": 6284197,
       "change": 0.10000000000000853,
       "changePercent": 0.13354700854701992,
-      "lastUpdated": "2025-10-21T02:23:18.496Z"
+      "lastUpdated": "2025-10-21T03:30:07.680Z"
     },
     {
       "ticker": "TLT",
@@ -6459,7 +6459,7 @@
       "volume": 28123907,
       "change": 0.3499999999999943,
       "changePercent": 0.38377192982455516,
-      "lastUpdated": "2025-10-21T02:23:18.544Z"
+      "lastUpdated": "2025-10-21T03:30:07.698Z"
     },
     {
       "ticker": "GLD",
@@ -6472,7 +6472,7 @@
       "volume": 33563932,
       "change": 14.159999999999968,
       "changePercent": 3.6401964060772687,
-      "lastUpdated": "2025-10-21T02:23:20.729Z"
+      "lastUpdated": "2025-10-21T03:30:10.052Z"
     },
     {
       "ticker": "SLV",
@@ -6485,7 +6485,7 @@
       "volume": 35720628,
       "change": 0.7299999999999969,
       "changePercent": 1.553522025962964,
-      "lastUpdated": "2025-10-21T02:23:20.733Z"
+      "lastUpdated": "2025-10-21T03:30:10.054Z"
     },
     {
       "ticker": "USO",
@@ -6498,7 +6498,7 @@
       "volume": 5988014,
       "change": -0.15000000000000568,
       "changePercent": -0.22065313327450084,
-      "lastUpdated": "2025-10-21T02:23:20.744Z"
+      "lastUpdated": "2025-10-21T03:30:10.068Z"
     },
     {
       "ticker": "UNG",
@@ -6511,7 +6511,7 @@
       "volume": 20743881,
       "change": 1.0600000000000005,
       "changePercent": 8.930075821398487,
-      "lastUpdated": "2025-10-21T02:23:20.888Z"
+      "lastUpdated": "2025-10-21T03:30:10.016Z"
     },
     {
       "ticker": "TAN",
@@ -6524,7 +6524,7 @@
       "volume": 553782,
       "change": 0.6799999999999997,
       "changePercent": 1.4604810996563566,
-      "lastUpdated": "2025-10-21T02:23:20.730Z"
+      "lastUpdated": "2025-10-21T03:30:09.977Z"
     },
     {
       "ticker": "ICLN",
@@ -6537,7 +6537,7 @@
       "volume": 3597116,
       "change": 0.07000000000000028,
       "changePercent": 0.42347247428917284,
-      "lastUpdated": "2025-10-21T02:23:23.070Z"
+      "lastUpdated": "2025-10-21T03:30:12.237Z"
     },
     {
       "ticker": "PBW",
@@ -6550,7 +6550,7 @@
       "volume": 844447,
       "change": 1.1999999999999957,
       "changePercent": 3.652968036529667,
-      "lastUpdated": "2025-10-21T02:23:23.070Z"
+      "lastUpdated": "2025-10-21T03:30:12.230Z"
     },
     {
       "ticker": "QCLN",
@@ -6563,7 +6563,7 @@
       "volume": 88425,
       "change": 0.8599999999999994,
       "changePercent": 1.8888644849549736,
-      "lastUpdated": "2025-10-21T02:23:23.097Z"
+      "lastUpdated": "2025-10-21T03:30:12.227Z"
     },
     {
       "ticker": "FAN",
@@ -6576,7 +6576,7 @@
       "volume": 33863,
       "change": -0.17999999999999972,
       "changePercent": -0.8937437934458774,
-      "lastUpdated": "2025-10-21T02:23:23.071Z"
+      "lastUpdated": "2025-10-21T03:30:12.230Z"
     },
     {
       "ticker": "SMOG",
@@ -6589,7 +6589,7 @@
       "volume": 1800,
       "change": 0.382000000000005,
       "changePercent": 0.28970559237968496,
-      "lastUpdated": "2025-10-21T02:23:23.132Z"
+      "lastUpdated": "2025-10-21T03:30:12.227Z"
     },
     {
       "ticker": "SMCI",
@@ -6602,7 +6602,7 @@
       "volume": 34651234,
       "change": 2.8599999999999994,
       "changePercent": 5.481027213491759,
-      "lastUpdated": "2025-10-21T02:23:25.340Z"
+      "lastUpdated": "2025-10-21T03:30:14.445Z"
     },
     {
       "ticker": "IQ",
@@ -6615,7 +6615,7 @@
       "volume": 19646807,
       "change": 0.17000000000000037,
       "changePercent": 8.37438423645322,
-      "lastUpdated": "2025-10-21T02:23:25.308Z"
+      "lastUpdated": "2025-10-21T03:30:14.402Z"
     },
     {
       "ticker": "HUYA",
@@ -6628,7 +6628,7 @@
       "volume": 494705,
       "change": 0.050000000000000266,
       "changePercent": 1.7241379310344922,
-      "lastUpdated": "2025-10-21T02:23:25.306Z"
+      "lastUpdated": "2025-10-21T03:30:14.396Z"
     },
     {
       "ticker": "DOYU",
@@ -6641,7 +6641,7 @@
       "volume": 30035,
       "change": 0.11000000000000032,
       "changePercent": 1.6272189349112474,
-      "lastUpdated": "2025-10-21T02:23:25.308Z"
+      "lastUpdated": "2025-10-21T03:30:14.408Z"
     },
     {
       "ticker": "MOGO",
@@ -6654,7 +6654,7 @@
       "volume": 101609,
       "change": 0.020000000000000018,
       "changePercent": 1.142857142857144,
-      "lastUpdated": "2025-10-21T02:23:25.302Z"
+      "lastUpdated": "2025-10-21T03:30:14.401Z"
     },
     {
       "ticker": "RIVN",
@@ -6667,7 +6667,7 @@
       "volume": 35260337,
       "change": 0.05000000000000071,
       "changePercent": 0.3837298541826609,
-      "lastUpdated": "2025-10-21T02:23:27.535Z"
+      "lastUpdated": "2025-10-21T03:30:16.690Z"
     },
     {
       "ticker": "LCID",
@@ -6680,7 +6680,7 @@
       "volume": 5177933,
       "change": 0.26000000000000156,
       "changePercent": 1.324503311258286,
-      "lastUpdated": "2025-10-21T02:23:27.551Z"
+      "lastUpdated": "2025-10-21T03:30:16.650Z"
     },
     {
       "ticker": "F",
@@ -6693,7 +6693,7 @@
       "volume": 73930490,
       "change": 0.07000000000000028,
       "changePercent": 0.5872483221476533,
-      "lastUpdated": "2025-10-21T02:23:27.525Z"
+      "lastUpdated": "2025-10-21T03:30:16.688Z"
     },
     {
       "ticker": "GM",
@@ -6706,7 +6706,7 @@
       "volume": 10156604,
       "change": -0.38000000000000256,
       "changePercent": -0.6509078451524538,
-      "lastUpdated": "2025-10-21T02:23:29.825Z"
+      "lastUpdated": "2025-10-21T03:30:18.870Z"
     },
     {
       "ticker": "FORD",
@@ -6719,7 +6719,7 @@
       "volume": 604608,
       "change": -1.4100000000000001,
       "changePercent": -6.482758620689657,
-      "lastUpdated": "2025-10-21T02:23:29.763Z"
+      "lastUpdated": "2025-10-21T03:30:18.852Z"
     },
     {
       "ticker": "TM",
@@ -6732,7 +6732,7 @@
       "volume": 193567,
       "change": 2.280000000000001,
       "changePercent": 1.1525046757316895,
-      "lastUpdated": "2025-10-21T02:23:29.754Z"
+      "lastUpdated": "2025-10-21T03:30:18.853Z"
     },
     {
       "ticker": "HMC",
@@ -6745,7 +6745,7 @@
       "volume": 496883,
       "change": 0.46000000000000085,
       "changePercent": 1.4925373134328386,
-      "lastUpdated": "2025-10-21T02:23:29.843Z"
+      "lastUpdated": "2025-10-21T03:30:19.035Z"
     },
     {
       "ticker": "VWAGY",
@@ -6758,7 +6758,7 @@
       "volume": 17428,
       "change": -0.16000000000000014,
       "changePercent": -1.4652014652014667,
-      "lastUpdated": "2025-10-21T02:23:32.057Z"
+      "lastUpdated": "2025-10-21T03:30:21.218Z"
     },
     {
       "ticker": "RACE",
@@ -6771,7 +6771,7 @@
       "volume": 630504,
       "change": -0.7699999999999818,
       "changePercent": -0.1929437706725423,
-      "lastUpdated": "2025-10-21T02:23:32.105Z"
+      "lastUpdated": "2025-10-21T03:30:21.258Z"
     },
     {
       "ticker": "STLA",
@@ -6784,7 +6784,7 @@
       "volume": 15975124,
       "change": 0.129999999999999,
       "changePercent": 1.2310606060605966,
-      "lastUpdated": "2025-10-21T02:23:34.287Z"
+      "lastUpdated": "2025-10-21T03:30:23.638Z"
     },
     {
       "ticker": "STAG",
@@ -6797,7 +6797,7 @@
       "volume": 1162440,
       "change": 0.6000000000000014,
       "changePercent": 1.571503404924048,
-      "lastUpdated": "2025-10-21T02:23:34.292Z"
+      "lastUpdated": "2025-10-21T03:30:23.566Z"
     },
     {
       "ticker": "LTC",
@@ -6810,7 +6810,7 @@
       "volume": 269356,
       "change": 0.3100000000000023,
       "changePercent": 0.8801817149347027,
-      "lastUpdated": "2025-10-21T02:23:34.300Z"
+      "lastUpdated": "2025-10-21T03:30:23.570Z"
     },
     {
       "ticker": "OHI",
@@ -6823,7 +6823,7 @@
       "volume": 866230,
       "change": -0.010000000000005116,
       "changePercent": -0.024354603019983233,
-      "lastUpdated": "2025-10-21T02:23:34.368Z"
+      "lastUpdated": "2025-10-21T03:30:23.584Z"
     },
     {
       "ticker": "MPW",
@@ -6836,7 +6836,7 @@
       "volume": 3691065,
       "change": 0.08000000000000007,
       "changePercent": 1.5564202334630364,
-      "lastUpdated": "2025-10-21T02:23:36.555Z"
+      "lastUpdated": "2025-10-21T03:30:25.878Z"
     },
     {
       "ticker": "DOC",
@@ -6849,7 +6849,7 @@
       "volume": 4303454,
       "change": 0.16999999999999815,
       "changePercent": 0.9164420485175103,
-      "lastUpdated": "2025-10-21T02:23:36.562Z"
+      "lastUpdated": "2025-10-21T03:30:25.809Z"
     },
     {
       "ticker": "GMRE",
@@ -6862,7 +6862,7 @@
       "volume": 167893,
       "change": -0.05000000000000071,
       "changePercent": -0.15649452269170802,
-      "lastUpdated": "2025-10-21T02:23:36.561Z"
+      "lastUpdated": "2025-10-21T03:30:25.807Z"
     },
     {
       "ticker": "AGNC",
@@ -6875,7 +6875,7 @@
       "volume": 24562841,
       "change": 0.10999999999999943,
       "changePercent": 1.1011011011010954,
-      "lastUpdated": "2025-10-21T02:23:36.562Z"
+      "lastUpdated": "2025-10-21T03:30:25.825Z"
     },
     {
       "ticker": "NLY",
@@ -6888,7 +6888,7 @@
       "volume": 4496643,
       "change": 0.3099999999999987,
       "changePercent": 1.4903846153846092,
-      "lastUpdated": "2025-10-21T02:23:38.737Z"
+      "lastUpdated": "2025-10-21T03:30:28.187Z"
     },
     {
       "ticker": "CIM",
@@ -6901,7 +6901,7 @@
       "volume": 665109,
       "change": 0.23000000000000043,
       "changePercent": 1.8067556952081727,
-      "lastUpdated": "2025-10-21T02:23:38.743Z"
+      "lastUpdated": "2025-10-21T03:30:28.133Z"
     },
     {
       "ticker": "TWO",
@@ -6914,7 +6914,7 @@
       "volume": 903864,
       "change": 0.09000000000000163,
       "changePercent": 0.9355509355509526,
-      "lastUpdated": "2025-10-21T02:23:38.765Z"
+      "lastUpdated": "2025-10-21T03:30:28.119Z"
     },
     {
       "ticker": "MFA",
@@ -6927,7 +6927,7 @@
       "volume": 858535,
       "change": 0.11999999999999922,
       "changePercent": 1.3245033112582694,
-      "lastUpdated": "2025-10-21T02:23:38.741Z"
+      "lastUpdated": "2025-10-21T03:30:28.112Z"
     },
     {
       "ticker": "NYMT",
@@ -6940,7 +6940,7 @@
       "volume": 820940,
       "change": -0.10999999999999943,
       "changePercent": -1.5235457063711833,
-      "lastUpdated": "2025-10-21T02:23:38.830Z"
+      "lastUpdated": "2025-10-21T03:30:28.184Z"
     },
     {
       "ticker": "RC",
@@ -6953,7 +6953,7 @@
       "volume": 2041155,
       "change": -0.010000000000000231,
       "changePercent": -0.30864197530864906,
-      "lastUpdated": "2025-10-21T02:23:41.012Z"
+      "lastUpdated": "2025-10-21T03:30:30.340Z"
     },
     {
       "ticker": "BXMT",
@@ -6966,7 +6966,7 @@
       "volume": 1343077,
       "change": 0.07000000000000028,
       "changePercent": 0.3930376193149932,
-      "lastUpdated": "2025-10-21T02:23:41.013Z"
+      "lastUpdated": "2025-10-21T03:30:30.349Z"
     },
     {
       "ticker": "TRTX",
@@ -6979,7 +6979,7 @@
       "volume": 480322,
       "change": 0.21999999999999886,
       "changePercent": 2.567094515752612,
-      "lastUpdated": "2025-10-21T02:23:41.009Z"
+      "lastUpdated": "2025-10-21T03:30:30.356Z"
     },
     {
       "ticker": "KREF",
@@ -6992,7 +6992,7 @@
       "volume": 992093,
       "change": -0.08000000000000007,
       "changePercent": -0.9269988412514492,
-      "lastUpdated": "2025-10-21T02:23:41.014Z"
+      "lastUpdated": "2025-10-21T03:30:30.340Z"
     },
     {
       "ticker": "GME",
@@ -7005,7 +7005,7 @@
       "volume": 3633300,
       "change": 0.3000000000000007,
       "changePercent": 1.3003901170351135,
-      "lastUpdated": "2025-10-21T02:23:41.025Z"
+      "lastUpdated": "2025-10-21T03:30:30.359Z"
     },
     {
       "ticker": "AMC",
@@ -7018,7 +7018,7 @@
       "volume": 23577585,
       "change": 0.029999999999999805,
       "changePercent": 1.0948905109488978,
-      "lastUpdated": "2025-10-21T02:23:43.201Z"
+      "lastUpdated": "2025-10-21T03:30:32.570Z"
     },
     {
       "ticker": "BB",
@@ -7031,7 +7031,7 @@
       "volume": 6799443,
       "change": 0.08999999999999986,
       "changePercent": 2.0044543429844066,
-      "lastUpdated": "2025-10-21T02:23:43.208Z"
+      "lastUpdated": "2025-10-21T03:30:32.526Z"
     },
     {
       "ticker": "NOK",
@@ -7044,7 +7044,7 @@
       "volume": 35421013,
       "change": -0.03000000000000025,
       "changePercent": -0.5226480836236976,
-      "lastUpdated": "2025-10-21T02:23:43.209Z"
+      "lastUpdated": "2025-10-21T03:30:32.528Z"
     },
     {
       "ticker": "SNDL",
@@ -7057,7 +7057,7 @@
       "volume": 1640131,
       "change": 0.029999999999999805,
       "changePercent": 1.2875536480686611,
-      "lastUpdated": "2025-10-21T02:23:43.200Z"
+      "lastUpdated": "2025-10-21T03:30:32.526Z"
     },
     {
       "ticker": "CLOV",
@@ -7070,7 +7070,7 @@
       "volume": 8762426,
       "change": 0.20999999999999996,
       "changePercent": 7.749077490774907,
-      "lastUpdated": "2025-10-21T02:23:43.202Z"
+      "lastUpdated": "2025-10-21T03:30:32.584Z"
     },
     {
       "ticker": "SPCE",
@@ -7083,10 +7083,10 @@
       "volume": 2767108,
       "change": 0.05999999999999961,
       "changePercent": 1.470588235294108,
-      "lastUpdated": "2025-10-21T02:23:45.384Z"
+      "lastUpdated": "2025-10-21T03:30:34.851Z"
     }
   ],
-  "lastUpdated": "2025-10-21T02:23:45.439Z",
+  "lastUpdated": "2025-10-21T03:30:34.872Z",
   "totalStocks": 545,
   "version": "1.0"
 }

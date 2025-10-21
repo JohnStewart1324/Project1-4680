@@ -11,6 +11,10 @@ import Home from './pages/Home'
 import Details from './pages/Details'
 import SideAIChat from './components/SideAIChat'
 import FundGraph from './components/FundGraph'
+import AccountBalance from './components/AccountBalance'
+import InvestmentModal from './components/InvestmentModal'
+import Portfolio from './components/Portfolio'
+import { loadTradingAccount, saveTradingAccount, resetTradingAccount, addFunds as addFundsToAccount, buyStock, TradingAccount } from './utils/tradingStorage'
 import stocksData from './data/stocks.json'
 import './styles/globals.css'
 
@@ -44,6 +48,57 @@ function App() {
   // Fund Graph state
   const [isGraphOpen, setIsGraphOpen] = useState(false)
   const [selectedFund, setSelectedFund] = useState<{symbol: string, name: string} | null>(null)
+
+  // Trading Account state
+  const [tradingAccount, setTradingAccount] = useState<TradingAccount>({ balance: 10000, holdings: [], lastUpdated: new Date().toISOString() })
+  const [investmentStock, setInvestmentStock] = useState<Stock | null>(null)
+  const [showInvestmentModal, setShowInvestmentModal] = useState(false)
+
+  // Load trading account from localStorage on mount
+  useEffect(() => {
+    const account = loadTradingAccount()
+    setTradingAccount(account)
+    console.log('💰 Loaded trading account:', account)
+  }, [])
+
+  // Trading functions
+  const handleAddFunds = (amount: number) => {
+    const updated = addFundsToAccount(tradingAccount, amount)
+    setTradingAccount(updated)
+    console.log(`💰 Added $${amount} to account. New balance: $${updated.balance}`)
+  }
+
+  const handleResetAccount = () => {
+    const newAccount = resetTradingAccount()
+    setTradingAccount(newAccount)
+    console.log('🔄 Account reset to default')
+  }
+
+  const handleInvestClick = (stock: Stock) => {
+    setInvestmentStock(stock)
+    setShowInvestmentModal(true)
+  }
+
+  const handleInvest = (shares: number, totalCost: number) => {
+    if (investmentStock) {
+      const updated = buyStock(
+        tradingAccount,
+        investmentStock.ticker,
+        investmentStock.name,
+        shares,
+        investmentStock.price
+      )
+      
+      if (updated) {
+        setTradingAccount(updated)
+        setShowInvestmentModal(false)
+        setInvestmentStock(null)
+        console.log(`✅ Invested $${totalCost} in ${investmentStock.ticker} (${shares} shares)`)
+      } else {
+        alert('Investment failed - insufficient funds')
+      }
+    }
+  }
 
   // Load initial stock data
   useEffect(() => {
@@ -227,10 +282,10 @@ function App() {
         {/* Main Content - Full Width */}
         <main className="flex-1 flex flex-col">
           {/* Header */}
-          <header className="h-20 flex-none border-b border-dark-300 p-4 bg-dark-200">
-            <div className="flex items-center justify-between h-full">
+          <header className="flex-none border-b border-dark-300 p-4 bg-dark-200">
+            <div className="flex items-center justify-between mb-4">
               <div>
-                <h1 className="text-2xl font-bold text-white">Stock Viewer</h1>
+                <h1 className="text-2xl font-bold text-white">Practice Trading Simulator</h1>
                 <p className="text-sm text-gray-400">Real-time stock data with AI-powered insights</p>
               </div>
               
@@ -258,6 +313,13 @@ function App() {
                 </span>
               </button>
             </div>
+            
+            {/* Account Balance */}
+            <AccountBalance
+              balance={tradingAccount.balance}
+              onAddFunds={handleAddFunds}
+              onResetAccount={handleResetAccount}
+            />
           </header>
 
           {/* Search Bar */}
@@ -347,6 +409,18 @@ function App() {
               >
                 ₿ Crypto
               </button>
+
+              <button
+                onClick={() => setCurrentCategory('my-investments')}
+                disabled={isLoadingCategory}
+                className={`px-4 py-2 rounded-lg font-medium transition-colors ${
+                  currentCategory === 'my-investments'
+                    ? 'bg-green-600 text-white'
+                    : 'bg-gray-600 text-gray-300 hover:bg-gray-500'
+                } ${isLoadingCategory ? 'opacity-50 cursor-not-allowed' : ''}`}
+              >
+                💼 My Investments
+              </button>
             </div>
             
           </div>
@@ -376,6 +450,29 @@ function App() {
                 onUseMockData={() => setUseMockData(true)}
                 isLoading={isLoadingStocks}
               />
+            ) : currentCategory === 'my-investments' ? (
+              <div>
+                {/* My Investments View */}
+                {tradingAccount.holdings.length === 0 ? (
+                  <div className="text-center text-gray-400 py-20">
+                    <div className="text-6xl mb-4">💼</div>
+                    <p className="text-2xl mb-2 font-semibold">No Investments Yet</p>
+                    <p className="text-lg">Start investing by clicking the "Invest" button on any stock!</p>
+                    <button
+                      onClick={() => setCurrentCategory('all')}
+                      className="mt-6 px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white rounded-lg font-medium transition-colors"
+                    >
+                      Browse All Stocks
+                    </button>
+                  </div>
+                ) : (
+                  <Portfolio
+                    holdings={tradingAccount.holdings}
+                    stocks={stocks}
+                    onSelectStock={handleStockSelect}
+                  />
+                )}
+              </div>
             ) : filteredStocks.length === 0 ? (
               <div className="text-center text-gray-400 py-10">
                 <p className="text-lg mb-2">No stocks found.</p>
@@ -425,7 +522,8 @@ function App() {
                       key={stock.ticker}
                       stock={stock}
                       onSelect={() => handleStockSelect(stock)}
-          searchQuery={searchQuery}
+                      onInvest={handleInvestClick}
+                      searchQuery={searchQuery}
                     />
                   ))}
                 </div>
@@ -452,6 +550,19 @@ function App() {
           }}
           fundSymbol={selectedFund.symbol}
           fundName={selectedFund.name}
+        />
+      )}
+
+      {/* Investment Modal */}
+      {showInvestmentModal && investmentStock && (
+        <InvestmentModal
+          stock={investmentStock}
+          balance={tradingAccount.balance}
+          onInvest={handleInvest}
+          onClose={() => {
+            setShowInvestmentModal(false)
+            setInvestmentStock(null)
+          }}
         />
       )}
     </ErrorBoundary>

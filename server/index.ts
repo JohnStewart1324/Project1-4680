@@ -454,25 +454,31 @@ let stockCache: StockCache | null = null
  */
 async function fetchStockData(symbol: string): Promise<Stock | null> {
   try {
-    // First try the quote endpoint for detailed financial data
-    const quoteUrl = `https://query1.finance.yahoo.com/v7/finance/quote?symbols=${symbol}`
+    // Try the quoteSummary endpoint for comprehensive financial data
+    const quoteSummaryUrl = `https://query2.finance.yahoo.com/v10/finance/quoteSummary/${symbol}?modules=price,summaryDetail,defaultKeyStatistics`
     
     let detailedData = null
+    let summaryData = null
+    
     try {
-      const quoteResponse = await fetch(quoteUrl, {
+      const summaryResponse = await fetch(quoteSummaryUrl, {
         headers: {
-          'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+          'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+          'Accept': 'application/json',
+          'Accept-Language': 'en-US,en;q=0.9',
+          'Referer': `https://finance.yahoo.com/quote/${symbol}`
         }
       })
 
-      if (quoteResponse.ok) {
-        const quoteData = await quoteResponse.json()
-        if (quoteData.quoteResponse && quoteData.quoteResponse.result && quoteData.quoteResponse.result[0]) {
-          detailedData = quoteData.quoteResponse.result[0]
+      if (summaryResponse.ok) {
+        const summaryJson = await summaryResponse.json()
+        if (summaryJson.quoteSummary && summaryJson.quoteSummary.result && summaryJson.quoteSummary.result[0]) {
+          summaryData = summaryJson.quoteSummary.result[0]
+          console.log(`✅ Got detailed data for ${symbol}`)
         }
       }
     } catch (error) {
-      console.log(`⚠️ Quote endpoint failed for ${symbol}, using chart endpoint`)
+      console.log(`⚠️ QuoteSummary endpoint failed for ${symbol}`)
     }
 
     // Use chart endpoint for basic price data
@@ -535,22 +541,55 @@ async function fetchStockData(symbol: string): Promise<Stock | null> {
         }
       }
 
-      // Extract financial metrics from detailed data if available
+      // Extract financial metrics from summary data if available
       let pe = null
       let dividendYield = null
       let marketCap = null
 
-      if (detailedData && !isCrypto) {
-        pe = detailedData.trailingPE || detailedData.forwardPE || null
-        dividendYield = detailedData.dividendYield || detailedData.trailingAnnualDividendYield || null
-        marketCap = detailedData.marketCap || detailedData.regularMarketPrice * detailedData.sharesOutstanding || null
+      if (summaryData && !isCrypto) {
+        // Extract from summaryDetail module
+        const summaryDetail = summaryData.summaryDetail
+        const price = summaryData.price
+        const keyStats = summaryData.defaultKeyStatistics
+        
+        // P/E Ratio - try multiple sources
+        if (summaryDetail) {
+          pe = summaryDetail.trailingPE?.raw || summaryDetail.forwardPE?.raw || null
+        }
+        if (!pe && keyStats) {
+          pe = keyStats.trailingPE?.raw || keyStats.forwardPE?.raw || null
+        }
+        
+        // Dividend Yield - already in percentage form
+        if (summaryDetail && summaryDetail.dividendYield) {
+          dividendYield = summaryDetail.dividendYield.raw * 100 // Convert to percentage
+        } else if (summaryDetail && summaryDetail.trailingAnnualDividendYield) {
+          dividendYield = summaryDetail.trailingAnnualDividendYield.raw * 100
+        }
+        
+        // Market Cap
+        if (price && price.marketCap) {
+          marketCap = price.marketCap.raw || null
+        } else if (summaryDetail && summaryDetail.marketCap) {
+          marketCap = summaryDetail.marketCap.raw || null
+        }
       }
 
-      // If we still don't have market cap, try to estimate it
+      // Fallback to chart metadata if summary data not available
+      if (!pe && meta.trailingPE) {
+        pe = meta.trailingPE
+      }
+      if (!dividendYield && meta.dividendYield) {
+        dividendYield = meta.dividendYield * 100
+      }
+      if (!marketCap && meta.marketCap) {
+        marketCap = meta.marketCap
+      }
+      
+      // Last resort: calculate market cap from shares outstanding
       if (!marketCap && !isCrypto && regularMarketPrice > 0) {
-        // Try to get shares outstanding from the chart data
         const sharesOutstanding = meta.sharesOutstanding || null
-        if (sharesOutstanding) {
+        if (sharesOutstanding && sharesOutstanding > 0) {
           marketCap = regularMarketPrice * sharesOutstanding
         }
       }
