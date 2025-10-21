@@ -1,0 +1,85 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    @apply border-transparent;
+  }
+  
+  body {
+    @apply bg-dark-100 text-white font-sans;
+  }
+  
+  html {
+    @apply bg-dark-100;
+  }
+}
+
+@layer components {
+  .card {
+    @apply bg-dark-200 border border-dark-300 rounded-lg p-4 shadow-lg;
+  }
+  
+  .btn-primary {
+    @apply bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-md transition-colors duration-200;
+  }
+  
+  .btn-secondary {
+    @apply bg-dark-300 hover:bg-dark-400 text-white px-4 py-2 rounded-md transition-colors duration-200;
+  }
+  
+  .input-field {
+    @apply bg-dark-200 border border-dark-300 rounded-md px-3 py-2 text-white placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent;
+  }
+  
+  .stock-card {
+    @apply card hover:bg-dark-300 transition-colors duration-200 cursor-pointer;
+  }
+  
+  .positive-change {
+    @apply text-green-400;
+  }
+  
+  .negative-change {
+    @apply text-red-400;
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-dark-200;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-dark-400 rounded-full;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-dark-500;
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.fade-in {
+  animation: fadeIn 0.3s ease-out;
+}
+
+/* Loading spinner */
+.spinner {
+  @apply animate-spin rounded-full h-6 w-6 border-b-2 border-blue-500;
+}
