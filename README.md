@@ -5,8 +5,23 @@ A comprehensive desktop application for real-time stock market analysis with AI-
 ## 🚀 Quick Start
 
 ### First Time Setup
+
+1. **Install dependencies**
 ```bash
 npm install
+```
+
+2. **Set up API Key** (Required for AI features)
+```bash
+# Copy the example environment file
+cp .env.example .env
+
+# Edit .env and add your Gemini API key
+# Get a free key at: https://makersuite.google.com/app/apikey
+```
+
+3. **Build the application**
+```bash
 npm run build
 ```
 

@@ -2,7 +2,8 @@ import React, { useState, useEffect } from 'react'
 import { Stock } from '../utils/aiFilter'
 
 // WORKING GEMINI API IMPLEMENTATION - TESTED AND VERIFIED
-const WORKING_API_KEY = 'AIzaSyB4NzbWgOHnDHUAEi_phPwkAFgBQTNT0ro'
+// API key is loaded from .env file (not committed to git)
+const WORKING_API_KEY = import.meta.env.VITE_GEMINI_API_KEY || ''
 const WORKING_MODEL = 'gemini-2.5-flash'
 
 const callGeminiAPI = async (prompt: string) => {
